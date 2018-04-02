@@ -1,0 +1,32 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/yo_19.png",
+      "default_popup": "popup.html",
+      "default_title": "YoWindow"
+   },"content_scripts": [  {
+      "all_frames": true,
+      "js": [ "postload.js" ],
+      "match_about_blank": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "http://yowindow.com/?cid=chrome_ext",
+   "icons": {
+      "128": "img/yo_128.png",
+      "16": "img/yo_16.png",
+      "48": "img/yo_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCb+45JOMLB/k9t1BqXhzb9B5/aAeHTBCW5tcMqdyLOZpHgeU1q/w8gUh1t4lxZ3hadoNI8TtBTqp5hb5gZspW8iqLZLmjmKpAX+z74z6aRb+A0J1FCDQzbEv+izS2c+9ZtnDINvJCjM+qT4+FUf0ATDyLLk/sPQdzgJAM9CN9KcQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "optionsPage.html",
+   "permissions": [ "http://*.yowindow.com/*" ], 
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.88"
+}

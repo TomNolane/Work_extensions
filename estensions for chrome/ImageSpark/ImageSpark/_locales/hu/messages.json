@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "LETÖLTÉS"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Letöltés"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Az erős kép letöltő, amely lehetővé teszi , hogy böngészés , és töltse le az összes megjelenített képek bármely weboldalra."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Képek Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nHúha , ez a weboldal nem támogatott! Kérjük, próbálja meg egy másik weboldalra.\n\u003Cbr>\n\u003Cbr>\nHa a probléma továbbra is fennáll , ellenőrizze, hogy a JavaScript engedélyezve van és fut újra.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "betöltés"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Nyitott mappa"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Megnyitás új lapon"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Mindet kiválaszt"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ELMENTSE ALMAPPA"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Állítsa be a nevét a kívánt almappát töltse le a képeket ."
+   }
+}

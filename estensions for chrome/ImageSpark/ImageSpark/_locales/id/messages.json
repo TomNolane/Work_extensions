@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DOWNLOAD"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Download"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Downloader gambar yang kuat , yang memungkinkan Anda untuk menelusuri dan men-download semua gambar ditampilkan pada setiap halaman web ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Gambar Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , halaman web ini tidak didukung ! Silakan coba menggunakan halaman web lain .\n\u003Cbr>\n\u003Cbr>\nJika masalah terus berlanjut , harap verifikasi bahwa javascript diaktifkan dan berjalan ini lagi .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "pemuatan"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Folder terbuka"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Terbuka di tab baru"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Pilih Semua"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "MENYIMPAN KE SUBFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Mengatur nama subfolder Anda ingin men-download gambar untuk ."
+   }
+}

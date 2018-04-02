@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+
+  "name": "YouTube Downloader",
+  "description": "Простой способ скачать видео с YouTube Video",
+  "version": "1.5.8",
+  "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "icons/icon19.png",
+      "38": "icons/icon38.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "default_locale" : "ru",
+  "permissions": [
+    "<all_urls>",
+    "tabs"
+  ],
+  "content_scripts": [{
+        "matches":    ["*://*/*"],
+        "js":         ["js/content.js"],
+        "run_at": "document_end",
+        "all_frames": true
+    }],
+	"web_accessible_resources": [
+    "js/content.js"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "डाउनलोड"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "डाउनलोड"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "शक्तिशाली प्रतिमा डाउनलोडर , आपण ब्राउझ आणि कोणत्याही वेब पृष्ठावर प्रदर्शित सर्व प्रतिमा डाउनलोड करण्यास परवानगी देते ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate प्रतिमा Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nओहो, हे वेबपृष्ठ समर्थित नाही ! दुसर्या वेब पृष्ठाचा वापरून प्रयत्न करा.\n\u003Cbr>\n\u003Cbr>\nसमस्या कायम राहिल्यास, सक्षम आणि पुन्हा चालू आहे जावास्क्रिप्ट हे सत्यापित करा.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "लोड"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "खुले फोल्डर"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "नवीन टॅबमध्ये उघडा"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "सर्व निवडा"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "उपफोल्डर जतन"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "आपण प्रतिमा डाउनलोड करू इच्छिता उपफोल्डर नाव सेट करा."
+   }
+}

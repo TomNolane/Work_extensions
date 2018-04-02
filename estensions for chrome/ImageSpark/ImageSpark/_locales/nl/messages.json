@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DOWNLOADEN"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Downloaden"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "De krachtig beeld downloader , die u toelaat om te bladeren en te downloaden alle afbeeldingen weergegeven op een willekeurige webpagina."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Afbeeldingen Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, deze webpagina wordt niet ondersteund ! Probeer het met een andere webpagina.\n\u003Cbr>\n\u003Cbr>\nAls het probleem aanhoudt , controleert u of javascript is ingeschakeld en loopt dit weer .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "het laden"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Open folder"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Openen in nieuw tabblad"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Selecteer alles"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "OPSLAAN SUBMAP"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Stel de naam van de submap die u wilt de beelden te downloaden ."
+   }
+}

@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "STIAHNUŤ ▼"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Stiahnuť ▼"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Výkonný image downloader , ktorý vám umožní prezerať a stiahnuť všetky obrázky zobrazené na ľubovoľnej webovej stránky ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Snímky Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, táto webová stránka nie je podporovaný ! Skúste použiť inú webovú stránku .\n\u003Cbr>\n\u003Cbr>\nAk problém pretrváva , skontrolujte, či je povolený JavaScript a to opäť v prevádzke .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "načítava"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Otvorte zložku"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Otvoriť v novej karte"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Vybrať všetko"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ULOŽIŤ DO PODADRESÁRA"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Nastaviť názov podzložky chcete stiahnuť obrázky do ."
+   }
+}

@@ -1,0 +1,155 @@
+{
+   "abort": {
+      "message": "Anulowano"
+   },
+   "additionalSettings": {
+      "message": "Dodatkowe ustawienia"
+   },
+   "allowAdsText": {
+      "message": "Drogi przyjacielu! To rozszerzenie jest całkowicie bezpłatne dla Ciebie i zawsze staram się aktualizować i działać jak tylko następna aktualizacja witryny VKontakte zajęła dużo czasu. czas i wysiłek, aby rozwinąć i utrzymać aplikację, a żeby to zrekompensować, połączyłem monetyzację, która absolutnie nie powinna zakłócać Twojego pobytu w Internecie. Wszystko, co robi, to zastąpienie niektórych linków. Bez pop-upów, nowych kart, itp. nie wystąpią, ale jeśli jest to dla ciebie krytyczne, lub zasadniczo nie chcesz dać mi okazji do nagrody za moją pracę, zrozumiem to i znowu, pozwolę ci uwolnić to ogłoszenie za darmo . "
+   },
+   "cancelAll": {
+      "message": "Anuluj wszystko"
+   },
+   "clearHistory": {
+      "message": "Wyczyść historię"
+   },
+   "day": {
+      "message": "Dzień"
+   },
+   "desc": {
+      "message": "Szybki i łatwy sposób pobierania audiofiles vk.com. Vk Music Download pozwala na zapisanie muzyki Vkontakte."
+   },
+   "disableAds": {
+      "message": "Wyłącz reklamy niewidoczne"
+   },
+   "downloadAll": {
+      "message": "Pobierz wszystko"
+   },
+   "downloadAllBtn": {
+      "message": "Przycisk \" Pobierz wszystko \":"
+   },
+   "downloadAllBtnOff": {
+      "message": "Off"
+   },
+   "downloadAllBtnOn": {
+      "message": "On"
+   },
+   "downloaded": {
+      "message": "Pobrano"
+   },
+   "emptyHistoryMsg": {
+      "message": "Wyświetli historię pobranych rekordów"
+   },
+   "error": {
+      "message": "Błąd"
+   },
+   "goToDownloadsFolder": {
+      "message": "Przejdź do folderu pobrań"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "inProcess": {
+      "message": "Pobieranie"
+   },
+   "inQueue": {
+      "message": "W kolejce do pobrania"
+   },
+   "mainSettings": {
+      "message": "Podstawowe ustawienia"
+   },
+   "month": {
+      "message": "Miesiąc"
+   },
+   "name": {
+      "message": "VK Music Download - Save Vkontakte audio"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "showInfoAll": {
+      "message": "Pokaż bitrate i rozmiar"
+   },
+   "showInfoBitrate": {
+      "message": "Tylko bitrate"
+   },
+   "showInfoOff": {
+      "message": "Nie pokazuj bitrate i rozmiaru"
+   },
+   "showInfoSize": {
+      "message": "Tylko rozmiar"
+   },
+   "supportDeveloper": {
+      "message": "Programista wsparcia:"
+   },
+   "title": {
+      "message": "VK.com Audiofiles"
+   },
+   "tutModalText0": {
+      "message": "Ustawienia pobierania muzyki"
+   },
+   "tutModalText1": {
+      "message": "Cześć! Ta wiadomość pochodzi od autora rozszerzenia dla"
+   },
+   "tutModalText10": {
+      "message": "Tylko rozmiar"
+   },
+   "tutModalText11": {
+      "message": "Szybkość i rozmiar"
+   },
+   "tutModalText12": {
+      "message": "Bitrate / Size Display"
+   },
+   "tutModalText13": {
+      "message": "Jeśli spodoba ci się to rozszerzenie, będzie dobrze, jeśli zostawisz dobre"
+   },
+   "tutModalText14": {
+      "message": "recenzja w sklepie z aplikacjami"
+   },
+   "tutModalText15": {
+      "message": "jeśli są jakieś problemy lub sugestie - napisz do"
+   },
+   "tutModalText16": {
+      "message": "strona wsparcia"
+   },
+   "tutModalText17": {
+      "message": "Postaram się rozwiązać wszystko."
+   },
+   "tutModalText18": {
+      "message": "Cancel"
+   },
+   "tutModalText19": {
+      "message": "Save"
+   },
+   "tutModalText2": {
+      "message": "pobierz muzykę z VK"
+   },
+   "tutModalText3": {
+      "message": "Cały czas pracuję nad ulepszeniem i dodaniem funkcji, o które pytasz."
+   },
+   "tutModalText4": {
+      "message": "Najnowsza aktualizacja dodała"
+   },
+   "tutModalText5": {
+      "message": "pobierz muzykę z całych albumów"
+   },
+   "tutModalText6": {
+      "message": "ale nie każdy chce zobaczyć dodatkowy przycisk w domu, więc ta funkcja jest domyślnie wyłączona, teraz możesz wybrać preferowane ustawienia rozszerzenia."
+   },
+   "tutModalText7": {
+      "message": "Pokaż przycisk \" Pobierz wszystko \""
+   },
+   "tutModalText8": {
+      "message": "Wyłączyć"
+   },
+   "tutModalText9": {
+      "message": "Tylko bitrate"
+   },
+   "viewSettings": {
+      "message": "Wyświetl ustawienia:"
+   },
+   "week": {
+      "message": "Tydzień"
+   }
+}

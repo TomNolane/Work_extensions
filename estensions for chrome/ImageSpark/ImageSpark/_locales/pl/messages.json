@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "POBIERANIE"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Pobieranie"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Potężny downloader obrazu, który pozwala na przeglądanie i pobrać wszystkie obrazy wyświetlane na dowolnej stronie internetowej."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Obrazy Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, ta strona nie jest obsługiwany ! Proszę spróbować użyć innej strony internetowej.\n\u003Cbr>\n\u003Cbr>\nJeśli problem nie zostanie rozwiązany , należy sprawdzić, czy JavaScript jest włączony i ponownie uruchomić tego .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "załadunek"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Otwórz folder"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Otwórz w nowej karcie"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Zaznacz wszystko"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ZAPISZ JAKO PODFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Ustaw nazwę podfolderu chcesz pobrać obrazów ."
+   }
+}

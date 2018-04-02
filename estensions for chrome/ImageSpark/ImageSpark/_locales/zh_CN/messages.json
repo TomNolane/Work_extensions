@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "下载"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "下载"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "强大的图像下载器，它允许您浏览和下载任何网页上显示的所有图像。"
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate 图片 Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\n嗯哦，不支持此网页！请尝试使用其他网页。\n\u003Cbr>\n\u003Cbr>\n如果问题仍然存在，请验证启用javascript并再次运行此。\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "装载"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "打开文件夹"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "在新标签中打开"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "全选"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "保存到子文件夹"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "设置要的图像下载到子文件夹的名称。"
+   }
+}

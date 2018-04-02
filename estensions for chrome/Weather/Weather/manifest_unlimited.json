@@ -1,0 +1,39 @@
+{
+    "name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
+    "default_locale":"en",
+    "plugins": [
+    ],
+    "options_page": "optionsPage.html",
+    "version": "1.88",
+    "homepage_url": "http://yowindow.com/?cid=chrome_ext",
+	"content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "icons": {
+	"16": "img/yo_16.png",
+      	"48": "img/yo_48.png",
+     	"128": "img/yo_128.png" 
+    },
+    "background": {
+      "page": "background.html"
+    },
+    "browser_action": {
+      "default_icon": "img/yo_19.png",
+      "default_title": "YoWindow",
+      "default_popup": "popup.html"
+    },
+
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxWErqJ+SSF/7eqVsvUfiNQMgeTQ2KMkEs9v/T1Q7cvtzxxt8Quog0OTBF/XDnhdof8FbmVkaPdrB3Qm6nCDUERnDel1wGPVJapf2cxJHUOk5JaUFIBJqoxOQ/nEp05y02bfwUg7VKrVhn5epb/FnrzHT6B99vwAlyEKuaIEE29HShK6IO4ialIXcYYd0+XFICG7VBCS73SLIeUIiSeEFiX2Nt5q4y3dfGF0m9eOnoYBAaO6XOOX/z74VGr4DoXSWevOEijQ2ikBBuIexJktlrMKNnMjju7f3ogWdZvPnRPbkkxACNoMS9Cjrwfiaop4DeyPATLxfbCm04JA8odUDwIDAQAB",
+    "manifest_version": 2,
+    "permissions": [
+		"identity",
+		"https://www.googleapis.com/",
+		"http://*.yowindow.com/*"
+	],
+
+	"oauth2": {
+    	"client_id": "975441234925-s9acapgi9qg1fsmr0bcb6pqf9rc247ur.apps.googleusercontent.com",
+ 		"scopes": [
+			"https://www.googleapis.com/auth/chromewebstore.readonly"
+	    ]
+	}
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="لغو"/>
+  <s key="Change" value="تغییر"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="پیش بینی وضع هوا از{0}،ارائه شده توسط مؤسسه هواشناسی نروژ وبنگاه سخن پراکنی نروژ"/>
+  <s key="Forecast from {0}" value="پیش بینی از {0}"/>
+  <s key="Friday" value="جمعه"/>
+  <s key="Monday" value="دوشنبه"/>
+  <s key="Saturday" value="شنبه"/>
+  <s key="Sunday" value="یکشنبه"/>
+  <s key="Thursday" value="پنجشنبه"/>
+  <s key="Tuesday" value="سه شنبه"/>
+  <s key="Wednesday" value="چهارشنبه"/>
+  <s key="Fr" value="جمعه"/>
+  <s key="Mo" value="دوشنبه"/>
+  <s key="Sa" value="شنبه"/>
+  <s key="Su" value="یکشنبه"/>
+  <s key="Th" value="پنجشنبه"/>
+  <s key="Tu" value="سه‌شنبه"/>
+  <s key="We" value="چهارشنبه"/>
+  <s key="LIVE" value="زنده "/>
+  <s key="Loading" value="در حال بارگزاری...."/>
+  <s key="April" value="آوریل"/>
+  <s key="August" value="آگوست"/>
+  <s key="December" value="دسامبر"/>
+  <s key="February" value="فوریه"/>
+  <s key="January" value="ژانویه"/>
+  <s key="July" value="جولای"/>
+  <s key="June" value="ژوئن"/>
+  <s key="March" value="مارس"/>
+  <s key="May" value="می"/>
+  <s key="November" value="نوامبر"/>
+  <s key="October" value="اکتبر"/>
+  <s key="September" value="سپتامبر"/>
+  <s key="Network error" value="خطای شبکه"/>
+  <s key="No weather" value="بدون پیش بینی"/>
+  <s key="Retry" value="سعی دوباره"/>
+  <s key="Tomorrow" value="فردا"/>
+  <s key="Updating weather" value="در حال بروزرسانی وضع هوا"/>
+  <s key="Please wait..." value="لطفا صبر کنید..."/>
+  <s key="Weather expired" value="وضع هوا منقضی شد"/>
+  <s key="Loading" value="در حال بارگزاری...."/>
+</body>

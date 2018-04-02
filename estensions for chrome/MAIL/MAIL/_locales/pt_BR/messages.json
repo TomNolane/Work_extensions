@@ -1,0 +1,54 @@
+{
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Endereço de e-mail descartável temporário. Proteja seu e-mail de spam, bots e phishing com TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - E-Mail Temporário Descartável"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Alterar"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "VERIFICAR E-MAIL"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Cópia"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "Mensagens não lidas"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "Você tem novo e-mail"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Não, obrigado"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Nos avalie"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Compartilhe-nos"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Obrigado"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Espere um momento"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Seu endereço de e-mail temporário"
+   }
+}

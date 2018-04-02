@@ -1,0 +1,53 @@
+{
+   "cant": {
+      "message": "Can't download this video!"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "ext_description": {
+      "message": "Download and save videos from all sites EXCEPT YouTube."
+   },
+   "ext_name": {
+      "message": "Safe Video Downloader"
+   },
+   "ext_short_name": {
+      "message": "safe-video-downloader"
+   },
+   "files": {
+      "message": "Video files"
+   },
+   "need_help": {
+      "message": "Need help with a playlist?"
+   },
+   "not_connected": {
+      "message": "The extension is not connected on this page"
+   },
+   "not_found": {
+      "message": "There are no video files found on this page yet"
+   },
+   "not_founded": {
+      "message": "If the file you want is not in the list, try to play it."
+   },
+   "th_del": {
+      "message": "Clear all"
+   },
+   "th_downloads": {
+      "message": "Download"
+   },
+   "th_format": {
+      "message": "Format"
+   },
+   "th_name": {
+      "message": "New first"
+   },
+   "th_size": {
+      "message": "Size"
+   },
+   "tooltip_copy": {
+      "message": "URL copied"
+   },
+   "youtube_blocked": {
+      "message": "Google Chrome policy does not allow downloading streaming content directly from YouTube! Try to find this video on another site"
+   }
+}

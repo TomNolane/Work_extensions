@@ -1,0 +1,305 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <link type='text/css' href='css/modal_dialog.css' rel='stylesheet' media='screen' />
+        <link rel="stylesheet" href="css/yowindow.css" type="text/css" charset="utf-8"/>
+
+        <script type='text/javascript' src='js/ext/jquery-1.11.2.min.js'></script>
+        <script type='text/javascript' src='js/ext/jquery.simplemodal.1.4.4.min.js'></script>
+        <script type='text/javascript' src='js/ext/jquery-ui.min.js'></script>
+        <link rel="stylesheet" href="js/ext/jquery-ui.min.css" type="text/css" charset="utf-8"/>
+
+		<script type="text/javascript" src="js/rslib/XmlUtil.js"></script>
+		<script type="text/javascript" src="js/rslib/RsUtil.js"></script>
+		<script type="text/javascript" src="js/rslib/RsChromeUtil.js"></script>
+
+		<script type="text/javascript" src="js/yolib/constants.js"></script>
+        <script type="text/javascript" src="js/yolib/YoLocationChooser.js" charset="utf-8"></script>
+        <script type="text/javascript" src="js/yolib/XhrRequest.js" charset="utf-8"></script>
+		<script type="text/javascript" src="js/yolib/youc.js" charset="utf-8"></script>
+        <script type="text/javascript" src="js/yolib/inspectorSetup.js" charset="utf-8"></script>
+		<script type="text/javascript" src="js/yolib/locales/yoloc_all.js"></script>
+
+        <script type="text/javascript" src="js/host/optionsLocatoinChoice.js" charset="utf-8"></script>
+        <script type="text/javascript" src="js/host/Options.js" charset="utf-8"></script>
+        <script type="text/javascript" src="js/host/optionsPage.js" charset="utf-8"></script>
+	    <script type="text/javascript" src="js/host/debug.js" charset="utf-8"></script>
+    </head>
+    
+    
+<body>
+
+<!-- problem: options page is loaded too long when connection is slow
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '160057600696679', // App ID
+//o      channelUrl : '//WWW.YOUR_DOMAIN.COM/channel.html', // Channel File
+      status     : true, // check login status
+      cookie     : true, // enable cookies to allow the server to access the session
+      xfbml      : true  // parse XFBML
+    });
+
+    // Additional initialization code here
+  };
+
+  // Load the SDK Asynchronously
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "http://connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+</script>
+-->
+
+    <div id="langData">
+	</div>
+    <div id="outer_container">
+<!--
+        <div id="localeChooser">
+            <select
+	            class=".option"
+	            style="width:150px;"
+            	id="localeComboBox">
+            </select>
+        </div>
+-->
+        <a href="http://yowindow.com" style="text-decoration:none;"><img style="margin-top:0px; vertical-align:bottom;" src="img/logo.png"/><span style="font-family:Arial; line-height:25px; font-size:20px; font-weight:bold; color: #007DB0;">.com</span></a>
+
+		<div id="debug" style="margin-top:5px; display:none;">
+			<button id="dumpOptions">Dump Options XML</button>
+			<button id="test">Test</button>
+		</div>
+<div style="margin-top:10px;" id="inner_container">
+
+<!-- modal content -->
+	<div id="location-chooser-modal-content" style="text-align:center;">
+		<div id="location-chooser-main-page">
+
+
+<!--
+<form style="padding:0px; margin:0px;" onsubmit="alert('submit');">
+-->
+    		<div id="location-chooser-welcome" style="margin-bottom:5px;">
+    			<label locale="welcomeToYoWindow">Welcome to YoWindow!</label><br/>
+<!--
+    			<label locale="pickYourHomeLocation">Pick your home location, please.</label>
+-->
+    		</div>
+    	    <div style="margin-top:20px; height:60px;" >
+           		<label locale="location">Location</label>&nbsp;<input type="text" id="location2" name="location" placeholder="Name" tabindex="2" size="36"/> 
+    		</div>
+    		<div style="height:20px;">
+    	        <label style="display:none" locale="locationAlreadyExist" id="locationError">Location already exists</label>
+    		</div>
+    		<button id="locationChooserOk" style="width:120px; height:40px;">OK</button>
+    		<button id="locationChooserCancel" style="margin-left:10px; width:120px; height:40px;">Cancel</button>
+		</div>
+
+    	<div id="location-chooser-loading-page" style="display:none; text-align:center;">
+			<table width="100%" height="180px;" style="">
+				<tr>
+					<td style="vertical-align:middle;">
+						<p style="">
+				    		<label id="location-chooser-loading-status" style="">Wait please...</label>
+						</p>
+					</td>
+				</tr>
+			</table>
+			<div style="">
+	    		<button id="location-chooser-loading-retry" style="display:none; width:120px; height:40px;">Retry</button>
+    			<button id="location-chooser-loading-cancel" style="margin-left:10px; width:120px; height:40px;">Cancel</button>
+			</div>
+    	</div>
+<!--
+    <input id="submit_button" type="submit" value="Submit" style="width:200px; height:28px;"/>
+</form>
+-->
+		
+	</div>
+
+
+<!-- preload the images -->
+	<div style='display:none'>
+		<img src='img/x.png' alt='' />
+	</div>
+
+
+<!--
+	<div class="group">
+
+	<div style="margin-top:20px;">
+        <table width="100%" style="">
+        	<tr>
+        		<td style="width:50%; vertical-align:middle;">
+					<div style="font-size:20px; line-height:40px;">
+
+<table style="width:100%; height:180px;">
+<tr>
+<td style="text-align:center; vertical-align:center;">
+    <a class="yolink" href="http://yowindow.com/help">FAQ</a><br/>
+	<a class="forum" href="http://yowindow.com/forum">Forum</a><br/>
+
+	<span id="rate" style="font-size:14px;">
+		<a class="yolink" href="https://chrome.google.com/webstore/detail/fanogbnclpilemkifpjeglokomebpnef/reviews">Vote for YoWindow</a>, thank you :)<br/>
+	</span>
+
+
+
+</td>
+</tr>
+</table>
+
+					</div>
+        		</td>
+        		<td style="vertical-align:middle;">
+
+
+        		</td>
+        	</tr>
+        </table>
+	</div>
+-->
+
+
+<!--
+	<a class="google_5_stars" href="https://chrome.google.com/webstore/detail/fanogbnclpilemkifpjeglokomebpnef">Rate</a><br/>
+-->
+<!--
+    <a class="yolink" href="https://chrome.google.com/webstore/detail/fanogbnclpilemkifpjeglokomebpnef">Rate YoWindow!</a><br/>
+-->
+
+<!--
+<div>
+<a href="http://twitter.com/yowindow" class="twitter-follow-button" data-show-count="true">Follow @yowindow</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div>
+-->
+
+<!--
+<div class="fb-like-box" data-href="http://www.facebook.com/yowindow" data-width="434" data-height="200" data-show-faces="true" data-stream="true" data-header="false"></div>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2Fyowindowcom%2F138140274037&amp;width=434&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=false&amp;height=200&amp;" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" allowTransparency="true"></iframe>
+-->
+
+
+<!--
+<div class="fb-activity" data-site="http://yowindow.com" data-width="300" data-height="200" data-header="false" data-recommendations="false"></div>
+-->
+
+    <a class="yolink" href="http://yowindow.com/help">FAQ</a><br/>
+	<a class="forum" href="http://yowindow.com/forum">Forum</a><br/>
+
+	<span id="rate" style="font-size:14px;">
+		<a class="yolink" href="https://chrome.google.com/webstore/detail/fanogbnclpilemkifpjeglokomebpnef/reviews">Vote for YoWindow</a>, thank you :)<br/>
+	</span>
+
+        <div id="location_option" class="option_group" style="margin-top:20px;">
+  		</div>
+                    
+
+		<div style="clear:both;">
+		</div>
+
+
+            	
+<table>
+	<tr>
+		<td class="table_cell" style="width:50%; height:170px; vertical-align:top;">
+<div style="text-align:center;" id="name_static">
+    		<span style="font-family:Times; font-size:35px; text-align:center;" id="locationName"></span>
+
+<a id="link_enter_rename_location" href="#"><span locale="Edit">Edit</span></a>
+<br/>
+</div>
+
+<div id="name_dynamic" style="display:none;">
+    <label><span locale="Name">Name</span>:</label>
+    <input id="renameLocation" value="" style="width:200px" onkeyup="onRenameKeyUp();"></input>
+    <button id="buttonRenameLocation" style="width:120px; height:30px;"
+           onmouseout="mouseOutHandler(this);" 
+           onmouseover="mouseOverHandler(this);"
+           locale="Set" 
+           id="rename" 
+           >Set</button>
+</div>
+
+    <div style="margin-top:20px;">  
+	    <span locale="landscapes">Landscape</span>:<br/>
+        <div style="margin-left:20px;">
+        	<input type="radio" name="landscape" id="landscape_village"/><label for="landscape_village" locale="Village"></label><br/>
+            <input type="radio" name="landscape" id="landscape_town"/><label for="landscape_town" locale="Town"></label><br/>
+            <input type="radio" name="landscape" id="landscape_americana"/><label for="landscape_americana" locale="Americana"></label><br/>
+            <input type="radio" name="landscape" id="landscape_seaside"/><label for="landscape_seaside" locale="Seaside"></label><br/>
+            <input type="radio" name="landscape" id="landscape_airport"/><label for="landscape_airport" locale="Airport"></label><br/>
+            <input type="radio" name="landscape" id="landscape_oriental"/><label for="landscape_oriental" locale="Oriental"></label><br/>
+            <input type="radio" name="landscape" id="landscape_valley"/><label for="landscape_valley" locale="Valley"></label><br/>
+            <input type="radio" name="landscape" id="landscape_sky"/><label for="landscape_sky" locale="Sky"></label><br/>
+        </div>
+
+    </div>
+
+    	</div>
+		</td>
+
+		<td class="table_cell" vertical-align:top;>
+            <div id="selectLocations" style="width:420px;">
+			<table>
+			<tr>
+			<td>
+                <select style="margin-top:4px; width:240px;" name="drop1" id="listFavoriteLocations" size="15">
+                </select>
+			</td>
+			<td>
+                <button class="location-properties" locale="addLocation" id="openLocationChooser" style="margin-top:5px">Add Location</button>
+	            <button class="location-properties" locale="setAsHome" id="setAsHome" style="margin-top:25px;">Set as Home</button>
+                <button class="location-properties" locale="delete" id="delete" style="margin-top:25px;">Delete</button>
+                <button class="location-properties" locale="up" id="up" style="margin-top:25px;">Up</button>
+                <button class="location-properties" locale="down" id="down" style="margin-top:5px;">Down</button>
+			</td>
+			</tr>
+			</table>
+            </div>
+		</td>
+	</tr>
+</table>
+
+		<div style="clear:both;"></div>
+
+<!--
+	<div style="margin-top:10px; text-align:center;">
+		<a href="https://chrome.google.com/webstore/detail/nkdaebmimnhlmgpjoppmdeokffoahpan?ref=yw" target="_blank"><img src="img/eog_728x90.png"/></a>
+		<a href="http://yowindow.com" target="_blank"><img src="img/banner_dummy_728x90.png"/></a>
+	</div>
+-->
+
+	<div class="group" style="margin-top:10px;">
+        <div id="unitsSystem" class="option_group">
+            <h3 id="unitsHeaderID" locale="units">Units:</h3>
+            <div id="unit_chooser" style="width:300px; height:150px; "></div>
+        </div>
+	</div>	
+
+	<div class="group" style="margin-top:10px;">
+	    <div id="inspectorSystem" class="option_group">
+            <h3 id="InspectorsHeaderID" locale="inspectors">Inspectors:</h3>
+            <div id="inspector_setup_place" style="width:500px; height:700px; ">
+            </div>
+		</div>
+    </div>            
+
+
+	    <div style="margin:20px; text-align:center;" id="SettingsSystem" class="option_group">
+			<button style="width:150px; height:50px;" locale="discardChanges" id="restoreSettings">RestoreSettings</button>
+	    </div>
+
+            </div>
+        </div>
+    </div>      
+
+</body>
+</html>

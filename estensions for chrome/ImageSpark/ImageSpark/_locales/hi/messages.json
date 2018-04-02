@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "डाउनलोड"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "डाउनलोड"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "शक्तिशाली छवि डाउनलोडर, कि आप ब्राउज़ करें और किसी भी वेब पेज पर प्रदर्शित सभी छवियों को डाउनलोड करने के लिए अनुमति देता है।"
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate इमेजिस Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nउह ओह, इस वेबपेज समर्थित नहीं है ! एक और वेब पेज का उपयोग कर प्रयास करें।\n\u003Cbr>\n\u003Cbr>\nसमस्या बनी रहती है, कि जावास्क्रिप्ट सक्षम है और यह फिर से चल रहा है सत्यापित करें।\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "लोड हो रहा है"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "फोल्डर खोलो"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "वेब टेब में खोलें"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "सभी का चयन करे"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "सबफ़ोल्डर को बचाने के"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "सबफ़ोल्डर आप के लिए छवियों को डाउनलोड करने के लिए चाहते हैं उसका नाम सेट करें।"
+   }
+}

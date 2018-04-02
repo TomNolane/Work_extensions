@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="취소"/>
+  <s key="Change" value="변경"/>
+  <s key="Forecast from {0}" value="{0}(으)로부터의 예측"/>
+  <s key="Friday" value="금요일"/>
+  <s key="Monday" value="월요일"/>
+  <s key="Saturday" value="토요일"/>
+  <s key="Sunday" value="일요일"/>
+  <s key="Thursday" value="목요일"/>
+  <s key="Tuesday" value="화요일"/>
+  <s key="Wednesday" value="수요일"/>
+  <s key="Fr" value="금"/>
+  <s key="Mo" value="월"/>
+  <s key="Sa" value="토"/>
+  <s key="Su" value="일"/>
+  <s key="Th" value="목"/>
+  <s key="Tu" value="화"/>
+  <s key="We" value="수"/>
+  <s key="LIVE" value="라이브"/>
+  <s key="Loading" value="로드 중"/>
+  <s key="April" value="4월"/>
+  <s key="August" value="8월"/>
+  <s key="December" value="12월"/>
+  <s key="February" value="2월"/>
+  <s key="January" value="1월"/>
+  <s key="July" value="7월"/>
+  <s key="June" value="6월"/>
+  <s key="March" value="3월"/>
+  <s key="May" value="5월"/>
+  <s key="November" value="11월"/>
+  <s key="October" value="10월"/>
+  <s key="September" value="9월"/>
+  <s key="Network error" value="네트워크 오류"/>
+  <s key="No weather" value="날씨없음"/>
+  <s key="Retry" value="다시 시도"/>
+  <s key="Tomorrow" value="내일"/>
+  <s key="Updating weather" value="날씨 업데이트 중"/>
+  <s key="Please wait..." value="기다려 주십시오..."/>
+  <s key="Weather expired" value="날씨 만료됨"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK"/>
+</body>

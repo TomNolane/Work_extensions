@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ಡೌನ್ಲೋಡ್"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "ಡೌನ್ಲೋಡ್"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "ನೀವು ಬ್ರೌಸ್ ಮತ್ತು ಯಾವುದೇ ವೆಬ್ ಪುಟದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಸುವ ಪ್ರಬಲ ಇಮೇಜ್ ಡೌನ್ಲೋಡರ್ ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate ಚಿತ್ರಗಳನ್ನು Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nಓಹ್ , ಈ ವೆಬ್ಪುಟದ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ ! ದಯವಿಟ್ಟು ಇನ್ನೊಂದು ವೆಬ್ ಪುಟ ಬಳಸಿಕೊಂಡು ಪ್ರಯತ್ನಿಸಿ.\n\u003Cbr>\n\u003Cbr>\nಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ, ಸಶಕ್ತ ಮತ್ತು ಮತ್ತೆ ಈ ಚಾಲನೆಯಲ್ಲಿರುವ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಎಂದು ಪರಿಶೀಲಿಸಿ.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "ಲೋಡ್"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "ಮುಕ್ತ ಫೋಲ್ಡರ್"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "ಹೊಸ ಟ್ಯಾಬ್ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "ಎಲ್ಲವನ್ನು ಆರಿಸು"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SUBFOLDER ಉಳಿಸಲು"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "ನೀವು ಚಿತ್ರಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಬಯಸುವ subfolder ಹೆಸರನ್ನು ಹೊಂದಿಸಿ ."
+   }
+}

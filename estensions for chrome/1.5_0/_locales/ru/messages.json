@@ -1,0 +1,53 @@
+{
+   "cant": {
+      "message": "Не получается скачать это видео"
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "ext_description": {
+      "message": "Скачать и сохранить видео со всех сайтов, КРОМЕ YouTube."
+   },
+   "ext_name": {
+      "message": "Safe Video Downloader"
+   },
+   "ext_short_name": {
+      "message": "safe-video-downloader"
+   },
+   "files": {
+      "message": "Видео файлы:"
+   },
+   "need_help": {
+      "message": "Нужна помощь c плейлистом?"
+   },
+   "not_connected": {
+      "message": "Расширение не подключено на этой странице"
+   },
+   "not_found": {
+      "message": "На данной странице еще не найдено видео-файлов"
+   },
+   "not_founded": {
+      "message": "Если нужного Вам файла нет в списке, запустите его воспроизведение."
+   },
+   "th_del": {
+      "message": "Очистить всё"
+   },
+   "th_downloads": {
+      "message": "Скачать"
+   },
+   "th_format": {
+      "message": "Формат"
+   },
+   "th_name": {
+      "message": "Новые сверху"
+   },
+   "th_size": {
+      "message": "Размер"
+   },
+   "tooltip_copy": {
+      "message": "URL скопирован в буфер обмена"
+   },
+   "youtube_blocked": {
+      "message": "Политика Google Chrome строго ЗАПРЕЩАЕТ скачивание видео непосредственно с YouTube! Постарайтесь найти это видео на другом сайте или разместить его там."
+   }
+}

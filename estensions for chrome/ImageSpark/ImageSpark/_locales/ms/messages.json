@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "MUAT TURUN"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Muat turun"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "The Downloader imej yang kuat , yang membolehkan anda untuk melayari dan memuat turun semua imej yang dipaparkan di mana-mana halaman web."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Imej Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , laman web ini tidak disokong! Sila cuba menggunakan laman web yang lain .\n\u003Cbr>\n\u003Cbr>\nJika masalah berterusan , sila sahkan bahawa Javascript dan berjalan ini lagi.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "loading"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Buka fail"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Buka dalam tab baru"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Pilih semua"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SIMPAN KE SUBFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Menetapkan nama subfolder yang anda ingin muat turun imej untuk ."
+   }
+}

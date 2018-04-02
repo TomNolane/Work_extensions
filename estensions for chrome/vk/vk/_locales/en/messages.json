@@ -1,0 +1,155 @@
+{
+   "abort": {
+      "message": "Abort"
+   },
+   "additionalSettings": {
+      "message": "Additional settings"
+   },
+   "allowAdsText": {
+      "message": "Dear friend! This extension is completely free for you and I always try to keep it up to date and work as soon as the next update of the VKontakte website takes place. It took a lot of time and effort to develop and maintain the application, and in order to compensate for this, I connected the monetization which absolutely should not disturb your stay on the Internet. All that she does is replace some links. No pop-ups, new tabs, etc. will not occur. But if it's critical for you, or you basically do not want to give me the opportunity to get a reward for my work, I'll understand this and again, I'll let you free this advertisement for free."
+   },
+   "cancelAll": {
+      "message": "Cancel all"
+   },
+   "clearHistory": {
+      "message": "Clear history"
+   },
+   "day": {
+      "message": "Day"
+   },
+   "desc": {
+      "message": "Fast and easy way to download vk.com audiofiles. Vk Music Download allows to save Vkontakte music as a separate audio and albums."
+   },
+   "disableAds": {
+      "message": "Disable invisible ads"
+   },
+   "downloadAll": {
+      "message": "Download all"
+   },
+   "downloadAllBtn": {
+      "message": "Button \"Download all\":"
+   },
+   "downloadAllBtnOff": {
+      "message": "Off"
+   },
+   "downloadAllBtnOn": {
+      "message": "On"
+   },
+   "downloaded": {
+      "message": "Downloaded"
+   },
+   "emptyHistoryMsg": {
+      "message": "This will display the history of downloaded records"
+   },
+   "error": {
+      "message": "Error"
+   },
+   "goToDownloadsFolder": {
+      "message": "Go to downloads folder"
+   },
+   "history": {
+      "message": "History"
+   },
+   "inProcess": {
+      "message": "Downloading"
+   },
+   "inQueue": {
+      "message": "In queue to download"
+   },
+   "mainSettings": {
+      "message": "Main Settings"
+   },
+   "month": {
+      "message": "Month"
+   },
+   "name": {
+      "message": "VK Music Download - Save Vkontakte audio"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "showInfoAll": {
+      "message": "Show bitrate and size"
+   },
+   "showInfoBitrate": {
+      "message": "Only bitrate"
+   },
+   "showInfoOff": {
+      "message": "Don't show bitrate and size"
+   },
+   "showInfoSize": {
+      "message": "Only size"
+   },
+   "supportDeveloper": {
+      "message": "Support developer:"
+   },
+   "title": {
+      "message": "VK.com Audiofiles"
+   },
+   "tutModalText0": {
+      "message": "Music downloading settings"
+   },
+   "tutModalText1": {
+      "message": "Hello! This message is from the author of the extension for"
+   },
+   "tutModalText10": {
+      "message": "Only size"
+   },
+   "tutModalText11": {
+      "message": "Bitrate and size"
+   },
+   "tutModalText12": {
+      "message": "Bitrate / Size Display"
+   },
+   "tutModalText13": {
+      "message": "If you like this extension, it will be great if you leave a good one"
+   },
+   "tutModalText14": {
+      "message": "review in the app store"
+   },
+   "tutModalText15": {
+      "message": "if there are any problems or suggestions - write to"
+   },
+   "tutModalText16": {
+      "message": "support page"
+   },
+   "tutModalText17": {
+      "message": "I will try to solve everything."
+   },
+   "tutModalText18": {
+      "message": "Cancel"
+   },
+   "tutModalText19": {
+      "message": "Save"
+   },
+   "tutModalText2": {
+      "message": "download music from VK"
+   },
+   "tutModalText3": {
+      "message": "I'm constantly working on improving it and adding the features that you are asking."
+   },
+   "tutModalText4": {
+      "message": "The latest update has added an"
+   },
+   "tutModalText5": {
+      "message": "download music in whole albums"
+   },
+   "tutModalText6": {
+      "message": "but not everyone wants to see an additional button at home, so this feature is turned off by default, now you can choose your preferred extension settings."
+   },
+   "tutModalText7": {
+      "message": "Show button \"Download all\""
+   },
+   "tutModalText8": {
+      "message": "Disable"
+   },
+   "tutModalText9": {
+      "message": "Only bitrate"
+   },
+   "viewSettings": {
+      "message": "View settings:"
+   },
+   "week": {
+      "message": "Week"
+   }
+}

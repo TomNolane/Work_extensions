@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "LEJUPLĀDĒT"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Lejuplādēt"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Spēcīgs attēlu Downloader , kas ļauj pārlūkot un lejupielādēt visus redzams jebkurā tīmekļa lapā attēlus."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Images Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , šī tīmekļa vietne nav atbalstīts ! Lūdzu, mēģiniet izmantot citu tīmekļa lapu.\n\u003Cbr>\n\u003Cbr>\nJa problēma joprojām pastāv , lūdzu, pārbaudiet, vai JavaScript ir ieslēgts un darbojas to atkal .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "iekraušana"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Atvērt mapi"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Atvērts jaunā cilnē"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Izvēlēties visus"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SAGLABĀT APAKŠMAPĒ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Uzstādīt nosaukumu apakšmapi vēlaties lejupielādēt attēlus ."
+   }
+}

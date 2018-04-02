@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<meta http-equiv = "Content-Type" content = "text/html; charset=utf-8">
+		<title>ImageSpark</title>
+
+		<link rel="stylesheet" href="/styles/popup.css" type="text/css" />
+		<link rel="stylesheet" href="/scripts/lib/jquery.nouislider/jquery.nouislider.css" type="text/css" />
+    
+		<script type = "text/javascript" src="/scripts/lib/zepto.js"></script>
+		<script type = "text/javascript" src="/scripts/lib/jquery.nouislider/jquery.nouislider.js"></script>
+		<script type = "text/javascript" src="/scripts/lib/jss.js"></script>
+
+		<script src="/scripts/defaults.js"></script>
+		
+	</head>
+
+	<body>
+	
+		<div id="filters_container">
+		
+			<table id="filter_inputs_container" class="grid">
+				<colgroup>
+					<col>
+					<col style="width: 100px;">
+				</colgroup>
+				<tr>
+					<td>
+						<input type="text" id="folder_name_textbox" placeholder="SAVE TO SUBFOLDER" title="Set the name of the subfolder you want to download the images to." />
+						<div id = "open_folder_button" class = "open_folder_button" title = "Open folder"/>
+					</td>
+					<td>
+						<input type="button" id="download_button" class="accent" value="DOWNLOAD" disabled="true" />
+					</td>
+				</tr>
+			</table>
+		  
+		</div>
+
+		<div id="images_cache"></div>
+		
+		<table id="images_table" class="grid">
+			<tr>
+				<th align="center" colspan="3">
+					<div id="loading_div">
+						<img src="/images/loading.gif" id="loading_image"/>
+						<h3 id="loading_message">loading</h3>
+						<h4 id="loading_error">
+						Uh oh, this web page is not supported! Please try using another web page.
+						<br>
+						<br>					
+						If the problem persists, please verify that javascript is enabled and running this again.
+						</h4>
+					</div>
+					
+				</th>
+			</tr>
+		</table>
+		
+		<script type = "text/javascript" src="/scripts/popup.js"></script>
+		
+	</body>
+	
+</html>

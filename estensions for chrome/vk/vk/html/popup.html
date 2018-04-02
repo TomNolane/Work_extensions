@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/css/popup.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700&subset=latin,cyrillic">
+</head>
+<body>
+<header>
+    <a class="logo" href="/" target="_blank"></a>
+    <div class="date-ranges">
+        <span class="date-range active" data-range="86400000"   bind-locale-msg="day"  >День</span>
+        <span class="date-range"        data-range="604800000"  bind-locale-msg="week" >Неделя</span>
+        <span class="date-range"        data-range="2592000000" bind-locale-msg="month">Месяц</span>
+    </div>
+</header>
+<main>
+    <div class="container">
+        <div class="tab history-tab">
+            <ul class="history-ul">
+            </ul>
+        </div>
+        <div class="tab settings-tab">
+            <form>
+                <div class="title" bind-locale-msg="viewSettings">Настройки отображения:</div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="showInfo" value="off">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="showInfoOff">Не отображать битрейт и размер</span>
+                    </label>
+                </div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="showInfo" value="bitrate">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="showInfoBitrate">Отображать только битрейт</span>
+                    </label>
+                </div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="showInfo" value="size">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="showInfoSize">Отображать только размер</span>
+                    </label>
+                </div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="showInfo" value="all">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="showInfoAll">Отображать битрейт и размер</span>
+                    </label>
+                </div>
+                <div class="title" bind-locale-msg="downloadAllBtn">Кнопка "Скачать все":</div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="downloadAllBtn" value="0">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="downloadAllBtnOff">Отключить</span>
+                    </label>
+                </div>
+                <div class="radio-box">
+                    <label>
+                        <input type="radio" name="downloadAllBtn" value="1">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="downloadAllBtnOn">Включить</span>
+                    </label>
+                </div>
+                <div id="clear-history" class="underline" bind-locale-msg="clearHistory">Очистить историю</div>
+                <br>
+                <div class="underline" data-show-tab=".additional-settings-tab"
+                     bind-locale-msg="additionalSettings">Дополнительные настройки</div>
+            </form>
+        </div>
+        <div class="tab additional-settings-tab">
+            <form>
+                <div class="title" bind-locale-msg="supportDeveloper">Поддержать разработчика:</div>
+                <div class="radio-box">
+                    <label>
+                        <input type="checkbox" name="disableAds">
+                        <span class="psevdo-radio"></span>
+                        <span bind-locale-msg="disableAds">Отключить невидимую рекламу</span>
+                    </label>
+                </div>
+                <p bind-locale-msg="allowAdsText">Дорогой друг! Это расширение для тебя абсолютно
+                    бесплатное и я стараюсь всегда поддерживать его
+                    актуальность и работоспособность как только
+                    происходит очередное обновление сайта вконтакте.
+                    На разработку и поддержку приложения ушло много
+                    времени и сил и для того что бы компенсировать это, я
+                    подключил монетизацию которая абсолютно никаким
+                    образом не должна нарушить твое пребывание в
+                    интернете.
+                    Все что она делает - это заменяет некоторые ссылки.
+                    Никаких всплывающих окон, новых вкладок и т.п. не
+                    будет происходить.
+                    Но если все же для тебя это критично или ты
+                    принципиально не хочешь дать возможность мне
+                    получить вознаграждение за свою работу я это пойму
+                    и опять же бесплатно позволю отключить эту рекламу.
+                </p>
+                <!--<p id="adv_notice_off" style="display: none;">Если вы все же передумаете, вы всегда можете включить обратно эту опцию.</p>-->
+            </form>
+        </div>
+    </div>
+</main>
+<footer>
+    <div class="download-folder" title="Перейти в папку Загрузки"
+         bind-locale-msg="goToDownloadsFolder" bind-locale-to="title"></div>
+    <div class="history-icon js-need-hide"  data-show-tab=".history-tab"  title="История"
+         bind-locale-msg="history" bind-locale-to="title"></div>
+    <div class="settings-icon js-need-hide" data-show-tab=".settings-tab" title="Настройки"
+         bind-locale-msg="settings" bind-locale-to="title"></div>
+</footer>
+
+<script src="/js/lib/jquery-3.1.1.min.js"></script>
+<script src="/js/_config.js"></script>
+<script src="/js/popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "BAIXAR"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Baixar"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "O poderoso downloader de imagem, que permite navegar e baixar todas as imagens exibidas em qualquer página web."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Imagens Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, esta página não é suportado! Por favor, tente usar outra página web.\n\u003Cbr>\n\u003Cbr>\nSe o problema persistir , verifique se o javascript está habilitado e funcionando novamente.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "carregando"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Pasta aberta"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Abrir em uma nova guia"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Selecionar tudo"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SALVAR A SUBPASTA"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Defina o nome da subpasta que você deseja fazer o download das imagens para ."
+   }
+}

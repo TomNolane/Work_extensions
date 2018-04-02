@@ -1,0 +1,632 @@
+{
+   "OD_bitrate_1": {
+      "message": "Bitrate"
+   },
+   "OD_bitrate_2": {
+      "message": "Kbps"
+   },
+   "OD_button_1": {
+      "message": "Select Song"
+   },
+   "OD_button_2": {
+      "message": "Select All"
+   },
+   "OD_button_3": {
+      "message": "Unselect"
+   },
+   "OD_button_4": {
+      "message": "Save Selected"
+   },
+   "OD_message_1": {
+      "message": "You have to choose a few songs for download!"
+   },
+   "OD_save_button": {
+      "message": "Download song/Get file size and bitrate"
+   },
+   "OD_size_1": {
+      "message": "Size"
+   },
+   "OD_size_2": {
+      "message": "MB"
+   },
+   "OdnButton": {
+      "message": "Open site odnoklassniki.ru"
+   },
+   "OkAudio": {
+      "message": "Music"
+   },
+   "OkAudio_error": {
+      "message": "Did not receive an option \"jsessionid\", it is impossible to download songs"
+   },
+   "OkGuestTheme_span": {
+      "message": "Show the installed theme user"
+   },
+   "OkPozdCop_span": {
+      "message": "Add signature \"Added by oktools.ru\" in the message"
+   },
+   "OkTools_title": {
+      "message": "OkTools - Settings"
+   },
+   "desc": {
+      "message": "Free gifts, download music and videos, beautiful congratulations, status, own themes online odnoklassniki.ru."
+   },
+   "od_button": {
+      "message": "Download"
+   },
+   "ok_actual_version": {
+      "message": "Current version"
+   },
+   "ok_add_block_banner": {
+      "message": "Block advertisement"
+   },
+   "ok_add_block_option": {
+      "message": "Block all advertising (\u003Cb>\u003Cfont color=\"red\">Premium Members\u003C/font>\u003C/b>)"
+   },
+   "ok_audio_message": {
+      "message": "Do you want to store more than 25 files. This can cause problems when booting, it is recommended to store up to 25 files at a time."
+   },
+   "ok_birthday": {
+      "message": "Congratulations OkTools"
+   },
+   "ok_card": {
+      "message": "Postcards"
+   },
+   "ok_card_add_menu": {
+      "message": "Add Card"
+   },
+   "ok_card_all": {
+      "message": "All cards"
+   },
+   "ok_card_my": {
+      "message": "My Cards"
+   },
+   "ok_cat_add": {
+      "message": "Add category"
+   },
+   "ok_cat_del_": {
+      "message": "Delete Category"
+   },
+   "ok_cat_del_ok": {
+      "message": "Category deleted successfully."
+   },
+   "ok_content_err_incat": {
+      "message": "Category:"
+   },
+   "ok_content_err_sort": {
+      "message": "Sorting:"
+   },
+   "ok_content_err_zapros": {
+      "message": "On request:"
+   },
+   "ok_dislike": {
+      "message": "Do not like"
+   },
+   "ok_file": {
+      "message": "Files"
+   },
+   "ok_file_clear": {
+      "message": "Clear"
+   },
+   "ok_file_download": {
+      "message": "Download"
+   },
+   "ok_file_error1": {
+      "message": "You need to add at least one file"
+   },
+   "ok_file_mess1": {
+      "message": "can not be sent over"
+   },
+   "ok_file_mess2": {
+      "message": "times per day . To send files over"
+   },
+   "ok_file_mess3": {
+      "message": "once a day, activate the premium version."
+   },
+   "ok_file_mess_filename": {
+      "message": "File"
+   },
+   "ok_file_mess_filesize": {
+      "message": "Size"
+   },
+   "ok_file_mess_insert": {
+      "message": "Insert into Post"
+   },
+   "ok_file_mess_load": {
+      "message": "Download File ..."
+   },
+   "ok_file_mess_my": {
+      "message": "My Files"
+   },
+   "ok_file_mess_title": {
+      "message": "File Transfer"
+   },
+   "ok_file_myfile": {
+      "message": "My Files"
+   },
+   "ok_file_send_1": {
+      "message": "You sent"
+   },
+   "ok_file_send_2": {
+      "message": "You sent"
+   },
+   "ok_file_send_3": {
+      "message": "file"
+   },
+   "ok_file_send_4": {
+      "message": "file"
+   },
+   "ok_file_send_5": {
+      "message": "file"
+   },
+   "ok_file_size_byte": {
+      "message": "Byte"
+   },
+   "ok_file_size_kbyte": {
+      "message": "KB"
+   },
+   "ok_file_size_mbyte": {
+      "message": "MB"
+   },
+   "ok_file_vibor": {
+      "message": "Send a file"
+   },
+   "ok_foto_auto": {
+      "message": "Automatic evaluation"
+   },
+   "ok_foto_auto_off": {
+      "message": "Disable"
+   },
+   "ok_foto_download": {
+      "message": "Download file"
+   },
+   "ok_foto_error": {
+      "message": "Error: The original image is not found, or it has a small size."
+   },
+   "ok_foto_original": {
+      "message": "original photo"
+   },
+   "ok_games": {
+      "message": "Games"
+   },
+   "ok_games_title": {
+      "message": "Games OkTools"
+   },
+   "ok_gift_addgift": {
+      "message": "Make a gift"
+   },
+   "ok_gift_admin": {
+      "message": "[Gift manager]"
+   },
+   "ok_gift_butt": {
+      "message": "Give away FREE (OkTools)"
+   },
+   "ok_gift_delete": {
+      "message": "[Delete gift]"
+   },
+   "ok_gift_delete_confirm": {
+      "message": "Are you sure you want to delete a gift?"
+   },
+   "ok_gift_livetitle": {
+      "message": "Live a gift from"
+   },
+   "ok_gift_nogift": {
+      "message": "No gifts"
+   },
+   "ok_gift_nogiftuser": {
+      "message": "The user has no gifts"
+   },
+   "ok_gift_nolivetitle": {
+      "message": "A gift from"
+   },
+   "ok_gift_nook": {
+      "message": "The user has not set OkTools. He can not see all the gifts"
+   },
+   "ok_gift_okshare": {
+      "message": "Share OkTools"
+   },
+   "ok_gift_sendnot": {
+      "message": "The gift is not sent"
+   },
+   "ok_gift_sendok": {
+      "message": "The gift sent"
+   },
+   "ok_gift_sendok_mess": {
+      "message": "The user will see it in the message, and on the page in the \"GIFTS OkTools\""
+   },
+   "ok_gift_sendokuser": {
+      "message": "Go to page Recipient"
+   },
+   "ok_gift_title": {
+      "message": "Gifts OkTools"
+   },
+   "ok_gift_titleiz": {
+      "message": "from"
+   },
+   "ok_gift_titlenew": {
+      "message": "new"
+   },
+   "ok_http_abort": {
+      "message": "The request to the server terminated unexpectedly, try again ."
+   },
+   "ok_http_error_0": {
+      "message": "The request could not be completed, there is no internet connection . \n - No internet connection . \n - server not responding"
+   },
+   "ok_http_error_404": {
+      "message": "Server not found (error [404]). \n Refer to the support forum http://oktools.ru/forum/"
+   },
+   "ok_http_error_500": {
+      "message": "The server is overloaded, please try again later (error [500]). \n or visit the support forum http://oktools.ru/forum/"
+   },
+   "ok_http_non": {
+      "message": "Unknown error, please contact support forum http://oktools.ru/forum/ \n"
+   },
+   "ok_http_parseerror": {
+      "message": "Error processing the data, refer to the support forum http://oktools.ru/forum/"
+   },
+   "ok_http_timeout": {
+      "message": "The call to work out, try again ."
+   },
+   "ok_izbr": {
+      "message": "Add to Favorites"
+   },
+   "ok_izbrm": {
+      "message": "Favorites"
+   },
+   "ok_like": {
+      "message": "Like"
+   },
+   "ok_link_option": {
+      "message": "Click on links in messages immediately (without any intermediate page)"
+   },
+   "ok_load": {
+      "message": "Loading ..."
+   },
+   "ok_load_cat": {
+      "message": "Loading categories ..."
+   },
+   "ok_loader": {
+      "message": "Top installations"
+   },
+   "ok_loader1": {
+      "message": "Installs"
+   },
+   "ok_message_error": {
+      "message": "Message will be sent without formatting (text only)  "
+   },
+   "ok_message_otkritka": {
+      "message": "Please click \"View Card \" and try again"
+   },
+   "ok_moder": {
+      "message": "Moderation"
+   },
+   "ok_new": {
+      "message": "New"
+   },
+   "ok_new_version": {
+      "message": "The new version of:"
+   },
+   "ok_news": {
+      "message": "News OkTools"
+   },
+   "ok_news_new": {
+      "message": "It is necessary to update the expansion OkTools. expansion to update please follow the link which is given below"
+   },
+   "ok_news_new_vers": {
+      "message": "You have successfully installed the new version"
+   },
+   "ok_news_new_vers_desc": {
+      "message": "Congratulations, you have successfully installed the new version of the extension OkTools. Hope you will enjoy working with our expansion, more beautiful congratulations and good mood."
+   },
+   "ok_news_time": {
+      "message": "Just"
+   },
+   "ok_news_update": {
+      "message": "Update extension"
+   },
+   "ok_option": {
+      "message": "Settings"
+   },
+   "ok_option_foot": {
+      "message": "All configuration changes take effect after reloading the page odnoklassniki.ru."
+   },
+   "ok_option_help": {
+      "message": "Help"
+   },
+   "ok_option_reload": {
+      "message": "Reset All Settings"
+   },
+   "ok_option_span": {
+      "message": "Making"
+   },
+   "ok_otpravit": {
+      "message": "Send"
+   },
+   "ok_page_next": {
+      "message": "Next"
+   },
+   "ok_page_previous": {
+      "message": "Previous"
+   },
+   "ok_photo_rating_confirm": {
+      "message": "You have chosen an assessment \"#ocenk#\". The assessment will be placed automatically on all scanned photos. You confirm your choice?"
+   },
+   "ok_photo_rating_text_1": {
+      "message": "Evaluation \"#ocenk#\" is automatically set."
+   },
+   "ok_photo_rating_text_2": {
+      "message": "Activate AUTO to avtootsenok"
+   },
+   "ok_photo_rating_text_3": {
+      "message": "Evaluation is selected. AUTO mode is activated."
+   },
+   "ok_photo_rating_text_4": {
+      "message": "  Select rating"
+   },
+   "ok_plugin": {
+      "message": "Plugin OkTools version:"
+   },
+   "ok_plugin_otziv": {
+      "message": "Feedback"
+   },
+   "ok_plugin_otziv_close": {
+      "message": "Do not show"
+   },
+   "ok_plugin_otziv_text": {
+      "message": "Please leave your review or vote on OkTools plugin page, we will be very grateful for your positive feedback Help OkTools get better.."
+   },
+   "ok_plugin_site": {
+      "message": "Website"
+   },
+   "ok_plugin_support": {
+      "message": "Support plugin OkTools"
+   },
+   "ok_plugin_support_link": {
+      "message": "Tech. Support"
+   },
+   "ok_pozd": {
+      "message": "Congratulations"
+   },
+   "ok_pozd_add": {
+      "message": "Adding congratulations"
+   },
+   "ok_pozd_add_button": {
+      "message": "SAVE"
+   },
+   "ok_pozd_add_cat": {
+      "message": "Category"
+   },
+   "ok_pozd_add_cat1": {
+      "message": "Select a category"
+   },
+   "ok_pozd_add_close": {
+      "message": "Close"
+   },
+   "ok_pozd_add_error1": {
+      "message": "This greeting is already there."
+   },
+   "ok_pozd_add_error2": {
+      "message": "User not found ."
+   },
+   "ok_pozd_add_error3": {
+      "message": "Failed to add . dosing errors Code"
+   },
+   "ok_pozd_add_error4": {
+      "message": "To add a message you need to go to the \"Messages\", select the user, and input fields near the posts click \"OKtools\". Select a message and click \"Install\""
+   },
+   "ok_pozd_add_menu": {
+      "message": "Add Greetings"
+   },
+   "ok_pozd_add_moder": {
+      "message": "Congratulations on successfully added in katalog ! moderation After it appears in the list of congratulations."
+   },
+   "ok_pozd_add_ok": {
+      "message": "Congratulations on successfully added in katalog!"
+   },
+   "ok_pozd_add_save": {
+      "message": "Save greeting/wish"
+   },
+   "ok_pozd_add_text": {
+      "message": "The text of congratulations :"
+   },
+   "ok_pozd_add_user": {
+      "message": "Added"
+   },
+   "ok_pozd_all": {
+      "message": "All congratulations"
+   },
+   "ok_pozd_bistr": {
+      "message": "Fast congratulation"
+   },
+   "ok_pozd_cat_actual": {
+      "message": "Actual"
+   },
+   "ok_pozd_my": {
+      "message": "My Greetings"
+   },
+   "ok_pozd_platn": {
+      "message": "Pay smilies"
+   },
+   "ok_pozd_risunok": {
+      "message": "Figure smileys"
+   },
+   "ok_pozd_save_button": {
+      "message": "Save greeting/wish"
+   },
+   "ok_pozd_user_add_text": {
+      "message": "Posted by"
+   },
+   "ok_pozd_ust_sebe": {
+      "message": "Set Me"
+   },
+   "ok_pozd_vibor": {
+      "message": "Select congratulation"
+   },
+   "ok_premium_title": {
+      "message": "Premium Access"
+   },
+   "ok_profile_main": {
+      "message": "My Profile"
+   },
+   "ok_profile_premium": {
+      "message": "Premium"
+   },
+   "ok_profile_user": {
+      "message": "Normal"
+   },
+   "ok_rating": {
+      "message": "Top Rated"
+   },
+   "ok_rating1": {
+      "message": "Rating"
+   },
+   "ok_rating_error1": {
+      "message": "You have already voted for this material"
+   },
+   "ok_rating_error2": {
+      "message": "An error occurred while voting. Error code:"
+   },
+   "ok_search": {
+      "message": "Search"
+   },
+   "ok_search_button": {
+      "message": "Search"
+   },
+   "ok_server_error": {
+      "message": "Server unavailable"
+   },
+   "ok_status": {
+      "message": "Status"
+   },
+   "ok_status_add": {
+      "message": "Adding status"
+   },
+   "ok_status_add_button": {
+      "message": "Add"
+   },
+   "ok_status_add_cat": {
+      "message": "Category"
+   },
+   "ok_status_add_cat1": {
+      "message": "Select a category"
+   },
+   "ok_status_add_close": {
+      "message": "Close"
+   },
+   "ok_status_add_error1": {
+      "message": "This status is already there."
+   },
+   "ok_status_add_error2": {
+      "message": "User not found ."
+   },
+   "ok_status_add_error3": {
+      "message": "Failed to add . Error code:"
+   },
+   "ok_status_add_menu": {
+      "message": "Add Status"
+   },
+   "ok_status_add_moder": {
+      "message": "Status successfully added ! moderation After it appears in the status."
+   },
+   "ok_status_add_ok": {
+      "message": "Status successfully added in katalog!"
+   },
+   "ok_status_add_text": {
+      "message": "Status text"
+   },
+   "ok_status_all": {
+      "message": "All Updates"
+   },
+   "ok_status_my": {
+      "message": "My Status"
+   },
+   "ok_theme": {
+      "message": "Themes"
+   },
+   "ok_theme_add": {
+      "message": "Developer Topics"
+   },
+   "ok_theme_add_menu": {
+      "message": "Create a Topic"
+   },
+   "ok_theme_add_prava_add": {
+      "message": "Reply"
+   },
+   "ok_theme_add_prava_forum": {
+      "message": "More at the Forum"
+   },
+   "ok_theme_add_save": {
+      "message": "Save & Apply"
+   },
+   "ok_theme_add_style": {
+      "message": "Styles CSS:"
+   },
+   "ok_theme_all": {
+      "message": "All topics"
+   },
+   "ok_theme_author": {
+      "message": "Author:"
+   },
+   "ok_theme_my": {
+      "message": "My Themes"
+   },
+   "ok_theme_next": {
+      "message": "More"
+   },
+   "ok_theme_odn": {
+      "message": "Skins"
+   },
+   "ok_theme_ust": {
+      "message": "Installed"
+   },
+   "ok_theme_ust_1": {
+      "message": "installed free (oktools)"
+   },
+   "ok_theme_ust_2": {
+      "message": "Subject OkTools. Set the theme itself"
+   },
+   "ok_theme_ust_3": {
+      "message": "Subject is installed on your page"
+   },
+   "ok_themes": {
+      "message": "Themes Oktools"
+   },
+   "ok_tools_site": {
+      "message": "plugin installed"
+   },
+   "ok_tools_update": {
+      "message": "We need to update"
+   },
+   "ok_ustanov": {
+      "message": "Install"
+   },
+   "ok_video_0": {
+      "message": "144px"
+   },
+   "ok_video_1": {
+      "message": "240px"
+   },
+   "ok_video_2": {
+      "message": "360px"
+   },
+   "ok_video_3": {
+      "message": "480px"
+   },
+   "ok_video_4": {
+      "message": "HD"
+   },
+   "ok_video_5": {
+      "message": "Full HD"
+   },
+   "ok_video_6": {
+      "message": "2K"
+   },
+   "ok_video_7": {
+      "message": "4K"
+   },
+   "ok_video_not": {
+      "message": "No links"
+   },
+   "title": {
+      "message": "OkTools - The most useful extension for odnoklassniki.ru"
+   }
+}

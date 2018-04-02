@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #444444;
+    width: 440px;
+    height: 300px;
+    background: #f0f0f0;
+}
+a{
+    color:#ff473a;
+}
+.main h3 {
+    margin-top: 5px;
+}
+
+.main h1, .main h2, .main h3, .main h4, .title-video-list {
+    text-align: center;
+}
+
+.main-bottom {
+    height: auto;
+    margin: 20px auto;
+    font-size: 18px;
+    text-align: center;
+}
+
+.small {
+    font-size: 14px;
+}
+
+#youtube_text {
+    margin: 20px;
+}
+
+#youtube, #rate_div, #lastli {
+    display: none;
+}
+
+#rate_div h2 {
+    text-align: center;
+    background: #ff473a;
+}
+
+
+table{
+    width: 100%;
+    min-width: 450px;
+    border-collapse:separate;
+    border-spacing:0 5px;
+    display: none;
+    padding-bottom: 8px;
+    border-bottom: 1px solid lightgrey;
+}
+tbody, thead, tr{
+    text-align: center;
+}
+
+.button {
+    display: block;
+    width: 55px;
+    height: 56px;
+    cursor: pointer;
+    background-image: url(../img/d-btn.png);
+}
+
+.button:hover, .button:active {
+    background-image: url(../img/active-btn.png);
+}
+
+.button.success, .button.success:hover, .button.success:active {
+    background-image: url(../img/done-btn.png);
+}
+
+#video_files{
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-weight: bold;
+}
+th{
+    font-weight: 100;
+    margin: 0;
+    font-size: 14px;
+    color: #b1b1b1;
+    font-family: 'Ubuntu Condensed', sans-serif;
+    padding: 8px 0;
+    border-bottom: 1px solid lightgrey;
+}
+
+th a, th a:hover, th a:active, th a:visited{
+    color: #b1b1b1;
+    text-decoration: none;
+}
+
+#wrap{
+    margin: 0 15px;
+}
+
+#th_format, #th_downloads{
+    min-width: 60px;
+}
+#th_size{
+    min-width: 40px;
+}
+#th_name{
+    width: 100%;
+}
+
+#th_name i{
+    font-size: 12px;
+    margin: 1px 4px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.td_sz{
+    padding-right: 9px;
+}
+.ti-trash, .ti-help-alt, .ti-help{
+    font-weight: normal!important;
+}
+
+td input[type=text]{
+    padding: 10px 2px;
+    width: 100%;
+    background: #e2e1e1;
+}
+
+.tooltip_templates{
+    display: none;
+}
+
+#not_found{
+    padding: 50px 0;
+}

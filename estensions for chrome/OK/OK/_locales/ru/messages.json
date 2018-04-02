@@ -1,0 +1,632 @@
+{
+   "OD_bitrate_1": {
+      "message": "Битрейт"
+   },
+   "OD_bitrate_2": {
+      "message": "Кбит"
+   },
+   "OD_button_1": {
+      "message": "Выбрать песни"
+   },
+   "OD_button_2": {
+      "message": "Выделить все"
+   },
+   "OD_button_3": {
+      "message": "Отменить выделение"
+   },
+   "OD_button_4": {
+      "message": "Сохранить выбранные"
+   },
+   "OD_message_1": {
+      "message": "Вы должны выбрать несколько песен для скачивания!"
+   },
+   "OD_save_button": {
+      "message": "Скачать песню/Получить размер файла и битрейт"
+   },
+   "OD_size_1": {
+      "message": "Размер"
+   },
+   "OD_size_2": {
+      "message": "МБ"
+   },
+   "OdnButton": {
+      "message": "Открыть сайт odnoklassniki.ru"
+   },
+   "OkAudio": {
+      "message": "Музыка"
+   },
+   "OkAudio_error": {
+      "message": "Ошибка!!! \r\n Не получен параметр \"jsessionid\", скачивание песен невозможно. \r\n Отправить отчёт об ошибке?"
+   },
+   "OkGuestTheme_span": {
+      "message": "Показывать установленую тему пользователя"
+   },
+   "OkPozdCop_span": {
+      "message": "Добавлять подпись \"Добавленно через oktools.ru\" в сообщения"
+   },
+   "OkTools_title": {
+      "message": "OkTools - Настройки"
+   },
+   "desc": {
+      "message": "Бесплатные подарки, скачивание музыки и видео, красивые поздравления, статусы, собственные темы на сайте odnoklassniki.ru."
+   },
+   "od_button": {
+      "message": "Скачать"
+   },
+   "ok_actual_version": {
+      "message": "Актуальная версия"
+   },
+   "ok_add_block_banner": {
+      "message": "Блокировать рекламу"
+   },
+   "ok_add_block_option": {
+      "message": "Блокировать всю рекламу (\u003Cb>\u003Cfont color=\"red\">Премиум Пользователи\u003C/font>\u003C/b>)"
+   },
+   "ok_audio_message": {
+      "message": "Вы хотите сохранить более 25 файлов. Это может привести к проблемам при загрузке, рекомендуем сохранять не более 25 файлов за раз."
+   },
+   "ok_birthday": {
+      "message": "Поздравление OkTools"
+   },
+   "ok_card": {
+      "message": "Открытки"
+   },
+   "ok_card_add_menu": {
+      "message": "Добавить открытку"
+   },
+   "ok_card_all": {
+      "message": "Все открытки"
+   },
+   "ok_card_my": {
+      "message": "Мои открытки"
+   },
+   "ok_cat_add": {
+      "message": "Добавить категорию"
+   },
+   "ok_cat_del_": {
+      "message": "Удалить категорию"
+   },
+   "ok_cat_del_ok": {
+      "message": "Категория успешно удалена."
+   },
+   "ok_content_err_incat": {
+      "message": "В категории:"
+   },
+   "ok_content_err_sort": {
+      "message": "С сортировкой:"
+   },
+   "ok_content_err_zapros": {
+      "message": "По запросу:"
+   },
+   "ok_dislike": {
+      "message": "Не нравится"
+   },
+   "ok_file": {
+      "message": "Файлы"
+   },
+   "ok_file_clear": {
+      "message": "Очистить"
+   },
+   "ok_file_download": {
+      "message": "Скачать"
+   },
+   "ok_file_error1": {
+      "message": "Вам нужно добавить хотя бы один файл"
+   },
+   "ok_file_mess1": {
+      "message": "не может быть отправлен более"
+   },
+   "ok_file_mess2": {
+      "message": "раз за сутки. Для того чтобы отправлять файлы более"
+   },
+   "ok_file_mess3": {
+      "message": "раз в сутки, активируйте премиум версию."
+   },
+   "ok_file_mess_filename": {
+      "message": "Файл"
+   },
+   "ok_file_mess_filesize": {
+      "message": "Размер"
+   },
+   "ok_file_mess_insert": {
+      "message": "Вставить в сообщение"
+   },
+   "ok_file_mess_load": {
+      "message": "Загрузка файла..."
+   },
+   "ok_file_mess_my": {
+      "message": "Мои файлы"
+   },
+   "ok_file_mess_title": {
+      "message": "Передача файлов"
+   },
+   "ok_file_myfile": {
+      "message": "Мои файлы"
+   },
+   "ok_file_send_1": {
+      "message": "Вам отправлен"
+   },
+   "ok_file_send_2": {
+      "message": "Вам отправлены"
+   },
+   "ok_file_send_3": {
+      "message": "файл"
+   },
+   "ok_file_send_4": {
+      "message": "файла"
+   },
+   "ok_file_send_5": {
+      "message": "файлов"
+   },
+   "ok_file_size_byte": {
+      "message": "Байт"
+   },
+   "ok_file_size_kbyte": {
+      "message": "Кб"
+   },
+   "ok_file_size_mbyte": {
+      "message": "Мб"
+   },
+   "ok_file_vibor": {
+      "message": "Отправить файл"
+   },
+   "ok_foto_auto": {
+      "message": "Автоматические оценки"
+   },
+   "ok_foto_auto_off": {
+      "message": "Отключить"
+   },
+   "ok_foto_download": {
+      "message": "Скачать фото"
+   },
+   "ok_foto_error": {
+      "message": "Ошибка: Оригинальная картинка не найдена или она имеет маленький размер."
+   },
+   "ok_foto_original": {
+      "message": "Оригинальное фото"
+   },
+   "ok_games": {
+      "message": "Игры"
+   },
+   "ok_games_title": {
+      "message": "Игры OkTools"
+   },
+   "ok_gift_addgift": {
+      "message": "Сделать подарок"
+   },
+   "ok_gift_admin": {
+      "message": "[Управление подарками]"
+   },
+   "ok_gift_butt": {
+      "message": "Подарить БЕСПЛАТНО (OkTools)"
+   },
+   "ok_gift_delete": {
+      "message": "[ Удалить подарок ]"
+   },
+   "ok_gift_delete_confirm": {
+      "message": "Вы действительно хотите удалить подарок?"
+   },
+   "ok_gift_livetitle": {
+      "message": "Живой подарок от"
+   },
+   "ok_gift_nogift": {
+      "message": "Нет подарков"
+   },
+   "ok_gift_nogiftuser": {
+      "message": "У пользователя нет подарков"
+   },
+   "ok_gift_nolivetitle": {
+      "message": "Подарок от"
+   },
+   "ok_gift_nook": {
+      "message": "У пользователя не установлен OkTools. Он не может увидеть все подарки"
+   },
+   "ok_gift_okshare": {
+      "message": "Поделиться OkTools"
+   },
+   "ok_gift_sendnot": {
+      "message": "Подарок не отправлен"
+   },
+   "ok_gift_sendok": {
+      "message": "Подарок отправлен"
+   },
+   "ok_gift_sendok_mess": {
+      "message": "Пользователь увидит его в СООБЩЕНИИ и на странице в разделе \"ПОДАРКИ OkTools\""
+   },
+   "ok_gift_sendokuser": {
+      "message": "Перейти на страницу Получателя"
+   },
+   "ok_gift_title": {
+      "message": "Подарки OkTools"
+   },
+   "ok_gift_titleiz": {
+      "message": "из"
+   },
+   "ok_gift_titlenew": {
+      "message": "новых"
+   },
+   "ok_http_abort": {
+      "message": "Запрос к серверу неожиданно прерван, попробуйте ещё раз."
+   },
+   "ok_http_error_0": {
+      "message": "Запрос не может быть выполнен, нет соединения с интернетом.\n - Нет соединения с интернетом. \n - Сервер не отвечает"
+   },
+   "ok_http_error_404": {
+      "message": "Сервер не найден (ошибка [404]). \n Обратитесь на форум поддержки http://oktools.ru/forum/"
+   },
+   "ok_http_error_500": {
+      "message": "Сервер перегружен, попробуйте зайти позже (ошибка [500]). \n или обратитесь на форум поддержки http://oktools.ru/forum/"
+   },
+   "ok_http_non": {
+      "message": "Неизвестная ошибка, обратитесь на форум поддержки http://oktools.ru/forum/ \n"
+   },
+   "ok_http_parseerror": {
+      "message": "Ошибка обработки полученных данных, обратитесь на форум поддержки http://oktools.ru/forum/"
+   },
+   "ok_http_timeout": {
+      "message": "Время запроса вышло, попробуйте ещё раз."
+   },
+   "ok_izbr": {
+      "message": "Добавить в избранное"
+   },
+   "ok_izbrm": {
+      "message": "Избранное"
+   },
+   "ok_like": {
+      "message": "Нравится"
+   },
+   "ok_link_option": {
+      "message": "Переходить по ссылкам в сообщениях сразу (без промежуточной страницы)"
+   },
+   "ok_load": {
+      "message": "Загрузка ..."
+   },
+   "ok_load_cat": {
+      "message": "Загрузка категорий..."
+   },
+   "ok_loader": {
+      "message": "Лучшие по установкам"
+   },
+   "ok_loader1": {
+      "message": "Установок"
+   },
+   "ok_message_error": {
+      "message": "Cообщение будет отправлено без форматирования (ТОЛЬКО ТЕКСТ)  "
+   },
+   "ok_message_otkritka": {
+      "message": "Пожалуйста нажмите \"Посмотреть открытку\" и попробуйте снова"
+   },
+   "ok_moder": {
+      "message": "Модерация"
+   },
+   "ok_new": {
+      "message": "Новые"
+   },
+   "ok_new_version": {
+      "message": "Доступна новая версия: "
+   },
+   "ok_news": {
+      "message": "Новости OkTools"
+   },
+   "ok_news_new": {
+      "message": "Необходимо выполнить обновление расширения OkTools. Для обновления расширения пожалуйста, перейдите по ссылке, которая дана ниже"
+   },
+   "ok_news_new_vers": {
+      "message": "Вы успешно установили новую версию"
+   },
+   "ok_news_new_vers_desc": {
+      "message": "Поздравляем вы успешно установили новую версию расширения OkTools. Желаем приятной работы с нашим расширением, побольше красивых поздравлений и хорошего настроения."
+   },
+   "ok_news_time": {
+      "message": "Только что"
+   },
+   "ok_news_update": {
+      "message": "Обновить расширение"
+   },
+   "ok_option": {
+      "message": "Настройки"
+   },
+   "ok_option_foot": {
+      "message": "Все изменения в настройках вступят в силу после перезагрузки страницы odnoklassniki.ru."
+   },
+   "ok_option_help": {
+      "message": "Помощь"
+   },
+   "ok_option_reload": {
+      "message": "Сбросить все настройки"
+   },
+   "ok_option_span": {
+      "message": "Оформление"
+   },
+   "ok_otpravit": {
+      "message": "Отправить"
+   },
+   "ok_page_next": {
+      "message": "Следующая"
+   },
+   "ok_page_previous": {
+      "message": "Предыдущая"
+   },
+   "ok_photo_rating_confirm": {
+      "message": "Вы выбрали оценку \"#ocenk#\". Оценка будет ставиться автоматически ко всем просмотренным фото. Вы подтверждаете свой выбор?"
+   },
+   "ok_photo_rating_text_1": {
+      "message": "Оценка \"#ocenk#\" ставится автоматически."
+   },
+   "ok_photo_rating_text_2": {
+      "message": "Активируйте AUTO для автооценок"
+   },
+   "ok_photo_rating_text_3": {
+      "message": "Оценка выбрана. Режим AUTO активирован."
+   },
+   "ok_photo_rating_text_4": {
+      "message": "  Выберите оценку"
+   },
+   "ok_plugin": {
+      "message": "Плагин OkTools версия:"
+   },
+   "ok_plugin_otziv": {
+      "message": "Оставить отзыв"
+   },
+   "ok_plugin_otziv_close": {
+      "message": "Не показывать"
+   },
+   "ok_plugin_otziv_text": {
+      "message": "Пожалуйста оставьте свой отзыв или проголосуйте на странице плагина OkTools, мы Вам будем очень благодарны за положительный отзыв. Помогите OkTools стать лучше."
+   },
+   "ok_plugin_site": {
+      "message": "Сайт"
+   },
+   "ok_plugin_support": {
+      "message": "Техническая поддержка плагина OkTools"
+   },
+   "ok_plugin_support_link": {
+      "message": "Тех. Поддержка"
+   },
+   "ok_pozd": {
+      "message": "Поздравления"
+   },
+   "ok_pozd_add": {
+      "message": "Добавление поздравления"
+   },
+   "ok_pozd_add_button": {
+      "message": "СОХРАНИТЬ"
+   },
+   "ok_pozd_add_cat": {
+      "message": "Категория"
+   },
+   "ok_pozd_add_cat1": {
+      "message": "Выберите категорию"
+   },
+   "ok_pozd_add_close": {
+      "message": "Закрыть"
+   },
+   "ok_pozd_add_error1": {
+      "message": "Такое поздравление уже есть."
+   },
+   "ok_pozd_add_error2": {
+      "message": "Пользователь не найден."
+   },
+   "ok_pozd_add_error3": {
+      "message": "Ошибка добавления. Код ощибки:"
+   },
+   "ok_pozd_add_error4": {
+      "message": "Для добавления сообщения вам необходимо зайти на страницу \"Сообщения\", выбрать пользователя, и возле поля ввода сообщения нажать кнопку \"OKtools\". Выбрать сообщение и нажать кнопку \"Установить\""
+   },
+   "ok_pozd_add_menu": {
+      "message": "Добавить Поздравления"
+   },
+   "ok_pozd_add_moder": {
+      "message": "Поздравление успешно добавлено!! После модерации оно появится в списке поздравлений."
+   },
+   "ok_pozd_add_ok": {
+      "message": "Поздравление успешно добавлено в каталог!"
+   },
+   "ok_pozd_add_save": {
+      "message": "Сохранить поздравление/пожелание:"
+   },
+   "ok_pozd_add_text": {
+      "message": "Текст поздравления:"
+   },
+   "ok_pozd_add_user": {
+      "message": "Добавил:"
+   },
+   "ok_pozd_all": {
+      "message": "Все поздравления"
+   },
+   "ok_pozd_bistr": {
+      "message": "Быстрое поздравление"
+   },
+   "ok_pozd_cat_actual": {
+      "message": "Актуальные"
+   },
+   "ok_pozd_my": {
+      "message": "Мои Поздравления"
+   },
+   "ok_pozd_platn": {
+      "message": "Платные смайлы"
+   },
+   "ok_pozd_risunok": {
+      "message": "Рисунок смайлами"
+   },
+   "ok_pozd_save_button": {
+      "message": "Сохранить поздравление/пожелание"
+   },
+   "ok_pozd_user_add_text": {
+      "message": "Добавлено через"
+   },
+   "ok_pozd_ust_sebe": {
+      "message": "Установить себе"
+   },
+   "ok_pozd_vibor": {
+      "message": "Выбрать поздравление"
+   },
+   "ok_premium_title": {
+      "message": "Премиум доступ"
+   },
+   "ok_profile_main": {
+      "message": "Мой профиль"
+   },
+   "ok_profile_premium": {
+      "message": "Премиум"
+   },
+   "ok_profile_user": {
+      "message": "Обычный"
+   },
+   "ok_rating": {
+      "message": "Лучшие по рейтингу"
+   },
+   "ok_rating1": {
+      "message": "Рейтинг:"
+   },
+   "ok_rating_error1": {
+      "message": "Вы уже голосовали за данный материал"
+   },
+   "ok_rating_error2": {
+      "message": "Ошибка при голосовании. Код ошибки:"
+   },
+   "ok_search": {
+      "message": "Поиск:"
+   },
+   "ok_search_button": {
+      "message": "Найти"
+   },
+   "ok_server_error": {
+      "message": "Сервер недоступен"
+   },
+   "ok_status": {
+      "message": "Статусы"
+   },
+   "ok_status_add": {
+      "message": "Добавление статуса"
+   },
+   "ok_status_add_button": {
+      "message": "Добавить"
+   },
+   "ok_status_add_cat": {
+      "message": "Категория"
+   },
+   "ok_status_add_cat1": {
+      "message": "Выберите категорию"
+   },
+   "ok_status_add_close": {
+      "message": "Закрыть"
+   },
+   "ok_status_add_error1": {
+      "message": "Такой статус уже есть."
+   },
+   "ok_status_add_error2": {
+      "message": "Пользователь не найден."
+   },
+   "ok_status_add_error3": {
+      "message": "Ошибка добавления. Код ошибки:"
+   },
+   "ok_status_add_menu": {
+      "message": "Добавить Статус"
+   },
+   "ok_status_add_moder": {
+      "message": "Статус успешно добавлен!! После модерации он появится в списке Статусов."
+   },
+   "ok_status_add_ok": {
+      "message": "Статус успешно добавлен в каталог."
+   },
+   "ok_status_add_text": {
+      "message": "Текст статуса"
+   },
+   "ok_status_all": {
+      "message": "Все статусы"
+   },
+   "ok_status_my": {
+      "message": "Мои Статусы"
+   },
+   "ok_theme": {
+      "message": "Темы"
+   },
+   "ok_theme_add": {
+      "message": "Разработчик темы"
+   },
+   "ok_theme_add_menu": {
+      "message": "Создать Тему"
+   },
+   "ok_theme_add_prava_add": {
+      "message": "Ответить"
+   },
+   "ok_theme_add_prava_forum": {
+      "message": "Подробнее"
+   },
+   "ok_theme_add_save": {
+      "message": "Сохранить и Применить"
+   },
+   "ok_theme_add_style": {
+      "message": "Стили CSS:"
+   },
+   "ok_theme_all": {
+      "message": "Все темы"
+   },
+   "ok_theme_author": {
+      "message": "Автор:"
+   },
+   "ok_theme_my": {
+      "message": "Мои Темы"
+   },
+   "ok_theme_next": {
+      "message": "Ещё"
+   },
+   "ok_theme_odn": {
+      "message": "Темы оформления"
+   },
+   "ok_theme_ust": {
+      "message": "Установлена"
+   },
+   "ok_theme_ust_1": {
+      "message": "Установить БЕСПЛАТНО (OkTools)"
+   },
+   "ok_theme_ust_2": {
+      "message": "Тема OkTools. Установить тему себе"
+   },
+   "ok_theme_ust_3": {
+      "message": "Тема установлена на вашу страницу"
+   },
+   "ok_themes": {
+      "message": "Темы Oktools"
+   },
+   "ok_tools_site": {
+      "message": "Плагин установлен"
+   },
+   "ok_tools_update": {
+      "message": "Нужно обновить"
+   },
+   "ok_ustanov": {
+      "message": "Установить"
+   },
+   "ok_video_0": {
+      "message": "144px"
+   },
+   "ok_video_1": {
+      "message": "240px"
+   },
+   "ok_video_2": {
+      "message": "360px"
+   },
+   "ok_video_3": {
+      "message": "480px"
+   },
+   "ok_video_4": {
+      "message": "HD"
+   },
+   "ok_video_5": {
+      "message": "Full HD"
+   },
+   "ok_video_6": {
+      "message": "2K"
+   },
+   "ok_video_7": {
+      "message": "4K"
+   },
+   "ok_video_not": {
+      "message": "Нет ссылок"
+   },
+   "title": {
+      "message": "OkTools - Самое полезное расширение для odnoklassniki.ru"
+   }
+}

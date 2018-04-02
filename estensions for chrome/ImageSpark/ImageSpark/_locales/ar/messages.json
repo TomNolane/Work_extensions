@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "تحميل"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "تحميل"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "قوية صورة تحميل ، التي تسمح لك لتصفح و تحميل جميع الصور المعروضة على أي صفحة ويب ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate صور Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nاه يا ، لا يتم اعتماد هذه صفحة ويب ! الرجاء محاولة استخدام صفحة ويب أخرى .\n\u003Cbr>\n\u003Cbr>\nإذا استمرت المشكلة ، يرجى التحقق من أن يتم تمكين جافا سكريبت و تشغيل هذا مرة أخرى .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "جار التحميل"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "افتح المجلد"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "فتح في علامة تبويب جديدة"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "اختر الكل"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "حفظ إلى المجلد الفرعي"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "تعيين اسم المجلد الفرعي الذي تريد لتحميل الصور ل ."
+   }
+}

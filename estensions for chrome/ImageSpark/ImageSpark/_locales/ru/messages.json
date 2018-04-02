@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "СКАЧАТЬ"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Скачать"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Лучший загрузчик изображений, который позволяет просматривать и загружать все изображения, отображаемые на любой веб-странице."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Лучший Загрузчик Изображений"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nОй-ой, эта веб-страница не поддерживается! Пожалуйста, попробуйте использовать другую веб-страницу.\n\u003Cbr>\n\u003Cbr>\nЕсли проблема не устраняется, пожалуйста, убедитесь, что Javascript включен и попробуйте снова.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "загрузка"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Открыть папку"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Открыть в новой вкладке"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Выбрать все"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "СОХРАНИТЬ В ПОДПАПКУ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Установить имя вложенной папки в которую вы хотите скачивать изображения."
+   }
+}

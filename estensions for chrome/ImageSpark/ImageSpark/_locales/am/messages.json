@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "አውርድ"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "አውርድ"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "አንተ ማሰስ እና ማንኛውም ድረ-ገጽ ላይ ይታያል ሁሉንም ምስሎች ለማውረድ የሚያስችልዎ ኃይለኛ ምስል ማውረጃ , ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate ምስሎች Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nኧረ ወይኔ, ይህን ድረ- አይደገፍም ነው ! ሌላ ድረ-ገጽ በመጠቀም ይሞክሩ .\n\u003Cbr>\n\u003Cbr>\nችግሩ ከቀጠለ, ከነቃ እንደገና ይህን እያሄደ ነው ጃቫስክሪፕት መሆኑን ያረጋግጡ .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "በመጫን ላይ"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "ክፍት አቃፊ"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "በአዲስ ትር ውስጥ ክፈት"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "ሁሉንም ምረጥ"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ያስወግደው ማስቀመጥ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "ለእናንተ ምስሎች ማውረድ የሚፈልጉትን ያስወግደው ስም ያዘጋጁ ."
+   }
+}

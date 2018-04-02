@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "SCARICARE"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Scaricare"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Il potente downloader immagine , che consente di navigare e scaricare tutte le immagini visualizzate su qualsiasi pagina web ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Immagini Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , il sito non è supportato ! Si prega di provare a utilizzare un'altra pagina web .\n\u003Cbr>\n\u003Cbr>\nSe il problema persiste , verificare che Javascript sia abilitato e in esecuzione di nuovo .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "caricamento in corso"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Cartella aperta"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Aperto in una nuova scheda"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Seleziona tutto"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SALVARE SOTTOCARTELLA"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Impostare il nome della sottocartella che si desidera scaricare le immagini sul ."
+   }
+}

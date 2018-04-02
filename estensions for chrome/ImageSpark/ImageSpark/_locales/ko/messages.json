@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "다운로드"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "다운로드"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "당신이 검색하고 웹 페이지 에 표시되는 모든 이미지를 다운로드 할 수 있습니다 강력한 이미지 다운 로더 ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate 이미지 Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\n어 오 , 이 웹 페이지 는 지원되지 않습니다 ! 다른 웹 페이지를 사용하여 시도하십시오.\n\u003Cbr>\n\u003Cbr>\n문제가 지속되면 , 사용 및 다시 실행중인 자바 스크립트 사항을 확인 하시기 바랍니다.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "로드"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "폴더 열기"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "새 탭에서 열기"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "모든 선택"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "하위 폴더로 저장"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "당신이 이미지를 다운로드 할 하위 폴더 의 이름을 설정합니다."
+   }
+}

@@ -1,0 +1,83 @@
+/*o
+function repaintButton(canvas, skyIconId, temperatureText) {
+	var text = temperatureText;
+	var g = canvas.getContext('2d');
+	g.clearRect (0, 0, canvas.width, canvas.height);
+	           
+	var boxWidth = 19;
+	var boxHeight = 19;
+
+	var g = canvas.getContext('2d');
+
+	var weatherIcon = new Image();
+//	weatherIcon.src = "/img/weather/" + skyIconId + ".png";
+	weatherIcon.src = "http://yowindow.com/img/television.png";
+//	weatherIcon.onload = function() {
+	var image1 = document.getElementById('partlyCloudy');
+	g.drawImage(image1, 0, 0, boxWidth, boxHeight);
+//	}
+	var fontSize = 10;
+	var vgap = 1;
+	var hgap = 1;
+
+	g.font = 'bold ' + fontSize + 'px Arial';
+	metrics = g.measureText(text);
+	var textWidth = metrics.width;
+	var textHeight = fontSize - fontSize * 0.3;
+	var width = textWidth + hgap * 2;
+	var height = textHeight + vgap * 2;
+
+	var x = boxWidth - width;
+	var y = 1; //boxHeight - height;
+
+	g.fillStyle = "#6c6cab";
+//	g.fillRect(x - hgap, y - vgap, width + hgap * 2, height + vgap * 2);
+	
+	pathRoundRect(g, x, y, width, height, 2, true, false);
+
+	var gr = g.createLinearGradient(x, y, x, y + height);
+    gr.addColorStop(0, '#8a9ddb');
+    gr.addColorStop(1, '#565689');
+
+	g.fillStyle = gr;	
+	g.fill();
+
+	g.strokeStyle = "#565689";
+	g.stroke();
+
+	g.fillStyle = "#FFFFFF";
+	g.fillText(text, x + hgap, y + vgap + textHeight);
+}
+
+function pathRoundRect(ctx, x, y, width, height, radius) {
+    ctx.beginPath();
+    ctx.moveTo(x + radius, y);
+    ctx.lineTo(x + width - radius, y);
+    ctx.quadraticCurveTo(x + width, y, x + width, y + radius);
+    ctx.lineTo(x + width, y + height - radius);
+    ctx.quadraticCurveTo(x + width, y + height, x + width - radius, y + height);
+    ctx.lineTo(x + radius, y + height);
+    ctx.quadraticCurveTo(x, y + height, x, y + height - radius);
+    ctx.lineTo(x, y + radius);
+    ctx.quadraticCurveTo(x, y, x + radius, y);
+    ctx.closePath();
+}
+*/
+
+
+/*o
+			var canvas = document.getElementById('buttonCanvas');
+			var skyIconId = "partlyCloudy";
+			var temperatureText = "-25";
+			repaintButton(canvas, skyIconId, temperatureText);
+			
+			var g = canvas.getContext('2d');
+			var imageData = g.getImageData(0, 0, canvas.width, canvas.height);
+
+			chrome.browserAction.setIcon({
+				imageData: imageData
+			});
+*/
+
+
+

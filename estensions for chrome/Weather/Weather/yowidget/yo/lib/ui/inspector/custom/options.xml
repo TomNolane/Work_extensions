@@ -1,0 +1,34 @@
+<options>
+  <wimo>
+    <debug showFpsCounter="false"/>
+    <ui>
+      <hud visible="true"/>
+    </ui>
+    <favoriteLocations homeLocationId="gn:2950159">
+      <location>
+        <server id="gn:2950159" name="Berlin" path="2921044/2950157/2950159" latitude="52.52" longitude="13.41" e_time_zone="2:00" season_map="03.01:naked/04.15:spring/06.01:summer/09.15:autumn/11.01:naked/12.01:winter" icao_id="EDDT" e_digest="e86dda201bb27c616eed8db8e79b88d3_2:00"/>
+      </location>
+      <location>
+        <server id="gn:3171180" name="Perugia" path="3175395/3165048/3171180" latitude="43.1" longitude="12.38" e_time_zone="2:00" season_map="01.20:naked/03.20:spring/06.11:summer/09.21:autumn/11.09:naked/12.11:winter" icao_id="LIRZ" e_digest="bccf7d21a13bf2d054bb6510232921eb_2:00"/>
+      </location>
+      <location>
+        <server id="gn:5128581" name="New York City" path="6252001/5128638/5128581" latitude="40.71" longitude="-74.01" e_time_zone="-4:00" season_map="02.25:naked/04.02:spring/05.02:summer/10.17:autumn/11.22:naked/12.17:winter" icao_id="KLGA" e_digest="d463430ad3a373b019f1882544d9e8e4_-4:00_64d8d429d116d9e52520596281d34d45">
+          <landscapes>
+            <l src="Statue of Liberty" name="The Statue of Liberty"/>
+            <l src="ny_skyline" name="New York skyline"/>
+          </landscapes>
+        </server>
+      </location>
+      <location>
+        <server id="gn:498817" name="Saint Petersburg" path="2017370/536203/498817" latitude="59.89" longitude="30.26" e_time_zone="4:00" season_map="03.01:naked/05.01:spring/06.01:summer/10.01:autumn/10.29:naked/12.01:winter" icao_id="ULLI" e_digest="3574b5bd0f182fe5ee03e87c3f9ea52b_4:00_0fb5d48a3f37ac312005f82b12fbc8aa">
+          <landscapes>
+            <l src="spb savior on blood" name="Church of the Savior on Blood"/>
+          </landscapes>
+        </server>
+      </location>
+      <location>
+        <server id="gn:2643743" name="London" path="2635167/6269131/2643743" latitude="51.51" longitude="-0.13" e_time_zone="1:00" season_map="01.01:winter/03.01:naked/03.20:spring/06.21:summer/09.23:autumn/11.15:naked" icao_id="EGWU" e_digest="6d5c97e2dbc14ce8d2ded40d15f923c3_1:00"/>
+      </location>
+    </favoriteLocations>
+  </wimo>
+</options>

@@ -1,0 +1,24 @@
+<project name="chrome update" default="main" basedir=".">
+    
+    <property name="yowidget" value="../../../as3/widget"/>
+
+    <target name="copy_yowidget" description="Copy yowidget">
+        <copy 
+        	todir="yowidget"
+        	preservelastmodified = "true"
+        >			
+			<fileset 
+				dir="${yowidget}/bin"
+			>
+				<include name="**/*.swf"/>
+				<include name="**/*.dbswf"/>
+                <include name="**/*.jpg"/>
+				<include name="**/*.xml"/>
+				<include name="**/*.ywl"/>
+				<exclude name="secured"/>
+
+			</fileset>
+        </copy>
+    </target>
+    
+</project>

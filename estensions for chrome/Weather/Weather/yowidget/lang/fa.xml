@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="باطلسازی مجوزنامحدود"/>
+  <s key="Absent" value="غیر موجود"/>
+  <s key="Add" value="افزودن"/>
+  <s key="Animate" value="پویانمایی"/>
+  <s key="Apply" value="اعمال"/>
+  <s key="Astronomy" value="ستاره شناسی"/>
+  <s key="Day Length" value="طول روز"/>
+  <s key="Moon Phase" value="هلال ماه"/>
+  <s key="Sunrise" value="طلوع افتاب"/>
+  <s key="Sunset" value="غروب افتاب"/>
+  <s key="Auto update weather" value="خودبروزرسانی وضع هوا"/>
+  <s key="Bad ICAO code" value="رمز ICAO اشتباهست"/>
+  <s key="Buy YoWindow Unlimited!" value="خریداری YoWindow نامحدود!"/>
+  <s key="Calendar" value="تقویم"/>
+  <s key="Cancel" value="لغو"/>
+  <s key="Change" value="تغییر"/>
+  <s key="Code" value="کد"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="پیش بینی وضع هوا از{0}،ارائه شده توسط مؤسسه هواشناسی نروژ وبنگاه سخن پراکنی نروژ"/>
+  <s key="Forecast from {0}" value="پیش بینی از {0}"/>
+  <s key="Current weather" value="وضع فعلی هوا"/>
+  <s key="Friday" value="جمعه"/>
+  <s key="Monday" value="دوشنبه"/>
+  <s key="Saturday" value="شنبه"/>
+  <s key="Sunday" value="یکشنبه"/>
+  <s key="Thursday" value="پنجشنبه"/>
+  <s key="Tuesday" value="سه شنبه"/>
+  <s key="Wednesday" value="چهارشنبه"/>
+  <s key="Fr" value="جمعه"/>
+  <s key="Mo" value="دوشنبه"/>
+  <s key="Sa" value="شنبه"/>
+  <s key="Su" value="یکشنبه"/>
+  <s key="Th" value="پنجشنبه"/>
+  <s key="Tu" value="سه‌شنبه"/>
+  <s key="We" value="چهارشنبه"/>
+  <s key="day ago" value="روز قبل"/>
+  <s key="days ago" value="روز قبل"/>
+  <s key="Default" value="پیشفرض"/>
+  <s key="Blowing" value="وزش باد"/>
+  <s key="Clear" value="آسمان صاف"/>
+  <s key="Cloudy" value="آسمان ابری"/>
+  <s key="Overcast" value="آسمان سراسر ابری"/>
+  <s key="Drizzle" value="باران ریز"/>
+  <s key="Fair" value="نسبتا خوب"/>
+  <s key="Fog" value="مه آلود"/>
+  <s key="Freezing" value="نقطه انجماد"/>
+  <s key="Hail" value="تگرگ"/>
+  <s key="Haze" value="مه رقیق"/>
+  <s key="Heavy" value="تیره و باردار"/>
+  <s key="Ice Crystals" value="بلورهای یخ"/>
+  <s key="Ice Pellets" value="گلوله های یخی"/>
+  <s key="In Vicinity" value="در مجاورت "/>
+  <s key="Light" value="سبک"/>
+  <s key="Low Drifting" value="پیشامد پایین"/>
+  <s key="Mist" value="غبار"/>
+  <s key="Mostly Cloudy" value="غالبا ابری"/>
+  <s key="Partial" value="پاره ای تا قسمتی"/>
+  <s key="Partly Cloudy" value="نیمه ابری"/>
+  <s key="Patches" value="تکه ها"/>
+  <s key="Scattered Clouds" value="ابرهای پراکنده"/>
+  <s key="Rain" value="باران"/>
+  <s key="Rain And Thunder" value="بارانی توام با رعد و برق"/>
+  <s key="Sand" value="شن"/>
+  <s key="Shallow" value="کم عمق سطحی"/>
+  <s key="Shower" value="رگبار درشت"/>
+  <s key="Shower With Thunder" value="رگبار توام با رعد و برق"/>
+  <s key="Sleet" value="بوران(برف و باران) "/>
+  <s key="Small Hail" value="تگرگ ریز"/>
+  <s key="Smoke" value="دودی"/>
+  <s key="Snow" value="برف"/>
+  <s key="Snow And Thunder" value="بارش برف توام با رعد و برق"/>
+  <s key="Snow Grains" value="دانه های برف"/>
+  <s key="Snow Showers" value="بارش شدید برف"/>
+  <s key="Thunderstorm" value="طوفان و رعد و برق"/>
+  <s key="Unknown Precipitation" value="نوع بارش ناشناخته"/>
+  <s key="Widespread Dust Haze" value="گرد و غبار رقیق گسترده"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="کلید مجوز نامعتبر است. با رونوشت/چسباندن کلید دوباره سعی کرده ، اطمینان حاصل کنید کلید را بدرستی وارد نموده اید ."/>
+  <s key="Wrong license key" value="کلید مجوز صحیح نیست"/>
+  <s key="You will have to restart the application for this to take effect" value="جهت اعمال تغییرات باید از نرم افزارخارج شده دوباره اجرا نمایید."/>
+  <s key="Language change" value="تغییر زبان"/>
+  <s key="No limits!" value="بدون محدودیت!"/>
+  <s key="Buy now!" value="بخرید !"/>
+  <s key="Buy Unlimited License  to remove any limits." value="جهت از میان برداشتن هر گونه محدودیت   مجوز نامحدود را بخرید."/>
+  <s key="Not now" value="نه اکنون"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="برای تکمیل ثبت نام کلید مجوزی که برایتان فرستاده ایم را وارد کنید .نکته : از رونوشت /چسباندن استفاده کنید"/>
+  <s key="License registration" value="پروانه ثبت"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="با تشکر از شما برای ثبت YoWindow! اکنون همه محدودیت ها برداشته شدند.لذت ببرید!"/>
+  <s key="Distance" value="فاصله"/>
+  <s key="Down" value="پایین"/>
+  <s key="Download" value="دریافت"/>
+  <s key="Enter weather source URL please" value="لطفا نشانی منبع وضع هوا را وارد نمایید"/>
+  <s key="Error" value="خطا"/>
+  <s key="The location is already added" value="این محل قبلا افزوده شده است"/>
+  <s key="Exit" value="خروج"/>
+  <s key="To get started, pick your home location" value="برای شروع، محل سکونتتان را انتخاب کنید"/>
+  <s key="Forecast Panel" value="تابلوی پیش بینی"/>
+  <s key="Full Screen" value="پرده ای"/>
+  <s key="Help" value="راهنما"/>
+  <s key="Highlight weather station parameters" value="انتخاب متغیرهای ایستگاه وضع هوا"/>
+  <s key="Home" value="خانه"/>
+  <s key="h" value="ساعت"/>
+  <s key="Inspector" value="هواسنج"/>
+  <s key="Landscape" value="چشم انداز"/>
+  <s key="Picture" value="عکس‌"/>
+  <s key="Foreground" value="پیش زمینه"/>
+  <s key="Landscape Options" value="گزینه های چشم انداز"/>
+  <s key="Landscape pictures" value="تصاویر چشم انداز"/>
+  <s key="Landscapes" value="مناظر"/>
+  <s key="Language:" value="زبان :"/>
+  <s key="English" value="انگلیسی"/>
+  <s key="System Default" value="پیشفرض سیستم"/>
+  <s key="Latitude" value="عرض جغرافیایی"/>
+  <s key="{0} locations" value="{0} محل"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="در حال حاضرشما می توانید حداکثرتعداد{0}محل بیفزایید.در نسخه نامحدود هر تعداد محل بخواهید میتوانید اضافه نمایید."/>
+  <s key="Weather auto-update is off" value="بروزرسانی خودکار وضع هوا خاموش است"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="جهت بروزرسانی وضع هوا دکمه F5 را فشار دهید   در نسخه نامحدود وضع هوا بطور خودکار بروزرسانی می شود"/>
+  <s key="{0} weather forecast days only" value="تنها {0} روز وضع هوا پیش بینی گردد"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="در حال حاظر شما تنها مجاز به دسترسی {0} روز پیش بینی وضع هوا هستید    نسخه نامحدود {1} در روز را فراهم می کند"/>
+  <s key="Licence key" value="کلید مجوز"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="تنها در نسخه نامحدود بروزرسانی-خودکار وضع هوا صورت می گیرد."/>
+  <s key="LIVE" value="زنده "/>
+  <s key="Load weather from personal weather station" value="بارگزاری وضع هوا از ایستگاه وضع هوای شخصی"/>
+  <s key="Loading" value="در حال بارگزاری...."/>
+  <s key="Loading landscape..." value="در حال بارگزاری چشم انداز..."/>
+  <s key="Location" value="محل"/>
+  <s key="Location ID" value="شناسه محل سکونت"/>
+  <s key="Location Properties" value="خصوصیات محل سکونت"/>
+  <s key="id_internet_link" value="id_internet_link"/>
+  <s key="Locations" value="محلها"/>
+  <s key="All locations" value="همه مکان ها"/>
+  <s key="All regions" value="همه مناطق"/>
+  <s key="All states" value="همه ایالتها"/>
+  <s key="Change landscape" value="تعویض چشم انداز"/>
+  <s key="Select a location" value="محلی را انتخاب کنید"/>
+  <s key="The location is already added" value="این محل قبلا افزوده شده است"/>
+  <s key="Location is not selected yet" value="محل تاکنون انتخاب نشده است"/>
+  <s key="Major cities (more than 100,000 citizens)" value="شهرهای مهم (با بیش از ١٠٠،٠٠٠ شهروند)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="خطای شبکه ، اطلاعات محل قابل دستیابی نیست ، بهمین خاطر محل در حال حاضر نمی تواند انتخاب شود."/>
+  <s key="No locations in scope" value="بدون محل در این حیطه"/>
+  <s key="Scope" value="ناحیه"/>
+  <s key="Region" value="منطقه"/>
+  <s key="Cannot find a location?" value="نمی توانید محل سکونتتان را بیابید؟"/>
+  <s key="Set as Home" value="تنظیم بعنوان خانه"/>
+  <s key="Current Location" value="محل کنونی"/>
+  <s key="Unknown" value="ناشناخته"/>
+  <s key="Longitude" value="طول جغرافیایی"/>
+  <s key="Looking at the North (West wind blows from the left)" value="نگاهی به جنوب (باد غربی از سمت چپ می وزد)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="نگاهی به جنوب (باد غربی از سمت راست می وزد)"/>
+  <s key="April" value="آوریل"/>
+  <s key="August" value="آگوست"/>
+  <s key="December" value="دسامبر"/>
+  <s key="February" value="فوریه"/>
+  <s key="January" value="ژانویه"/>
+  <s key="July" value="جولای"/>
+  <s key="June" value="ژوئن"/>
+  <s key="March" value="مارس"/>
+  <s key="May" value="می"/>
+  <s key="November" value="نوامبر"/>
+  <s key="October" value="اکتبر"/>
+  <s key="September" value="سپتامبر"/>
+  <s key="About" value="درباره"/>
+  <s key="Facebook Edition" value="نسخه Facebook"/>
+  <s key="License Agreement" value="توافقنامه مجوز"/>
+  <s key="Program" value="برنامه"/>
+  <s key="Visit our Forum" value="از صفحه انجمن ما دیدن نمایید"/>
+  <s key="YoWindow for your Site or Blog" value="YoWindow برای وبسایت یا وبلاگ شما"/>
+  <s key="m" value="متر"/>
+  <s key="{0} minutes back" value="{0} دقیقه به عقب"/>
+  <s key="{0} minutes forward" value="{0} دقیقه به جلو"/>
+  <s key="Name" value="نام"/>
+  <s key="Network error" value="خطای شبکه"/>
+  <s key="Network not available" value="شبکه وجود ندارد"/>
+  <s key="It is available on {0}" value="برنامه در دسترس است روی {0}"/>
+  <s key="New version released" value="نسخه جدیدی منتشر شده است"/>
+  <s key="Next Day" value="روز بعد"/>
+  <s key="No" value="خیر"/>
+  <s key="No weather" value="بدون پیش بینی"/>
+  <s key="N/A" value="بدون دسترسی"/>
+  <s key="Notify me when a new version is available" value="وقتی نسخه جدید منتشر میشود مرا مطلع کن"/>
+  <s key="Online" value="متصل"/>
+  <s key="Open {0}" value="باز کردن {0}"/>
+  <s key="Options" value="گزینه ها"/>
+  <s key="Advanced" value="پیشرفته"/>
+  <s key="Application choice" value="انتخاب برنامه"/>
+  <s key="Date" value="تاریخ"/>
+  <s key="Display" value="نمایش"/>
+  <s key="Animate clouds" value="ابرهای متحرک"/>
+  <s key="Default" value="پیشفرض"/>
+  <s key="Full screen mode" value="حالت پرده ای"/>
+  <s key="Quality" value="کیفیت"/>
+  <s key="Custom" value="سفارشی"/>
+  <s key="Excellent" value="عالی"/>
+  <s key="Moderate" value="متوسط"/>
+  <s key="Number of days to display:" value="تعداد روزهایی که نمایش می یابد :"/>
+  <s key="Tile contents:" value="محتویات مفروش"/>
+  <s key="General" value="کلی"/>
+  <s key="Contents" value="محتویات"/>
+  <s key="Show N/A parameters" value="نمایش متغیرهای بدون دسترسی"/>
+  <s key="Live indicator" value="نشانگر زنده"/>
+  <s key="Locations" value="محلها"/>
+  <s key="Operation successful!" value="عملیات موفقیت آمیز"/>
+  <s key="Refresh locations DB" value="تازه سازی محل پایگاههای داده "/>
+  <s key="Reset to defaults" value="بازنشانی به پیشفرض"/>
+  <s key="Add" value="افزودن"/>
+  <s key="User interface" value="رابط کاربری"/>
+  <s key="Screen saver" value="محافظ صفحه نمایش"/>
+  <s key="Time Bar" value="نوار زمان"/>
+  <s key="Unit system:" value="واحد سیستم:"/>
+  <s key="Units" value="واحد"/>
+  <s key="Auto-detected" value="شناسایی خودکار"/>
+  <s key="Custom" value="سفارشی"/>
+  <s key="Distance:" value="فاصله:"/>
+  <s key="Metric" value="سیستم متریک"/>
+  <s key="Russia" value="روسیه"/>
+  <s key="Finland" value="فنلاند                "/>
+  <s key="Pressure:" value="فشار:"/>
+  <s key="Temperature:" value="درجه حرارت:"/>
+  <s key="US" value="ایالات متحده"/>
+  <s key="Wind speed:" value="سرعت باد:"/>
+  <s key="Landscape Options" value="گزینه های چشم انداز"/>
+  <s key="Show Daylight Diagram" value="نمایش نمودار روشنایی روز"/>
+  <s key="Show Forecast Panel" value="نمایش تابلوی پیش بینی"/>
+  <s key="Show Full Screen button" value="نمایش دکمه پرده ای"/>
+  <s key="Show Inspector" value="نمایش تابلوی وضع هوا"/>
+  <s key="Show Time Bar" value="نمایش نوار زمان"/>
+  <s key="Show User interface" value="نمایش رابط کاربر"/>
+  <s key="Show forecast when current weather is expired" value="نمایش پیش بینی زمانی که هوای جاری منقضی شده است"/>
+  <s key="Organize" value="مرتبسازی"/>
+  <s key="Organize locations" value="مرتب سازی مکان ها"/>
+  <s key="Organize pictures" value="مرتب سازی تصاویر"/>
+  <s key="Pictures" value="تصاویر"/>
+  <s key="press" value="فشار"/>
+  <s key="Falling" value="در حال کاهش"/>
+  <s key="Falling Rapidly" value="به سرعت در حال کاهش"/>
+  <s key="Rising" value="در حال افزایش"/>
+  <s key="Rising Rapidly" value="به سرعت در حال افزایش"/>
+  <s key="Steady" value="یکنواخت"/>
+  <s key="Previous Day" value="روز قبل"/>
+  <s key="Properties" value="خصوصیات"/>
+  <s key="Refresh Locations data base" value="تازه سازی پایگاه داده مکان ها"/>
+  <s key="Register" value="ثبت مجوز"/>
+  <s key="Remove" value="حذف"/>
+  <s key="Rename" value="تغییر نام"/>
+  <s key="Rename location" value="تغییر نام مکان"/>
+  <s key="Rename picture" value="تغییر نام تصویر"/>
+  <s key="Retry" value="سعی دوباره"/>
+  <s key="Run with Windows (minimized to tray)" value="اجرا با شروع ویندوز(کمینه در سینی) "/>
+  <s key="Season map" value="نقشه فصل"/>
+  <s key="Select" value="انتخاب "/>
+  <s key="Select country" value="کشوری انتخاب کنید"/>
+  <s key="Select a landscape" value="چشم اندازی انتخاب کنید"/>
+  <s key="Select location" value="محلی انتخاب کنید"/>
+  <s key="Select region" value="ناحیه ای انتخاب کنید"/>
+  <s key="Select state" value="ایالتی انتخاب کنید"/>
+  <s key="Set as default" value="تنظیم بعنوان پیشفرض"/>
+  <s key="Set YoWindow as ScreenSaver" value="تنظیم YoWindow بعنوان محافظ صفحه"/>
+  <s key="Setup" value="نصب کردن"/>
+  <s key="Show" value="نمایش"/>
+  <s key="Show again" value="نمایش دوباره"/>
+  <s key="Speed" value="سرعت"/>
+  <s key="Time" value="زمان"/>
+  <s key="{0} ago" value="{0} پیش"/>
+  <s key="Time zone" value="منطقه زمانی"/>
+  <s key="Today" value="امروز"/>
+  <s key="Tomorrow" value="فردا"/>
+  <s key="Tom." value="فردا"/>
+  <s key="Tonight" value="امشب"/>
+  <s key="Add New Location" value="افزودن محل جدید"/>
+  <s key="Open Calendar..." value="باز کردن تقویم..."/>
+  <s key="Show Less Days" value="نمایش روزهای کمتر"/>
+  <s key="Show More Days" value="نمایش روزهای بیشتر"/>
+  <s key="Update Weather" value="بروزرسانی وضع هوا"/>
+  <s key="Unknown" value="ناشناخته"/>
+  <s key="Up" value="بالا"/>
+  <s key="Update interval" value="فاصله بروز رسانی"/>
+  <s key="Update weather" value="بروزرسانی وضع هوا"/>
+  <s key="Updating weather" value="در حال بروزرسانی وضع هوا"/>
+  <s key="View" value="نمایش"/>
+  <s key="Please wait..." value="لطفا صبر کنید..."/>
+  <s key="Weather" value="وضع هوا"/>
+  <s key="Daily rain total" value="مجموع بارش روزانه"/>
+  <s key="Weather expired" value="وضع هوا منقضی شد"/>
+  <s key="Feels like" value="احساسی مثل"/>
+  <s key="Day maximum temperature" value="حداکثر دمای روز"/>
+  <s key="Day minimum temperature" value="حداقل دمای روز"/>
+  <s key="Weather forecast" value="پیش بینی وضع هوا"/>
+  <s key="Forecast issued" value="پیش بینی صادر شد"/>
+  <s key="Hail" value="تگرگ"/>
+  <s key="Humidity" value="رطوبت"/>
+  <s key="Observed" value="مشاهده شده"/>
+  <s key="Pressure" value="فشار"/>
+  <s key="PWS only" value="تنها ایستگاه هوای شخصی"/>
+  <s key="Rain" value="باران"/>
+  <s key="Rain/Snow rate" value="میزان بارش برف/باران"/>
+  <s key="Description" value="شرح"/>
+  <s key="Sky image" value="تصویر آسمان"/>
+  <s key="Snow" value="برف"/>
+  <s key="Snow level" value="سطح برف"/>
+  <s key="Weather station properties" value="خصوصیات ایستگاه هوا"/>
+  <s key="Temperature" value="درجه حرارت"/>
+  <s key="Temperature range" value="محدوده دمایی"/>
+  <s key="Update error" value="خطا در بروزرسانی"/>
+  <s key="Update time" value="زمان بروزرسانی"/>
+  <s key="UV index" value="شاخص فرابنفش"/>
+  <s key="Visibility" value="دید"/>
+  <s key="Unlimited" value="نامحدود"/>
+  <s key="Wind" value="باد"/>
+  <s key="Calm" value="آرام"/>
+  <s key="Variable" value="متغیر"/>
+  <s key="Welcome to YoWindow!" value="به YoWindow خوش آمدید"/>
+  <s key="Wind direction:" value="جهت باد "/>
+  <s key="East" value="شرق"/>
+  <s key="North" value="شمال"/>
+  <s key="South" value="جنوب"/>
+  <s key="West" value="غرب"/>
+  <s key="Yes" value="بله"/>
+  <s key="Close screensaver on mouse move" value="خروج از محافظ صفحه با حرکت موشواره"/>
+  <s key="Color" value="رنگ"/>
+  <s key="Background" value="پس زمینه"/>
+  <s key="Choose color" value="انتخاب رنگ"/>
+  <s key="System tray" value="سینی سیستم"/>
+  <s key="Transparent" value="بدون رنگ"/>
+  <s key="Precipitation chance" value="احتمال بارش"/>
+  <s key="Rain chance" value="احتمال باران"/>
+  <s key="Snow chance" value="احتمال برف"/>
+  <s key="{0} only" value="{0}فقط"/>
+  <s key="US" value="ایالات متحده"/>
+  <s key="Dew point" value="نقطه شبنم"/>
+  <s key="I want to have fun" value="میخواهم لذت ببرم!"/>
+  <s key="Enable surprises" value="فعالسازی حالت غافلگیری"/>
+  <s key="NWS forecasts for the USA" value="خدمات ملی هواشناسی برای آمریکا"/>
+  <s key="h" value="ساعت"/>
+  <s key="min" value="دقیقه"/>
+  <s key="Open" value="باز کردن"/>
+  <s key="Browse" value="مسیر"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="مسیر یک تصویر یا چشم انداز از روی اینترنت و یا رایانه تان را وارد کنید"/>
+  <s key="Landscape load error" value="خطای بارگزاری چشم انداز "/>
+  <s key="Picture load error" value="خطای بارگزاری تصویر"/>
+  <s key="The landscape is already added" value="چشم انداز قبل افزوده شده است"/>
+  <s key="Landscape collection" value="مجموعه چشم اندازها"/>
+  <s key="Turn your photo into Landscape" value="تبدیل عکس شما به چشم انداز"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="{0}یاد بگیرید{1}چگونه عکسی را به منظره چشم انداز تبدیل نمایید"/>
+  <s key="Village" value="روستا"/>
+  <s key="Seaside" value="دریاکنار"/>
+  <s key="Airport" value="فرودگاه"/>
+  <s key="Pagoda" value="بتکده"/>
+  <s key="Town" value="شهرک"/>
+  <s key="Valley" value="دره"/>
+  <s key="Sky" value="آسمان"/>
+  <s key="Landscape made from picture" value="چشم انداز از تصویر ایجاد شد"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="ما شما را در طی مراحل تبدیل تصویر به منظره چشم انداز راهنمایی می کنیم"/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="لطفا قبل ازانجام هرکاری خود آموزما را{0}چگونه تصویری را به چشم انداز تبدیل کنیم؟{1}مطالعه کنید"/>
+  <s key="Click Next to continue..." value="بر روی بعدی کلیک کنید تا ادامه یابد..."/>
+  <s key="Specify a picture you want to turn into landscape." value="تصویری را که میخواهید به چشم انداز تبدیل شود را مشخص نمایید"/>
+  <s key="How to pick the best landscape picture?" value="چگونه بهترین تصویر برای جشم انداز را انتخاب نمودن"/>
+  <s key="Source picture" value="تصویر منبع"/>
+  <s key="The landscape will be created in the following folder" value="این جشم انداز در پوشه زیر ایجاد خواهد شد"/>
+  <s key="Landscape folder name" value="نام پوشه چشم انداز"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="بر روی دکمه &quot;بساز&quot; کلیک نمایید تا چشم انداز{0} ایجاد شود"/>
+  <s key="{0} landscape has been created successfully!" value="چشم انداز{0} با موفقیت ایجاد شد"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="حالا{0} را داخل ویرایشگر تصویرعلاقمندیها باز کنید.شما نیاز دارید آسمان را از تصویر حذف نمایید.شما تصویررا درپوشه {2}چشم انداز{1} پیدا خواهید نمود"/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="حذف آسمان بسیار ساده است {1} خود آموز کوتاه {0} ما را مطالعه کنید"/>
+  <s key="Auto" value="خودکار"/>
+  <s key="Horizon Level Setup" value="تنظیمات سطح افق"/>
+  <s key="Keys: Up/Down" value="کلیدهای: بالا/پایین"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="شما در پی حذف تصویر چشم انداز{0}هستید دستوالعمل قابل بازیابی نخواهد بود آیا مطمئید؟"/>
+  <s key="Edit Landscape" value="ویرایش چشم انداز"/>
+  <s key="Edit Horizon Level" value="ویرایش سطح افق"/>
+  <s key="File not found." value="پرونده یافت نشد"/>
+  <s key="The name is empty" value="نام خالی است"/>
+  <s key="The folder already exists" value="پوشه از قبل موجود است"/>
+  <s key="Illegal folder name" value="نام پوشه غیر قانونی"/>
+  <s key="The file format is not supported." value="شکل قالب پرونده پشتیبانی نمی شود"/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="تصویربرای چشم انداز خیلی بزرگ است اندازه تصویربرای طول وعرض تصویرنباید متجاوزاز ۲۸۸۰ پیکسل باشد"/>
+  <s key="Landscape Image" value="تصویر چشم انداز"/>
+  <s key="Landscape Folder" value="پوشه چشم انداز"/>
+  <s key="About Landscape" value="درباره چشم انداز"/>
+  <s key="Picture {0} imported successfully" value="تصویر{0}باموفقیت وارد شد"/>
+  <s key="Remind Me Later" value="بعدا یادآوری کن"/>
+  <s key="Skip This Version" value="از این نسخه صرفنظر کن"/>
+  <s key="Loading" value="در حال بارگزاری...."/>
+  <s key="Next" value="بعدی"/>
+  <s key="Back" value="قبلی"/>
+  <s key="Finish" value="پایان"/>
+  <s key="Create" value="بساز"/>
+  <s key="Import" value="وارد کردن"/>
+  <s key="Delete" value="حذف"/>
+  <s key="Path" value="مسیر"/>
+  <s key="Options" value="گزینه ها"/>
+  <s key="Select the options you like" value="گزینه هایی که مایلید برگزیید"/>
+  <s key="Set YoWindow as default screen saver" value="تنظیم YoWindow بعنوان محافظ صفحه پیش فرض"/>
+  <s key="Start with Windows (minimized to system tray)" value="شروع با راه اندازی ویندوز(کمینه در سینی سیستم)"/>
+  <s key="Add a shortcut to quick launch bar" value="افزودن یک میانبربه نوارراه اندازی سریع"/>
+  <s key="You are about to upgrade YoWindow." value="شما بدنبال ارتقا YouWindow هستین"/>
+  <s key="Click OK to install the new version." value="بر روی بسیارخوب کلیک نمایید تا نسخه جدید نصب شود"/>
+  <s key="You must close YoWindow before you can continue." value="قبل ازاینکه بتوانید ادامه دهید باید برنامه را ببندید"/>
+  <s key="After you have closed YoWindow, select Retry." value="بعد از اینکه برنامه را بستید بر روی سعی دوباره کلیک نمایید"/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="اگرمایلید ازعمل عزل انصراف دهید برروی دکمه لغو کلیک نمایید"/>
+  <s key="If you wish to try to install anyway, select Ignore." value="اگر می خواهید به هرعنوان نصب برنامه انجام شود برروی دکمه نادیده بگیر کلیک نمایید"/>
+  <s key="If you wish to abort the installation, select Abort." value="اگرمیخواهید نصب برنامه متوقف شود برروی انصراف کلیک نمایید"/>
+  <s key="Final step" value="گام آخر"/>
+  <s key="Start YoWindow on system startup" value="شروع بکارYoWindow بهنگام راه اندازی سیستم"/>
+  <s key="Check for new version..." value="بررسی برای وجود نسخه جدید..."/>
+  <s key="YoWindow is up to date!" value="YoWindow بروز است"/>
+  <s key="You have the latest version" value="شما درحال استفاده ازآخرین نسخه برنامه هستین !"/>
+  <s key="Download new version!" value="دریافت نسخه جدید !"/>
+  <s key="Preview" value="پیشنمایش"/>
+  <s key="Show small YoWindow logo" value="نمایش آرم کوچک YoWindow "/>
+  <s key="The landscape is available in Unlimited Edition only." value="چشم انداز تنها در نسخه نامحدود خریدنی در دسترس است !"/>
+  <s key="id_short_hour" value="ساعت"/>
+  <s key="id_short_minute" value="دقیقه"/>
+  <s key="id_unit_short_millimetres" value="میلیمتر"/>
+  <s key="id_unit_short_centimetres" value="سانتیمتر"/>
+  <s key="id_unit_short_metres" value="متر"/>
+  <s key="id_unit_short_kilometres" value="کیلومتر"/>
+  <s key="id_unit_short_feet" value="فوت"/>
+  <s key="id_unit_short_miles" value="مایل"/>
+  <s key="id_unit_short_miles_per_hour" value="m/h"/>
+  <s key="id_unit_short_kilometres_per_hour" value="km/h"/>
+  <s key="id_unit_short_metres_per_second" value="متربرثانیه"/>
+  <s key="id_unit_short_knots" value="گره دریایی(واحد مسافت دریایی ۱.۸۵۲ متر)"/>
+  <s key="id_unit_short_beaufort" value="بوفورت(مقیاس شدت سرعت باد) "/>
+  <s key="id_unit_short_millibar" value="میلی بار(واحد فشار اتمسفر)"/>
+  <s key="id_unit_short_kilopascal" value="کیلوپاسکال(مقیاس فشارهوا)"/>
+  <s key="id_unit_short_hectopascal" value="هکتوپاسکال"/>
+  <s key="id_unit_short_inches" value="اینچ"/>
+  <s key="Display &quot;?&quot;" value="نمایش &quot;؟&quot;"/>
+  <s key="Hide parameter" value="متغیرمخفی شود"/>
+  <s key="When weather parameter is not available" value="هر گاه متغیرهای وضع هوا در دسترس نبودند"/>
+  <s key="Information" value="اطلاعات"/>
+  <s key="id_information_all" value="همه"/>
+  <s key="Temperature and Time" value="درجه حرارت و زمان"/>
+  <s key="This is Unlimited Edition." value="این نسخه نامحدود است"/>
+  <s key="It is already registered." value="مجوزاستفاده از این برنامه را قبلا ثبت نموده اید"/>
+  <s key="Free edition" value="نسخه رایگان"/>
+  <s key="Unlimited edition" value="نسخه نامحدود"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="جهت اجرای برنامه شما نیازدارید Flash Player برای(کاووشگراینترنت){0}ویا بالاتررا نصب نمایید"/>
+  <s key="Get Adobe Flash Player" value="دریافت Adobe Flash Player"/>
+  <s key="Unlock landscape" value="بازکردن قفل چشم انداز"/>
+  <s key="YoWindow for Chrome" value="هواشناسی YoWindow برای مرورگر کروم"/>
+  <s key="YoWindow for Windows" value="هواشناسی YoWindowبرای ویندوز "/>
+  <s key="YoWindow for Mac OS" value="هواشناسی YoWindowبرای مکینتاش"/>
+  <s key="YoWindow for iPhone and iPad" value="هواشناسیYoWindowبرای آیفون و آیپد"/>
+  <s key="Follow YoWindow on Facebook" value="هواشناسی YoWindow را در فیسبوک دنبال کنید"/>
+  <s key="Follow YoWindow on Twitter" value="هواشناسی YoWindow را در توویتر دنبال کنید"/>
+  <s key="Landscape trial, days left:" value="چشم اندازمحدود آزمایشی، روزهای باقیمانده :"/>
+  <s key="Landscape trial period is over" value="دوره محدود آزمایشی چشم انداز تمام شده است"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="چشم انداز&quot;{0}&quot; بخشی ازYoWindow نامحدود است"/>
+  <s key="Details" value="جزییات"/>
+  <s key="View direction" value="نمایش جهت"/>
+  <s key="Fixed sky" value="آسمان ثابت"/>
+  <s key="Edit" value="ویرایش"/>
+  <s key="Reload" value="بارگزاری"/>
+  <s key="Minimized" value="کمینه شده"/>
+  <s key="affects wind only" value="تنها تحت تاثیر باد قرار می گیرد"/>
+  <s key="Broadcast" value="داده پراکنی"/>
+  <s key="Share" value="همرسانی"/>
+  <s key="Publishing" value="در حال پخش"/>
+  <s key="Authorizing" value="در حال کسب مجوز"/>
+  <s key="Published!" value="منتشر شد!"/>
+  <s key="Space" value="دکمه فاصله از صفحه کلید"/>
+  <s key="Weather now in {0}" value="وضع هوا هم اکنون در{0}"/>
+  <s key="Weather forecast for {0} in {1}" value="پیشگویی وضع هوا برای {0} در {1}"/>
+  <s key="Today in {0} (forecast)" value="امروز در {0} (پیشگویی)"/>
+  <s key="Tomorrow in {0} (forecast)" value="فردا در {0} (پیشگویی)"/>
+  <s key="Forecast" value="پیشگویی"/>
+  <s key="Sound" value="صدا"/>
+  <s key="Enable sound" value="فعالسازی صدا"/>
+  <s key="Volume" value="درجه صدا"/>
+  <s key="Skip" value="صرفنظر"/>
+  <s key="Presented in Stereo" value="ارائه شده بشکل فراگیر(استریو) "/>
+  <s key="Override current season" value="باطل کردن فصل جاری"/>
+  <s key="Winter" value="زمستان"/>
+  <s key="Spring" value="بهار"/>
+  <s key="Summer" value="تابستان"/>
+  <s key="Autumn" value="پاییز"/>
+  <s key="Naked" value="عریان"/>
+  <s key="Countries" value="کشورها"/>
+  <s key="Vote!" value="رای"/>
+  <s key="Vote for YoWindow, thank you" value="به YoWindowرای دهید باتشکر "/>
+  <s key="More YoWindow" value="سایر نسخه های YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="برای دیدن تغییرات هوا در طول زمان ضربه تندی به صفحه بزنید"/>
+  <s key="And one more time" value="و یک بار دیگر "/>
+  <s key="Press the 'LIVE' button to return to current time" value="برای بازگشت به زمان جاری دکمه &quot;زنده&quot; را فشار دهید"/>
+  <s key="Watch weather with pleasure" value="وضعیت هوا را با لذت تماشا کنید"/>
+  <s key="Disable Auto-Lock" value="قفل خودکار غیرفعال شود"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="درصورت اتصال دستگاه به شارژر یا باطری بالای ٢۵% صفحه نمایش را روشن نگه دار"/>
+  <s key="More" value="بیشتر                                "/>
+  <s key="Parallax effect" value=" جلوه اختلاف منظر                "/>
+  <s key="An illusion of 3D space when you tilt the device" value="توهم فضای سه بعدی وقتی دستگاه را کج می کنید"/>
+  <s key="Temperature in Status Bar" value="درجه حرارت در نوار وضعیت"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="نمایش درجه حرارت برای محل سکونت &quot;خانه&quot;"/>
+  <s key="Not enough free space." value="فضای کافی دردسترس نیست                "/>
+  <s key="YoWindow may run unstable." value="برنامه هواشناسی ممکنست کامل اجرا نگردد                "/>
+  <s key="{0} MB minimum required." value="حداقل {0} مگابایت فضا نیازاست                "/>
+  <s key="YoWindow Weather" value="هواشناسی YoWindow"/>
+  <s key="YoWindow Zero" value="[0]YoWindow"/>
+  <s key="Get Full Version" value="دریافت نسخه کامل"/>
+  <s key="No ads, no limitations, all landscapes available" value="بدون تبلیغات ، بدون محدودیت ، امکان دسترسی به همه چشم اندازها"/>
+  <s key="No advertising" value="بدون تبلیغات"/>
+  <s key="Remove ads" value="حذف تبلیغات"/>
+  <s key="Weather forecast is limited" value="پیشگویی وضع هوا با محدودیت"/>
+  <s key="Demo" value="نسخه آزمایشی"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="دسترسی به چشم انداز &quot;{0}&quot; رایگان نیست"/>
+  <s key="Connecting to {0}" value="در حال اتصال به {0}"/>
+  <s key="Camera" value="دوربین"/>
+  <s key="Photos" value="تصاویر"/>
+  <s key="Wallpaper" value="کاغذ دیواری"/>
+  <s key="Enable animations" value="فعالسازی پویانمایی ها"/>
+  <s key="Show weather" value="نمایش وضعیت هوا"/>
+  <s key="No animation - almost no battery power consumed." value="بدون متحرکسازی-تقریبا بدون هیچگونه مصرف باتری."/>
+  <s key="Widget Settings" value="تنظیمات ابزارکها"/>
+  <s key="Create Widget" value="ایجاد ابزارک"/>
+  <s key="Tap to search for a location" value="جهت جستجوی یک محل ضربه بزنید"/>
+  <s key="Show background" value="نمایش پس زمینه"/>
+  <s key="Move On Top" value="انتقال به بالای همه"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value="&quot;YoWindow Free&quot; عزل"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="شما هر دو نسخه رایگان و کامل یوویندوز را نصب کرده اید."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="برای جلوگیری از سردرگمی لطفا YoWindow رایگان را عزل نمایید"/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="با افزودن ابزارکهای YoWindow- پیش بینی وضع هوا را براحتی مشاهده کنید"/>
+  <s key="Tap to continue" value="جهت ادامه ضربه بزنید"/>
+  <s key="YoWindow installed on an external storage." value="هواشناس YoWindow روی حافظه خارجی نصب شد"/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="هشدار :کاغذدیواریها و ابزارکها درصورت نصب YoWindow روی حافظه خارجی ممکنست قابل دسترس نباشند"/>
+  <s key="Location Search" value="یافتن موقعیت"/>
+  <s key="Redeem code" value="کد بازخرید"/>
+  <s key="Full Version privilege granted." value="نسخه کامل دارای  اعطای امتیاز ویژه است"/>
+  <s key="Advertising removed, no limitations." value="تبلیغات برداشته شد بدون محدودیت ."/>
+  <s key="Unexpected code" value="کد غیر منتظره"/>
+  <s key="Restore privileges" value="بازیابی امتیازات ویژه"/>
+  <s key="Set As Wallpaper" value="تنظیم بعنوان کاغذ دیواری"/>
+  <s key="Post" value="ارسال"/>
+  <s key="Enter the message" value="پیام را وارد کنید"/>
+  <s key="Fill in the weather" value="وضع هوا را ارسال کنید"/>
+  <s key="You just have posted to Facebook!" value="همین الان پیامی در فیسبوک ارسال کرده اید"/>
+  <s key="Set As Daydream" value="تنظیم بعنوان رویاپردازی"/>
+  <s key="Daydream" value="رویاپردازی"/>
+  <s key="Night mode" value="حالت شب"/>
+  <s key="Very dim display (for dark rooms)" value="نمایش خیلی تار(برای اتاقها تاریک) "/>
+  <s key="Send report" value="ارسال گزارش"/>
+  <s key="Are you sure to set {0} as home?" value="آیا مطمئن به تنظیم {0} بعنوان خانه هستید؟"/>
+  <s key="Clock" value="ساعت"/>
+  <s key="Display pressure for" value="نمایش فشار برای"/>
+  <s key="Sea level" value="سطح دریا"/>
+  <s key="Location level" value="سطح محل سکونت"/>
+  <s key="YoWindow requires a permission to store an image file before sharing it." value="برنامه نیازمند مجوز برای ذخیره پرونده تصویری قبل از اشتراک گذاری آن است. "/>
+  <s key="Notification" value="هشدار"/>
+  <s key="Show Notifications" value="نمایش هشدارها"/>
+  <s key="Show on Lock Screen" value="نمایش روی صفحه قفل"/>
+  <s key="Centered" value="در مرکز قرار گرفت"/>
+  <s key="Alarm Clock" value="ساعت زنگی"/>
+  <s key="Wake up with YoWindow" value="با برنامه بیدار شو"/>
+  <s key="Silence" value="سکوت"/>
+  <s key="Snooze" value="تعویق زنگ"/>
+  <s key="Dismiss" value="رد کردن"/>
+  <s key="Wake up to the sounds of YoWindow" value="بیدار شدن با صدای YoWindow"/>
+  <s key="Warning" value="هشدار"/>
+  <s key="Weather station" value="ایستگاه هواشناسی"/>
+  <s key="Private Weather Stations may not be reliable." value="ایستگاههای هواشناسی خصوصی امکان دارد قابل اعتماد نباشند"/>
+  <s key="Do you really want to receive the weather from &quot;{0}&quot;?" value="آیا واقعا مایلید وضع هوا را از&quot;{0}&quot; دریافت دارید؟ "/>
+  <s key="Do you really want to override the season for {0}?" value="آیا واقعا مایلید فصل&quot;{0}&quot; را باطل کنید؟"/>
+  <s key="We recommend" value="ما به شما توصیه می‌کنیم"/>
+  <s key="Report issue" value="گزارش مشکل"/>
+  <s key="Never" value="هیچوقت"/>
+  <s key="Rate YoWindow" value="رتبه دهیYowindow"/>
+  <s key="Thank you!" value="متشکریم!"/>
+  <s key="Send mail" value="ارسال رایانامه"/>
+  <s key="YoWindow Report" value="گزارش وضع هوا"/>
+  <s key="What exactly went wrong?" value="دقیقا چه خطائی رخ داده است؟"/>
+  <s key="We need a maximum of details." value="جزئیات بیشتری نیازهست."/>
+  <s key="Dark glass" value="شیشه‌ای تار"/>
+  <s key="App icons are easy to see" value="دیدن شمایل برنامه را آسانتر می کند"/>
+  <s key="To hide weather information, drag it upwards" value="جهت پنهان کردن اطلاعات وضع هوا، آنرا بطرف بالا بکشید"/>
+  <s key="Tap the temperature to reveal weather information" value="جهت آشکار سازی اطلاعات وضع هوا، برروی درجه حرارت ضربه بزنید"/>
+  <s key="Nothing was found for &quot;{0}&quot;" value="برای &quot;{0}&quot; چیزی پیدا نشد"/>
+  <s key="Click to try again." value="برای امتحان دوباره،کلیک کنید"/>
+  <s key="Update" value="بروزرسانی"/>
+  <s key="You need to update YoWindow" value="لازم است YoWindow بروزرساني گردد"/>
+  <s key="Radar" value="رادار"/>
+  <s key="Enjoy the weather" value="از هوا لذت ببرید"/>
+  <s key="New landscape"/>
+  <s key="Americana"/>
+  <s key="If you erase the sky, we can replace it with the live sky of YoWindow."/>
+  <s key="Crop"/>
+  <s key="Pinch to zoom"/>
+  <s key="Horizon Level"/>
+  <s key="Set horizon level"/>
+  <s key="Step {0}."/>
+  <s key="Erase the sky"/>
+  <s key="Tap the sky to select a portion of it"/>
+  <s key="Erase"/>
+  <s key="Recover"/>
+  <s key="Use Red marker to erase the sky."/>
+  <s key="Use Blue marker to recover."/>
+  <s key="Drag over the sky to erase it."/>
+  <s key="I give my permission to include this landscape inside YoWindow collection"/>
+  <s key="Photo author"/>
+  <s key="Landscape author"/>
+  <s key="Your changes will be lost"/>
+</body>

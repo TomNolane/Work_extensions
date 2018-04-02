@@ -1,0 +1,69 @@
+
+	function initLanguage() {
+		var localeId = null;
+		var localeComboBox = document.getElementById("localeComboBox");
+		if(this.optionsUser.status() == "ready") {
+		    localeId = this.optionsUser.getLang();
+    	}
+		if (!localeId) {
+			localeId = RsChromeUtil.getChromeLocale();
+		}
+
+		var localeFound = false;
+	    for(var i = 0 ; i < this.localeAllowed.length ; i++) {		
+			if(localeId == this.localeAllowed[i].id) {
+			    localeComboBox.value = this.localeAllowed[i].title;
+				localeFound = true;
+			    break;
+			}
+    	}    		
+
+		var languageId = localeId;
+		var underscoreIndex = localeId.indexOf("_");
+		if (underscoreIndex != -1) {
+			languageId = localeId.substring(0, underscoreIndex);
+		}
+
+		if (!localeFound) {
+			languageId = 'en';
+		}
+
+		var url = "js/yolib/locales/yoloc_" + languageId + ".js";
+	    dispatchEvent(
+	    	Options.EVENT_GET_TEXT_FROM_URL,
+            url
+        );
+
+	}
+
+
+	    function onClickLocaleChooser() {
+			if(this.localeComboBox.selectedIndex == -1 ||
+            	this.lastSelectedID == this.localeComboBox.selectedIndex) {
+			    return;
+			}
+                
+			var languageId = this.localeComboBox.options[this.localeComboBox.selectedIndex].getAttribute("idLocale");
+			this.optionsUser.setLang(languageId);
+
+			var url = "js/yolib/locales/yoloc_" + languageId + ".js";
+			dispatchEvent(Options.EVENT_SET_LANG, languageId);
+			dispatchEvent(Options.EVENT_GET_TEXT_FROM_URL, url);
+		
+	        this.lastSelectedID = this.localeComboBox.selectedIndex;
+	    }
+
+
+	    function fillLocaleComboBox() {
+			this.localeComboBox = document.getElementById("localeComboBox");
+			for(var i = 0; i < this.localeAllowed.length ; i++) {
+                var option = document.createElement("option");
+    			option.setAttribute("class","option");
+			    option.setAttribute("url",this.localeAllowed[i].url);
+			    option.setAttribute("idLocale",this.localeAllowed[i].id);
+        		option.setAttribute("onclick","onClickLocaleChooser();");
+				option.innerHTML = this.localeAllowed[i].title;
+			    localeComboBox.appendChild(option)
+			}
+	    }
+

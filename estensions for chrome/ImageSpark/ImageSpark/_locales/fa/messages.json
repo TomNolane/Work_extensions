@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "دانلود"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "دانلود"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "دانلودر تصویر قدرتمند است، که اجازه می دهد تا شما را به فهرست و دانلود تمام تصاویر نمایش داده شده در هر صفحه وب."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate تصاویر Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nاوه اوه، این صفحه وب پشتیبانی نمی شود! لطفا با استفاده از صفحه وب دیگری را امتحان کنید .\n\u003Cbr>\n\u003Cbr>\nاگر مشکل ادامه داشت، لطفا بررسی کنید که جاوا اسکریپت فعال و در حال اجرا این است.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "بارگیری"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "باز کردن پوشه"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "باز کردن در تب جدید"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "انتخاب همه"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "صرفه جویی به زیر پوشه ها"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "تنظیم نام زیرپوشه شما می خواهید برای دانلود تصاویر به ."
+   }
+}

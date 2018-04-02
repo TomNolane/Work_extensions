@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "PARSISIŲSTI"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Parsisiųsti"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Galinga vaizdo Downloader, kuri leidžia jums naršyti ir atsisiųsti visus rodomus bet kurio tinklalapio vaizdus ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Vaizdai Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, tai svetainė yra nepalaikomas ! Bandykite naudoti kitą tinklalapį.\n\u003Cbr>\n\u003Cbr>\nJei problema išlieka , įsitikinkite, kad javascript yra įjungtas ir veikia tai dar kartą.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "pakrovimas"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Atidaryti katalogą"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Atidaryti naujame skirtuke"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Pasirinkti viską"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "IŠSAUGOTI PAAPLANKIS"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Nustatykite poaplankyje norite atsisiųsti vaizdus vardą ."
+   }
+}

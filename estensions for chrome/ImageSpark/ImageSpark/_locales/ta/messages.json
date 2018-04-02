@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "பதிவிறக்க"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "பதிவிறக்க"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "நீங்கள் உலவ மற்றும் எந்த இணைய பக்கம் காட்டப்படும் அனைத்து படங்களையும் பதிவிறக்க அனுமதிக்கிறது என்று சக்தி வாய்ந்த படத்தை பதிவிறக்கி, ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate படங்கள் Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nஅடடா, இந்த வலைப்பக்கத்தின் ஆதரவு இல்லை ! மற்றொரு வலைப்பக்கத்தில் பயன்படுத்திப் பாருங்கள்.\n\u003Cbr>\n\u003Cbr>\nசிக்கல் தொடர்ந்தால், செயல்படுத்தப்பட்ட மீண்டும் இந்த இயங்கும் ஜாவா சரிபார்த்துக் கொள்ளவும்.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "ஏற்றுதல்"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "திறந்த அடைவு"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "புதிய தாவலில் திற"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "அனைத்தையும் தெரிவுசெய்"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "துணைஅடைவில் காப்பாற்ற"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "நீங்கள் படங்களை பதிவிறக்க வேண்டும் துணைஅடைவில் பெயர் அமைக்க ."
+   }
+}

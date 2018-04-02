@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "డౌన్లోడ్"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "డౌన్లోడ్"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "మీరు బ్రౌజ్ మరియు ఏ వెబ్ పేజీలో ప్రదర్శించబడిన అన్ని చిత్రాలను డౌన్లోడ్ అనుమతిస్తుంది శక్తివంతమైన చిత్రం downloader ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate చిత్రాలు Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nఅయ్యో, ఈ వెబ్పేజీ మద్దతు లేదు ! దయచేసి మరొక వెబ్ పేజీ ఉపయోగించి ప్రయత్నించండి.\n\u003Cbr>\n\u003Cbr>\nసమస్య కొనసాగితే , దయచేసి ఎనేబుల్ మళ్లీ ఈ అమలవుతున్న ధ్రువీకరించడం.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "లోడ్"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "ఫోల్డర్ను తెరువు"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "కొత్త టాబ్లో తెరువు"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "అన్ని ఎంచుకోండి"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SUBFOLDER కు సేవ్"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "మీరు చిత్రాలను డౌన్లోడ్ చేయాలని అనుకుంటున్నారా subfolder పేరు సెట్."
+   }
+}

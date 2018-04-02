@@ -1,0 +1,54 @@
+{
+   "appDesc": {
+      "description": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+      "message": "Тимчасова одноразова адреса електронної пошти. Захистіть вашу пошту від спаму, ботів та фішингу з TempMail."
+   },
+   "appName": {
+      "description": "Temp Mail - Disposable Temporary Email",
+      "message": "Temp Mail - Одноразова тимчасова пошта"
+   },
+   "change": {
+      "description": "Change",
+      "message": "Заміна"
+   },
+   "check_mail": {
+      "description": "CHECK MAIL",
+      "message": "ПЕРЕВІРКА ПОШТИ"
+   },
+   "copy": {
+      "description": "Copy",
+      "message": "Копіювати"
+   },
+   "new_mail_notification_body": {
+      "description": "unread message(s)",
+      "message": "непрочитаних повідомлень"
+   },
+   "new_mail_notification_header": {
+      "description": "You have new mail",
+      "message": "У вас нова пошта"
+   },
+   "no_thanks": {
+      "description": "no thanks button",
+      "message": "Ні, дякую"
+   },
+   "rate_us": {
+      "description": "vote & sharing",
+      "message": "Оцініть нас"
+   },
+   "share_us": {
+      "description": "vote & sharing",
+      "message": "Поділіться"
+   },
+   "thank_you": {
+      "description": "vote & sharing",
+      "message": "Дякуем"
+   },
+   "wait_a_moment": {
+      "description": "Wait a moment",
+      "message": "Зачекайте"
+   },
+   "your_temporary_email_address": {
+      "description": "Your Temporary Email address",
+      "message": "Ваша тимчасова адреса"
+   }
+}

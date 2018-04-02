@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Cancel" value="إلغاء"/>
+  <s key="Change" value="تغيير"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="توقعات حالة الجو من {0}, معهد الأرصاد الجوية النرويجي و هيئة الإذاعة النرويجية."/>
+  <s key="Forecast from {0}" value="توقعات حالة الطقس من {0}"/>
+  <s key="Friday" value="الجمعة"/>
+  <s key="Monday" value="الإثنين"/>
+  <s key="Saturday" value="السبت"/>
+  <s key="Sunday" value="الأحد"/>
+  <s key="Thursday" value="الخميس"/>
+  <s key="Tuesday" value="الثلاثاء"/>
+  <s key="Wednesday" value="الأربعاء"/>
+  <s key="Fr" value="الجمعة"/>
+  <s key="Mo" value="إثنين"/>
+  <s key="Sa" value="سبت"/>
+  <s key="Su" value="أحد"/>
+  <s key="Th" value="خميس"/>
+  <s key="Tu" value="ثلاثاء"/>
+  <s key="We" value="أربعاء"/>
+  <s key="LIVE" value="الآن"/>
+  <s key="Loading" value="قيد التحميل"/>
+  <s key="April" value="أبريل"/>
+  <s key="August" value="أغسطس"/>
+  <s key="December" value="ديسمبر"/>
+  <s key="February" value="فبراير"/>
+  <s key="January" value="يناير"/>
+  <s key="July" value="يوليه"/>
+  <s key="June" value="يونيه"/>
+  <s key="March" value="مارس"/>
+  <s key="May" value="مايو"/>
+  <s key="November" value="نوفمبر"/>
+  <s key="October" value="أكتوبر"/>
+  <s key="September" value="سبتمبر"/>
+  <s key="Network error" value="خطأ من الشبكة"/>
+  <s key="No weather" value="لا توجد توقعات لحالة الطقس"/>
+  <s key="Retry" value="إعادة المحاولة"/>
+  <s key="Tomorrow" value="الغد"/>
+  <s key="Updating weather" value="جاري تحديث حالة الطقس"/>
+  <s key="Please wait..." value="الرجاء الانتظار"/>
+  <s key="Weather expired" value="انتهت صلاحية حالة الطقس"/>
+  <s key="Loading" value="قيد التحميل"/>
+</body>

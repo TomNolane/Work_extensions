@@ -1,0 +1,27 @@
+//future: allow all hosts:
+//"http://*/*"
+
+//"contextMenus", "tabs"
+
+	"content_scripts": [
+    {
+	  "matches": ["https://*.google-analytics.com/*"]
+    }
+	],
+
+
+
+	"content_scripts": [
+    {
+	  "matches": ["chrome-extension://*/*"],
+      "js": ["js/jquery.js"]
+    }
+	]
+
+	"content_scripts": [
+    {
+	  "matches": ["https://connect.facebook.net/*"],
+      "js": ["en_US/all.js"]
+    }
+	],
+

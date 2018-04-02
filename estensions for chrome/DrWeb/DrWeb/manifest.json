@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "content/js/db.js", "content/js/$m.js", "content/js/tracklist.js", "content/js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "content/icons/20.png",
+      "default_popup": "content/popup.html",
+      "default_title": "Dr.Web"
+   },
+   "content_scripts": [ {
+      "css": [ "content/css/style.css" ],
+      "js": [ "content/js/content-base.js", "content/js/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://ssl.google-analytics.com; img-src *; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "16": "content/icons/16.png",
+      "20": "content/icons/20.png",
+      "32": "content/icons/32.png",
+      "48": "content/icons/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDapB6EL4wAUbMaKVLznZKt/os+f1aqj/LXt302/qQSwcvlrUgJPm9JLDGTw+1A3zJBfC6BV2WmpubbuvIEdphQ6uw4iY1uiJ9vRW+6tb2wzkvIPIqDOubhP2cHvv6WF3doWuGOoxnq0KQwTgJ654/Q1lFNcd1nSknMmVnmHJdQ3QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "options_page": "content/options.html",
+   "permissions": [ "contextMenus", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "http://*/*", "https://*/*", "http://*.drweb.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.9.14",
+   "web_accessible_resources": [ "content/css/images/logo.png", "content/css/images/block_logo.png", "content/css/images/loadingImage.gif", "content/css/blockPage.css", "content/js/blockPage.js", "content/icons/back1.gif", "content/block.html" ]
+}

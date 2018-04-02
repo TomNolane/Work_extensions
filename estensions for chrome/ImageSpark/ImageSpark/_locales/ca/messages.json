@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DESCARREGAR"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Descarregar"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "El poderós descarregador d'imatge, que li permet navegar i descarregar totes les imatges que apareixen en qualsevol pàgina web."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Imatges Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , aquesta pàgina web no és compatible ! Si us plau, proveu una altra pàgina web.\n\u003Cbr>\n\u003Cbr>\nSi el problema persisteix , si us plau verifiqui que estigui activat Javascript en funcionament de nou.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "càrrega"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Carpeta oberta"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Obrir en una nova pestanya"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Seleccionar tot"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "GUARDAR A LA SUBCARPETA"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Establir el nom de la subcarpeta que voleu descarregar les imatges a ."
+   }
+}

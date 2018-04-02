@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DESCARCA"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Descarca"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Puternic downloader imagine , care vă permite să răsfoiți și să descărcați toate imaginile afișate pe orice pagină web ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Imagini Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , această pagină web nu este acceptat ! Vă rugăm să încercați să utilizați o altă pagină web .\n\u003Cbr>\n\u003Cbr>\nDacă problema persistă , vă rugăm să verificați dacă JavaScript este activat și rulează acest lucru din nou .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "se incarca"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Dosar deschis"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Deschide într-o filă nouă"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Selectează tot"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SALVAȚI LA SUBFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Setați numele subfolderul pe care doriți să descărcați imaginile ."
+   }
+}

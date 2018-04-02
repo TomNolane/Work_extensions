@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ΚΑΤΕΒΆΣΕΤΕ"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Κατεβάσετε"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Ο ισχυρός downloader εικόνα , που σας επιτρέπει να περιηγηθείτε και να κατεβάσετε όλες τις εικόνες που προβάλλονται σε οποιαδήποτε ιστοσελίδα ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Εικόνες Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nΩχ , αυτή η ιστοσελίδα δεν υποστηρίζεται ! Παρακαλώ δοκιμάστε να χρησιμοποιήσετε μια άλλη ιστοσελίδα.\n\u003Cbr>\n\u003Cbr>\nΑν το πρόβλημα επιμένει , παρακαλούμε βεβαιωθείτε ότι η JavaScript είναι ενεργοποιημένη και λειτουργεί αυτό πάλι .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "φόρτωση"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Ανοιχτός φάκελος"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Άνοιγμα σε νέα καρτέλα"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Επιλογή όλων"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ΑΠΟΘΉΚΕΥΣΗ ΣΕ ΥΠΟΦΆΚΕΛΟ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Ορίστε το όνομα του υποφακέλου που θέλετε να κατεβάσετε τις εικόνες σε ."
+   }
+}

@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "INDIR"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Indir"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "göz atabilir ve herhangi bir web sayfasında görüntülenen tüm görüntüleri indirmenize izin veren güçlü bir imaj downloader ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Görüntüler Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nah ah , bu web sayfası desteklenmiyor ! Başka bir web sayfasını kullanarak deneyin.\n\u003Cbr>\n\u003Cbr>\nSorun devam ederse , etkin ve yine bu çalışan javascript emin olun.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "yükleniyor"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Açık dosya"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Yeni sekmede aç"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Hepsini seç"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ALT KLASÖRE KAYDETME"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Eğer görüntüleri indirmek istediğiniz alt klasörün adını ayarlayın."
+   }
+}

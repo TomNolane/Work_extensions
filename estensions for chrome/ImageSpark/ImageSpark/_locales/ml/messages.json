@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ഡൗൺലോഡ്"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "ഡൗൺലോഡ്"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "നിങ്ങൾ ഏത് വെബ് പേജിൽ ദൃശ്യമാകുന്ന എല്ലാ ചിത്രങ്ങളും ബ്രൗസ് ചെയ്ത് ഡൗൺലോഡ് അനുവദിക്കുന്ന ശക്തമായ ചിത്രം ഡൌൺലോഡർ ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate ചിത്രങ്ങൾ Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nക്ഷമിക്കണം, ഈ വെബ്പേജ് പിന്തുണയ്ക്കുന്നില്ല ! മറ്റൊരു വെബ് പേജ് ഉപയോഗിക്കുന്നത് ശ്രമിക്കുക.\n\u003Cbr>\n\u003Cbr>\nപ്രശ്നം നിലനിൽക്കുകയാണെങ്കിൽ, JavaScript പ്രാപ്തമാക്കിയ വീണ്ടും ഈ പ്രവർത്തിക്കുന്ന ദയവായി പരിശോധിക്കൂ .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "ലോഡിംഗ്"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "ഫോൾഡർ തുറക്കുക"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "പുതിയ ടാബിൽ തുറക്കുക"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "എല്ലാം തിരഞ്ഞെടുക്കുക"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ഉപഫോൾഡർ സംരക്ഷിക്കുകയോ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "നിങ്ങൾക്ക് ചിത്രങ്ങൾ ഡൌൺലോഡ് ചെയ്യണോ ഉപഫോൾഡർ പേര് സജ്ജമാക്കുക."
+   }
+}

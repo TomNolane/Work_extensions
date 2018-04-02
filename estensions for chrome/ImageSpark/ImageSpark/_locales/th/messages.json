@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ดาวน์โหลด"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "ดาวน์โหลด"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "ดาวน์โหลด ภาพที่มีประสิทธิภาพ ที่ช่วยให้ คุณสามารถเรียกดู และดาวน์โหลด ภาพทั้งหมด ที่แสดงบน หน้าเว็บใด ๆ"
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate ภาพ Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nอ๊ะ หน้าเว็บนี้ไม่ สนับสนุน! โปรดลองใช้ หน้า เว็บอื่น\n\u003Cbr>\n\u003Cbr>\nหากปัญหา ยังคงอยู่โปรด ตรวจสอบ JavaScript ที่ ถูกเปิดใช้งาน และทำงาน นี้อีกครั้ง\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "โหลด"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "เปิดโฟลเดอร์"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "เปิดใน แท็บใหม่"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "เลือกทั้งหมด"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "บันทึกลงใน โฟลเดอร์ย่อย"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "ตั้ง ชื่อ โฟลเดอร์ย่อย ที่คุณ ต้องการดาวน์โหลด ภาพไปยัง"
+   }
+}

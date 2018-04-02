@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<options>
+    <wimo>
+        <ui>
+            <inspector showNaParams="true">
+                <contents>
+            	<location visible="true">
+            	</location>
+            	<weather visible="true">
+            	    <temperature visible="true">
+            	    </temperature>
+            	    <temperatureRange visible="true">
+            	    </temperatureRange>
+            	    <skyImage visible="true">
+            	    </skyImage>
+            	    <skyDescription visible="true">
+            	    </skyDescription>
+            	    <wind visible="true">
+            	    </wind>
+            	    <pressure visible="true">
+            	    </pressure>
+            	    <humidity visible="true">
+            	    </humidity>
+            	    <dewPoint visible="false">
+            	    </dewPoint>
+            	    <feelsLike visible="true">
+            	    </feelsLike>
+            	    <precipitationChance visible="true">
+            	    </precipitationChance>
+            	    <precipitationAmount visible="false">
+            	    </precipitationAmount>
+            	    <snowLevel visible="false">
+            	    </snowLevel>
+            	    <dailyRainTotal visible="false">
+            	    </dailyRainTotal>
+            	    <uv visible="false">
+            	    </uv>
+            	    <visibility visible="false">
+            	    </visibility>
+            	    <observeTime visible="true">
+            	    </observeTime>
+            	</weather>
+            	<astronomy visible="false">
+            	    <sunrise visible="true">
+            	    </sunrise>
+            	    <sunset visible="true">
+            	    </sunset>
+            	    <dayLength visible="false">
+            	    </dayLength>
+            	    <moonPhase visible="true">
+            	    </moonPhase>
+            	</astronomy>
+                </contents>
+            </inspector>
+        </ui>
+        <favoriteLocations>
+           <location landscape="town" id="gn:3067696" name="Prague" path="3077311/3067695/3067696" latitude="50.09" longitude="14.42" e_time_zone="2:00" season_map="02.15:naked/03.15:spring/06.01:summer/10.01:autumn/11.01:naked/11.28:winter" icao_id="LKKB" e_digest="83f6a0282de2f43a30f4ee021e6f99ba_2:00"/>
+           <location landscape="airport" id="gn:5128581" name="New York City" path="6252001/5128638/5128581" latitude="40.71" longitude="-74.01" e_time_zone="-5:00" season_map="02.25:naked/04.02:spring/05.02:summer/10.17:autumn/11.22:naked/12.17:winter" icao_id="KNYC" e_digest="e9d8000d36815add5791c344fb185d57_-5:00"/>
+          <location landscape="oriental" id="gn:1850147" name="Tokyo" path="1861060/1850144/1850147" latitude="35.61" longitude="139.58" e_time_zone="9:00" season_map="02.20:spring/03.20:summer/12.05:autumn/12.20:naked" icao_id="RJTT" e_digest="676089cc3f26ba1f7b105a10c12e4ad2_9:00"/>
+          <location landscape="seaside" id="gn:5368361" name="Los Angeles" path="6252001/5332921/5368361" latitude="34.05" longitude="-118.24" e_time_zone="-8:00" season_map="02.20:spring/03.20:summer/12.05:autumn/12.20:naked" icao_id="KCQT" e_digest="b1daac9c30d379a57eb0ef40a30aac65_-8:00"/>
+	      <location landscape="valley"  id="gn:2775220" name="Innsbruck" path="2782113/2763586/2775220" latitude="47.26" longitude="11.39" e_time_zone="1:00" season_map="03.01:naked/03.21:spring/06.21:summer/09.23:autumn/12.01:naked/12.22:winter" icao_id="LOWI" e_digest="5f891b4a1fed49e0fd4a4b1b27614e49_1:00"/>
+        </favoriteLocations>
+    </wimo>
+</options>
+
+

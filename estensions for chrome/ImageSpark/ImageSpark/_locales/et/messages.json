@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "LAE ALLA"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Lae alla"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Võimas pilt downloader , mis võimaldab sirvida ja alla laadida kõik pildid kuvatakse mõnele veebilehele ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Pildid Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , see veebileht ei toeta ! Palun proovige teise veebilehel.\n\u003Cbr>\n\u003Cbr>\nKui probleem püsib , siis veenduge, et JavaScript on lubatud ja töötab see uuesti.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "laadimine"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Ava kaust"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Ava uus kaart"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Vali kõik"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SALVESTADA ALAMKAUST"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Määra nimi alamkaust soovite alla laadida pilte ."
+   }
+}

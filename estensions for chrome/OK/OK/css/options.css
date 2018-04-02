@@ -1,0 +1,19 @@
+﻿body {background-color: #e9eaf0;font-family: sans-serif;font-size: small;}
+#wrapper {background-color: #f6f6f9;border: 1px solid #cacdd9;border-radius: 7px;width: 850px;margin: 12px auto;padding: 15px;}
+h1 {font-family: sans-serif;font-size: 1.3em;margin: 0 0 1.3em 0;}
+form {margin: 0;padding: 0;}
+label {display: block;margin: 0.2em 0;padding: 0;}
+label span {}
+.zvezda {color:red;font-size:16px;margin-left:5px}
+.fleft {float: left;}
+.clear {clear: both;height: 0;font-size: 0;line-height: 0;}
+.block {border: 1px solid #dfe1e8;border-radius: 5px;padding: 4px;margin:4px;width:800px;}
+.title {font-weight: bold;margin-bottom: 0.5em;}
+.ml50 {margin-left: 5px;}
+.module {font-weight: bold;margin-top: 1em;}
+.module:first-child {margin-top: 0;}
+.module_options {font-weight: normal;margin-left: 2em;}
+.ok_button {cursor:pointer;text-align: center;vertical-align: middle;white-space: nowrap; padding: 3px 6px 3px;font-size: 15px;line-height: 17px;color: #FFFFFF;border: 1px solid #ccc;border-radius: 4px;box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);}
+.btn_red {background-color: #BD362F;background-image: -moz-linear-gradient(top,#EE5F5B, #BD362F);background-image: -ms-linear-gradient(top, #EE5F5B, #BD362F);background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#EE5F5B), to(#BD362F));background-image: -webkit-linear-gradient(top, #EE5F5B, #BD362F);background-image: -o-linear-gradient(top, #EE5F5B, #BD362F);background-image: linear-gradient(top, #EE5F5B, #BD362F);background-repeat: repeat-x;border-color: #BD362F #BD362F #EE5F5B;border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.251);}
+.btn_red:hover { background-color: #EE5F5B;background-image: -moz-linear-gradient(top,#BD362F, #EE5F5B);background-image: -ms-linear-gradient(top, #BD362F, #EE5F5B);background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#BD362F), to(#EE5F5B));background-image: -webkit-linear-gradient(top, #BD362F, #EE5F5B);background-image: -o-linear-gradient(top, #BD362F, #EE5F5B);background-image: linear-gradient(top, #BD362F, #EE5F5B);}
+#ok_option_nagruzka font {color:red;font-size:18px;margin-left:5px;padding-top:6px;}

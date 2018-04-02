@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "PRENESI"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Prenesi"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Močna podoba downloader , ki vam omogoča brskanje in prenesti vse slike, prikazane na kateri koli spletni strani ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Slike Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nOjoj , ta spletna stran ne podpira ! Poskusite uporabiti drug spletni strani .\n\u003Cbr>\n\u003Cbr>\nČe težava ni odpravljena , preverite, javascript je omogočen in ponovno deluje to .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "nalaganje"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Odpri mapo"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Odprta v novem zavihku"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Izberi vse"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SHRANITE V PODMAPO"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Nastavite ime podmapo , ki jo želite prenesti slike ."
+   }
+}

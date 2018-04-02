@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ડાઉનલોડ કરો"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "ડાઉનલોડ કરો"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "શક્તિશાળી ઇમેજ ડાઉનલોડર, કે જે તમે બ્રાઉઝ અને કોઈપણ વેબ પૃષ્ઠ પર પ્રદર્શિત બધા છબીઓ ડાઉનલોડ કરવા માટે પરવાનગી આપે છે."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate છબીઓ Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nઓહો, આ વેબપેજ આધારભૂત નથી! અન્ય વેબ પાનું વાપરવાનો પ્રયત્ન કરો.\n\u003Cbr>\n\u003Cbr>\nજો સમસ્યા યથાવત રહે તો, તે JavaScript સક્ષમ અને આ ફરીથી ચાલી રહ્યું છે તે ચકાસવા વિનંતી.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "લોડ કરી રહ્યું છે"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "ખુલ્લું ફોલ્ડર"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "નવા ટૅબમાં ખોલો"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "બધા પસંદ કરો"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SUBFOLDER પર સેવ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "subfolder તમે છબીઓ ડાઉનલોડ કરવા માંગો છો નામ સુયોજિત કરો."
+   }
+}

@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ИЗТЕГЛИ"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Изтегли"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "мощен образ Downloader В , който ви позволява да разглеждате и изтегляне на всички изображения , показвани на всяка уеб страница ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Снимки Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nЪъъ , тази страница не се поддържа ! Моля, опитайте да използвате друг уеб страница .\n\u003Cbr>\n\u003Cbr>\nАко проблемът продължава , моля, проверете дали JavaScript е активиран и работи това отново .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "зареждане"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Отворена папка"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Отваряне в нов раздел"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Избери всички"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ЗАПИШЕТЕ В ПОДПАПКА"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Задайте името на папката , която искате да изтеглите снимките да ."
+   }
+}

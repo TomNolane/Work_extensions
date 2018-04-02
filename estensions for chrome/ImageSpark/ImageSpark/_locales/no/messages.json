@@ -1,0 +1,66 @@
+{
+
+	"extension_name": {
+		"message": "ImageSpark - Ultimate Bilder Downloader",
+		"description": "The field of extension name."
+	},
+	"extension_short_name": {
+		"message": "ImageSpark",
+		"description": "The field of short extension name."
+	},
+	"extension_default_title": {
+		"message": "ImageSpark",
+		"description": "The default title of extension"
+	},
+	"extension_description": {
+		"message": "Den kraftige image dataoverførte , som lar deg bla gjennom og laste ned alle bilder som vises på en nettside .",
+		"description": "The field of extension description."
+	},
+	
+	
+	
+	
+	"subfolder_placeholder": {
+		"message": "LAGRE TIL UNDERMAPPE",
+		"description": "The field of subfolder placeholder."
+	},
+	"subfolder_title": {
+		"message": "Angi navnet på undermappen du ønsker å laste ned bildene til .",
+		"description": "The field of subfolder title."
+	},
+	"open_folder_button_title": {
+		"message": "Åpne mappen",
+		"description": "The field of open folder button title."
+	},
+	"download_button_value": {
+		"message": "NEDLASTING",
+		"description": "The field of download button value."
+	},
+	
+	
+	"select_all_checkbox": {
+		"message": "Velg alle",
+		"description": "The field of select all checkbox."
+	},
+	"open_image_button_title": {
+		"message": "Åpne i ny fane",
+		"description": "The field of open image button title."
+	},
+	"download_image_button_title": {
+		"message": "Nedlasting",
+		"description": "The field of download image button title."
+	},
+	
+	
+	
+	
+	"loading_message": {
+		"message": "lasting",
+		"description": "The field of loading message."
+	},
+	"loading_error": {
+		"message": "\nUh oh , denne websiden støttes ikke ! Prøv å bruke en annen nettside .\n<br>\n<br>\nHvis problemet vedvarer , må du kontrollere at javascript er aktivert og kjører dette igjen .\n",
+		"description": "The field of loading error."
+	}
+
+}

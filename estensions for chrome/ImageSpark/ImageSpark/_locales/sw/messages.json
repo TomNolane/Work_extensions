@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DOWNLOAD"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Download"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "nguvu picha downloader, kwamba utapata kuvinjari na kushusha picha zote kuonyeshwa kwenye ukurasa wowote mtandao."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Picha Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, webpage hii si mkono ! Tafadhali jaribu kutumia ukurasa mtandao mwingine.\n\u003Cbr>\n\u003Cbr>\nKama tatizo litaendelea , tafadhali kuthibitisha kwamba javascript ni kuwezeshwa na kukimbia hii tena.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "loading"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Wazi folder"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Wazi katika tabo mpya"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Kuchagua wote"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "KUOKOA KWA SUBFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Kuweka jina la subfolder unataka kushusha picha ya ."
+   }
+}

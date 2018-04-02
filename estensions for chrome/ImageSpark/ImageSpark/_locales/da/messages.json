@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DOWNLOADE"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Downloade"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Den kraftfulde billede downloader , der giver dig mulighed for at gennemse og downloade alle billeder, der vises på en webside ."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Billeder Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh , er denne webside ikke understøttet ! Prøv at bruge en anden webside .\n\u003Cbr>\n\u003Cbr>\nHvis problemet fortsætter , skal du kontrollere, at javascript er aktiveret og kører det igen .\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "lastning"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Åbn mappe"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Åben i ny fane"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Vælg alle"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "GEMME TIL UNDERMAPPE"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Angiv navnet på den undermappe , du vil downloade billederne til ."
+   }
+}

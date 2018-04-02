@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "DOWNLOAD"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Download"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "The powerful image downloader, that allows you to browse and download all images displayed on any web page."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Ultimate Image Downloader"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nUh oh, this web page is not supported! Please try using another web page.\n\u003Cbr>\n\u003Cbr>\nIf the problem persists, please verify that javascript is enabled and running this again.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "loading"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Open folder"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Open in new tab"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Select all"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "SAVE TO SUBFOLDER"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Set the name of the subfolder you want to download the images to."
+   }
+}

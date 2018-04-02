@@ -1,0 +1,25 @@
+v1.0.0 - v1.3.4
+
+- Was developed ImageSpark Downloader extension concept.
+- Was developed code and design.
+
+v1.3.5
+
+- Was fixed code.
+- Was updated design.
+
+v1.3.6
+
+- Was changed descriptions.
+
+v1.3.7 - v1.3.9
+
+- Was changed descriptions, code and design.
+
+v1.4.0 - v1.4.1
+
+- Was updated code.
+
+v1.4.2 - v1.4.7
+
+- Was fixed code.

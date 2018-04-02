@@ -1,0 +1,10 @@
+﻿{
+    "appName": {
+        "message": "YoWindow Väder Gratis",
+		"description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "Weather station with living landscapes. The landscape reflects weather and time.",
+		"description": "The description of the application, displayed in the web store."
+    }
+}

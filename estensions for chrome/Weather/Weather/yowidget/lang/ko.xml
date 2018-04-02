@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <s key="Abandon unlimited license" value="무제한 라이센스 중단"/>
+  <s key="Absent" value="부재"/>
+  <s key="Add" value="추가"/>
+  <s key="Animate" value="애니메이션"/>
+  <s key="Apply" value="적용"/>
+  <s key="Astronomy" value="천문학"/>
+  <s key="Day Length" value="하루 길이"/>
+  <s key="Moon Phase" value="달 형상"/>
+  <s key="Sunrise" value="일출"/>
+  <s key="Sunset" value="일몰"/>
+  <s key="Auto update weather" value="날씨 자동 업데이트"/>
+  <s key="Bad ICAO code" value="잘못된 ICAO 코드"/>
+  <s key="Buy YoWindow Unlimited!" value="무제한 YoWindow를 구매하십시오!"/>
+  <s key="Calendar" value="캘린더"/>
+  <s key="Cancel" value="취소"/>
+  <s key="Change" value="변경"/>
+  <s key="Code" value="코드"/>
+  <s key="Weather forecast from {0}, delivered by the Norwegian Meteorological Institute and the NRK" value="{0}(으)로부터의 일기 예보는 Norwegian Meteorological Institute 및 NRK에 의해 제공됨"/>
+  <s key="Forecast from {0}" value="{0}(으)로부터의 예측"/>
+  <s key="Current weather" value="현재 날씨"/>
+  <s key="Friday" value="금요일"/>
+  <s key="Monday" value="월요일"/>
+  <s key="Saturday" value="토요일"/>
+  <s key="Sunday" value="일요일"/>
+  <s key="Thursday" value="목요일"/>
+  <s key="Tuesday" value="화요일"/>
+  <s key="Wednesday" value="수요일"/>
+  <s key="Fr" value="금"/>
+  <s key="Mo" value="월"/>
+  <s key="Sa" value="토"/>
+  <s key="Su" value="일"/>
+  <s key="Th" value="목"/>
+  <s key="Tu" value="화"/>
+  <s key="We" value="수"/>
+  <s key="day ago" value="일 전"/>
+  <s key="days ago" value="일 전"/>
+  <s key="Default" value="기본값"/>
+  <s key="Blowing" value="바람부는"/>
+  <s key="Clear" value="맑은"/>
+  <s key="Cloudy" value="구름 낀"/>
+  <s key="Overcast" value="흐림"/>
+  <s key="Drizzle" value="진눈깨비"/>
+  <s key="Fair" value="맑은"/>
+  <s key="Fog" value="안개"/>
+  <s key="Freezing" value="추운"/>
+  <s key="Hail" value="우박"/>
+  <s key="Haze" value="실안개"/>
+  <s key="Heavy" value="후텁지근한"/>
+  <s key="Ice Crystals" value="빙정"/>
+  <s key="Ice Pellets" value="싸락우박"/>
+  <s key="In Vicinity" value="근처에"/>
+  <s key="Light" value="빛"/>
+  <s key="Low Drifting" value="땅날림눈"/>
+  <s key="Mist" value="안개"/>
+  <s key="Mostly Cloudy" value="대개 구름 낀"/>
+  <s key="Partial" value="부분적"/>
+  <s key="Partly Cloudy" value="부분적으로 구름 낀"/>
+  <s key="Patches" value="패치"/>
+  <s key="Scattered Clouds" value="개임"/>
+  <s key="Rain" value="비"/>
+  <s key="Rain And Thunder" value="비 및 천둥"/>
+  <s key="Sand" value="모래"/>
+  <s key="Shallow" value="얕은"/>
+  <s key="Shower" value="소나기"/>
+  <s key="Shower With Thunder" value="천둥 동반한 소나기"/>
+  <s key="Sleet" value="진눈깨비"/>
+  <s key="Small Hail" value="우박"/>
+  <s key="Smoke" value="연기"/>
+  <s key="Snow" value="눈"/>
+  <s key="Snow And Thunder" value="눈 및 천둥"/>
+  <s key="Snow Grains" value="싸락눈"/>
+  <s key="Snow Showers" value="소낙눈"/>
+  <s key="Thunderstorm" value="뇌우"/>
+  <s key="Unknown Precipitation" value="알 수 없는 강수량"/>
+  <s key="Widespread Dust Haze" value="광범위한 먼지 실안개"/>
+  <s key="Invalid License Key. Try again. Make sure you've typed the key correctly. Try to copy/paste the key." value="잘못된 라이센스 키. 다시 시도하십시오. 올바르게 키를 입력했는지 확인하십시오. 키를 복사/붙여 넣도록 시도하십시오."/>
+  <s key="Wrong license key" value="잘못된 라이센스 키"/>
+  <s key="You will have to restart the application for this to take effect" value="이의 효력을 발휘하기 위해 애플리케이션을 다시 시작해야 합니다."/>
+  <s key="Language change" value="언어 변경"/>
+  <s key="No limits!" value="제한없습니다!"/>
+  <s key="Buy now!" value="지금 구매하십시오!"/>
+  <s key="Buy Unlimited License  to remove any limits." value="무제한 라이센스를 구매하여 모든 제약을 제거하십시오."/>
+  <s key="Not now" value="지금 아님"/>
+  <s key="To complete the registration enter the license key we've sent to you. Tip: use copy/paste." value="등록을 완료하려면, 사용자에게 전송한 라이센스 키를 입력하십시오. 팁: 복사/붙여 넣기를 사용합니다."/>
+  <s key="License registration" value="라이센스 등록"/>
+  <s key="Thank you for registering YoWindow! All the limits are removed now. Enjoy!" value="YoWindow를 등록해 주셔서 감사합니다! 지금 모든 제약이 제거됩니다. 즐기십시오!"/>
+  <s key="Distance" value="거리"/>
+  <s key="Down" value="아래로"/>
+  <s key="Download" value="다운로드"/>
+  <s key="Enter weather source URL please" value="날씨 소스 URL 입력 요망"/>
+  <s key="Error" value="오류"/>
+  <s key="The location is already added" value="위치가 이미 추가됨"/>
+  <s key="Exit" value="종료"/>
+  <s key="To get started, pick your home location" value="시작하려면, 홈 위치 선택"/>
+  <s key="Forecast Panel" value="예측 패널"/>
+  <s key="Full Screen" value="전체 화면"/>
+  <s key="Help" value="도움말"/>
+  <s key="Highlight weather station parameters" value="기상 관측소 매개 변수 강조"/>
+  <s key="Home" value="홈"/>
+  <s key="h" value="시"/>
+  <s key="Inspector" value="조사관"/>
+  <s key="Landscape" value="풍경"/>
+  <s key="Picture" value="사진"/>
+  <s key="Foreground" value="전경"/>
+  <s key="Landscape Options" value="픙경 옵션"/>
+  <s key="Landscape pictures" value="풍경 옵션"/>
+  <s key="Landscapes" value="풍경:"/>
+  <s key="Language:" value="언어:"/>
+  <s key="English" value="영어"/>
+  <s key="System Default" value="시스템 기본값"/>
+  <s key="Latitude" value="위도"/>
+  <s key="{0} locations" value="{0} 위치"/>
+  <s key="You can add {0} locations maximum now. In Unlimited Edition you can add as many locations as you wish." value="지금 {0} 위치를 최대로 추가할 수 있습니다. 무제한 버전에서는 원하는 만큼 많은 위치를 추가할 수 있습니다."/>
+  <s key="Weather auto-update is off" value="날씨 자동 업데이트 꺼짐"/>
+  <s key="Press F5 to update the weather.  The weather is updated automatically in the Unlimited Edition." value="F5를 눌러 날씨를 업데이트합니다. 날씨는 무제한 버전에서 자동으로 업데이트됩니다."/>
+  <s key="{0} weather forecast days only" value="{0} 일기 예보 날짜 전용"/>
+  <s key="You have an access to {0} days of the weather forecast now.  Unlimited Edition provides {1} day forecast." value="지금 일기 예보의 {0}일에 액세스합니다. 무제한 버전은 {1}일 예측을 제공합니다."/>
+  <s key="Licence key" value="라이센스 키"/>
+  <s key="Weather auto-updated in Unlimited Edition" value="무제한 버전에서 날씨 자동 업데이트됨"/>
+  <s key="LIVE" value="라이브"/>
+  <s key="Load weather from personal weather station" value="개인 기상 관측소에서 날씨 로드"/>
+  <s key="Loading" value="로드 중"/>
+  <s key="Loading landscape..." value="풍경 로드 중..."/>
+  <s key="Location" value="위치"/>
+  <s key="Location ID" value="위치 ID"/>
+  <s key="Location Properties" value="위치 속성"/>
+  <s key="id_internet_link" value="인터넷 링크"/>
+  <s key="Locations" value="위치"/>
+  <s key="All locations" value="모든 위치"/>
+  <s key="All regions" value="모든 지역"/>
+  <s key="All states" value="모든 주"/>
+  <s key="Change landscape" value="풍경 변경"/>
+  <s key="Select a location" value="위치 선택"/>
+  <s key="The location is already added" value="위치가 이미 추가됨"/>
+  <s key="Location is not selected yet" value="위치가 아직 선택되지 않음"/>
+  <s key="Major cities (more than 100,000 citizens)" value="주요 도시(100,000 시민 이상)"/>
+  <s key="Network error, location information is not accessible. Because of this, the location cannot be selected now." value="네트워크 오류, 위치 정보를 액세스할 수 없습니다. 이로 인해, 현재 위치를 선택할 수 없습니다."/>
+  <s key="No locations in scope" value="범위 내에 위치없음"/>
+  <s key="Scope" value="범위"/>
+  <s key="Region" value="지역"/>
+  <s key="Cannot find a location?" value="위치를 찾을 수 없습니까?"/>
+  <s key="Set as Home" value="홈으로 설정"/>
+  <s key="Current Location" value="현재 위치"/>
+  <s key="Unknown" value="알 수 없음"/>
+  <s key="Longitude" value="경도"/>
+  <s key="Looking at the North (West wind blows from the left)" value="북쪽에서 보기(왼쪽에서부터 부는 서풍)"/>
+  <s key="Looking at the South (West wind blows from the right)" value="남쪽에서 보기(오른쪽에서부터 부는 서풍)"/>
+  <s key="April" value="4월"/>
+  <s key="August" value="8월"/>
+  <s key="December" value="12월"/>
+  <s key="February" value="2월"/>
+  <s key="January" value="1월"/>
+  <s key="July" value="7월"/>
+  <s key="June" value="6월"/>
+  <s key="March" value="3월"/>
+  <s key="May" value="5월"/>
+  <s key="November" value="11월"/>
+  <s key="October" value="10월"/>
+  <s key="September" value="9월"/>
+  <s key="About" value="소개"/>
+  <s key="Facebook Edition" value="Facebook 버전"/>
+  <s key="License Agreement" value="라이센스 동의"/>
+  <s key="Program" value="프로그램"/>
+  <s key="Visit our Forum" value="우리 포럼 방문"/>
+  <s key="YoWindow for your Site or Blog" value="사이트 또는 블로그 전용 YoWindow"/>
+  <s key="m" value="분"/>
+  <s key="{0} minutes back" value="{0}분 뒤로"/>
+  <s key="{0} minutes forward" value="{0}분 앞으로"/>
+  <s key="Name" value="이름"/>
+  <s key="Network error" value="네트워크 오류"/>
+  <s key="Network not available" value="네트워크를 사용할 수 없음"/>
+  <s key="It is available on {0}" value="{0}에서 사용할 수 있음"/>
+  <s key="New version released" value="새 버전이 출시됨"/>
+  <s key="Next Day" value="다음 날"/>
+  <s key="No" value="아니요"/>
+  <s key="No weather" value="날씨없음"/>
+  <s key="N/A" value="해당없음"/>
+  <s key="Notify me when a new version is available" value="새 버전을 사용할 수 있을 때 나에게 알림"/>
+  <s key="Online" value="온라인"/>
+  <s key="Open {0}" value="{0} 열기"/>
+  <s key="Options" value="옵션"/>
+  <s key="Advanced" value="고급"/>
+  <s key="Application choice" value="애플리케이션 선택"/>
+  <s key="Date" value="날짜"/>
+  <s key="Display" value="표시"/>
+  <s key="Animate clouds" value="애니매이션 클라우드"/>
+  <s key="Default" value="기본값"/>
+  <s key="Full screen mode" value="전체 화면 모드"/>
+  <s key="Quality" value="품질"/>
+  <s key="Custom" value="사용자 정의"/>
+  <s key="Excellent" value="훌륭함"/>
+  <s key="Moderate" value="보통"/>
+  <s key="Number of days to display:" value="표시할 날짜 수:"/>
+  <s key="Tile contents:" value="타일 콘텐츠: "/>
+  <s key="General" value="일반"/>
+  <s key="Contents" value="콘텐츠"/>
+  <s key="Show N/A parameters" value="해당없는 매개 변수 보기"/>
+  <s key="Live indicator" value="라이브 표시기"/>
+  <s key="Locations" value="위치"/>
+  <s key="Operation successful!" value="작동이 성공적입니다!"/>
+  <s key="Refresh locations DB" value="위치 DB 새로 고침"/>
+  <s key="Reset to defaults" value="기본값으로 재설정"/>
+  <s key="Add" value="추가"/>
+  <s key="User interface" value="사용자 인터페이스"/>
+  <s key="Screen saver" value="화면 보호기"/>
+  <s key="Time Bar" value="시간 표시줄"/>
+  <s key="Unit system:" value="단위 시스템:"/>
+  <s key="Units" value="단위"/>
+  <s key="Auto-detected" value="자동 검지됨"/>
+  <s key="Custom" value="사용자 정의"/>
+  <s key="Distance:" value="거리:"/>
+  <s key="Metric" value="메트릭"/>
+  <s key="Russia" value="러시아"/>
+  <s key="Finland" value="핀란드"/>
+  <s key="Pressure:" value="기압:"/>
+  <s key="Temperature:" value="온도:"/>
+  <s key="US" value="미국"/>
+  <s key="Wind speed:" value="바람 속도:"/>
+  <s key="Landscape Options" value="픙경 옵션"/>
+  <s key="Show Daylight Diagram" value="일광 다이어그램 보기"/>
+  <s key="Show Forecast Panel" value="예측 패널 보기"/>
+  <s key="Show Full Screen button" value="전체 화면 버튼 보기 "/>
+  <s key="Show Inspector" value="조사관 보기"/>
+  <s key="Show Time Bar" value="시간 표시줄 보기"/>
+  <s key="Show User interface" value="사용자 인터페이스 보기"/>
+  <s key="Show forecast when current weather is expired" value="현재 날씨가 만료된 경우 예측 보기"/>
+  <s key="Organize" value="구성"/>
+  <s key="Organize locations" value="위치 구성"/>
+  <s key="Organize pictures" value="사진 구성"/>
+  <s key="Pictures" value="사진"/>
+  <s key="press" value="누르기"/>
+  <s key="Falling" value="떨어짐"/>
+  <s key="Falling Rapidly" value="빨리 떨어짐"/>
+  <s key="Rising" value="거세짐"/>
+  <s key="Rising Rapidly" value="빨리 거세짐"/>
+  <s key="Steady" value="안정됨"/>
+  <s key="Previous Day" value="전 날"/>
+  <s key="Properties" value="속성"/>
+  <s key="Refresh Locations data base" value="위치 데이터베이스 새로 고침"/>
+  <s key="Register" value="등록"/>
+  <s key="Remove" value="제거"/>
+  <s key="Rename" value="이름 변경"/>
+  <s key="Rename location" value="위치 이름 변경"/>
+  <s key="Rename picture" value="사진 이름 변경"/>
+  <s key="Retry" value="다시 시도"/>
+  <s key="Run with Windows (minimized to tray)" value="Windows에서 실행(트레이 최소화)"/>
+  <s key="Season map" value="계절 지도"/>
+  <s key="Select" value="선택"/>
+  <s key="Select country" value="국가 선택"/>
+  <s key="Select a landscape" value="풍경 선택"/>
+  <s key="Select location" value="위치 선택"/>
+  <s key="Select region" value="지역 선택"/>
+  <s key="Select state" value="주 선택"/>
+  <s key="Set as default" value="기본값으로 설정"/>
+  <s key="Set YoWindow as ScreenSaver" value="화면 보호기로써 YoWindow 설정"/>
+  <s key="Setup" value="설정"/>
+  <s key="Show" value="보기"/>
+  <s key="Show again" value="다시 보기"/>
+  <s key="Speed" value="속도"/>
+  <s key="Time" value="시간"/>
+  <s key="{0} ago" value="{0}전"/>
+  <s key="Time zone" value="시간대"/>
+  <s key="Today" value="오늘"/>
+  <s key="Tomorrow" value="내일"/>
+  <s key="Tom." value="내일"/>
+  <s key="Tonight" value="오늘밤"/>
+  <s key="Add New Location" value="새 위치 추가"/>
+  <s key="Open Calendar..." value="캘린더 열기..."/>
+  <s key="Show Less Days" value="더 적은 날 보기"/>
+  <s key="Show More Days" value="더 많은 날 보기"/>
+  <s key="Update Weather" value="날씨 업데이트"/>
+  <s key="Unknown" value="알 수 없음"/>
+  <s key="Up" value="위로"/>
+  <s key="Update interval" value="간격 업데이트"/>
+  <s key="Update weather" value="날씨 업데이트"/>
+  <s key="Updating weather" value="날씨 업데이트 중"/>
+  <s key="View" value="보기"/>
+  <s key="Please wait..." value="기다려 주십시오..."/>
+  <s key="Weather" value="날씨"/>
+  <s key="Daily rain total" value="총 일일 강수량"/>
+  <s key="Weather expired" value="날씨 만료됨"/>
+  <s key="Feels like" value="그럴 것 같음"/>
+  <s key="Day maximum temperature" value="하루 최대 온도"/>
+  <s key="Day minimum temperature" value="하루 최저 온도"/>
+  <s key="Weather forecast" value="일기 예보"/>
+  <s key="Forecast issued" value="예측 발행됨"/>
+  <s key="Hail" value="우박"/>
+  <s key="Humidity" value="습도"/>
+  <s key="Observed" value="관측됨"/>
+  <s key="Pressure" value="기압"/>
+  <s key="PWS only" value="PWS 전용"/>
+  <s key="Rain" value="비"/>
+  <s key="Rain/Snow rate" value="강수량/적설량"/>
+  <s key="Description" value="설명"/>
+  <s key="Sky image" value="하늘 이미지"/>
+  <s key="Snow" value="눈"/>
+  <s key="Snow level" value="눈 레벨"/>
+  <s key="Weather station properties" value="기상 관측소 속성"/>
+  <s key="Temperature" value="온도"/>
+  <s key="Temperature range" value="온도 범위"/>
+  <s key="Update error" value="업데이트 오류"/>
+  <s key="Update time" value="시간 업데이트"/>
+  <s key="UV index" value="UV 지수"/>
+  <s key="Visibility" value="표시 여부"/>
+  <s key="Unlimited" value="무제한"/>
+  <s key="Wind" value="바람"/>
+  <s key="Calm" value="고요한"/>
+  <s key="Variable" value="변덕스러운"/>
+  <s key="Welcome to YoWindow!" value="YoWindow에 오신 걸 환영합니다!"/>
+  <s key="Wind direction:" value="바람 방향:"/>
+  <s key="East" value="동쪽"/>
+  <s key="North" value="북쪽"/>
+  <s key="South" value="남쪽"/>
+  <s key="West" value="서쪽"/>
+  <s key="Yes" value="예"/>
+  <s key="Close screensaver on mouse move" value="마우스 이동시 화면 보호기 닫기"/>
+  <s key="Color" value="색상"/>
+  <s key="Background" value="배경"/>
+  <s key="Choose color" value="색상 선택"/>
+  <s key="System tray" value="시스템 트레이"/>
+  <s key="Transparent" value="투명"/>
+  <s key="Precipitation chance" value="강수량 위험"/>
+  <s key="Rain chance" value="비 위험"/>
+  <s key="Snow chance" value="눈 위험"/>
+  <s key="{0} only" value="{0} 전용"/>
+  <s key="US" value="미국"/>
+  <s key="Dew point" value="이슬점"/>
+  <s key="I want to have fun" value="즐기길 원함"/>
+  <s key="Enable surprises" value="서프라이즈 활성화"/>
+  <s key="NWS forecasts for the USA" value="미국 전용 NWS 예측"/>
+  <s key="h" value="시"/>
+  <s key="min" value="분"/>
+  <s key="Open" value="열기"/>
+  <s key="Browse" value="찾아보기"/>
+  <s key="Enter the path to a picture or landscape on the Internet or your computer" value="인터넷이나 컴퓨터에서 경로를 사진이나 풍경으로 입력"/>
+  <s key="Landscape load error" value="풍경 로드 오류"/>
+  <s key="Picture load error" value="사진 로드 오류"/>
+  <s key="The landscape is already added" value="풍경이 이미 추가됨"/>
+  <s key="Landscape collection" value="풍경 컬렉션"/>
+  <s key="Turn your photo into Landscape" value="사진을 풍경으로 전환"/>
+  <s key="{0}Learn{1} how to turn a photo into landscape" value="사진을 풍경으로 전환하는 방법 {0}배우기{1}"/>
+  <s key="Village" value="마을"/>
+  <s key="Seaside" value="해변"/>
+  <s key="Airport" value="공항"/>
+  <s key="Pagoda" value="탑"/>
+  <s key="Town" value="타운"/>
+  <s key="Valley" value="계곡"/>
+  <s key="Sky" value="하늘"/>
+  <s key="Landscape made from picture" value="사진으로 만든 풍경"/>
+  <s key="We will guide you through the process of turning a picture into YoWindow Landscape." value="우리는 사진을 YoWindow 풍경으로 전환하는 처리를 통해 사용자를 가이드합니다."/>
+  <s key="Please read our tutorial {0}How to turn a picture into Landscape?{1} beforehand" value="미리 우리 자습서에서 {0}사진을 풍경으로 전환하는 방법{1} 읽기 요망"/>
+  <s key="Click Next to continue..." value="다음을 클릭하여 계속하십시오..."/>
+  <s key="Specify a picture you want to turn into landscape." value="풍경으로 전환하고자 하는 사진을 지정하십시오."/>
+  <s key="How to pick the best landscape picture?" value="최고 풍경 사진을 선택하는 방법은 무엇입니까?"/>
+  <s key="Source picture" value="소스 사진"/>
+  <s key="The landscape will be created in the following folder" value="풍경이 다음 폴더에서 만들어 집니다."/>
+  <s key="Landscape folder name" value="풍경 폴더 이름"/>
+  <s key="Click &quot;Create&quot; button to create {0} Landscape" value="&quot;만들기&quot; 버튼을 클릭하여 {0} 풍경 만들기"/>
+  <s key="{0} landscape has been created successfully!" value="{0} 풍경이 성공적으로 만들어졌습니다!"/>
+  <s key="Now open {0} inside your favorite image editor. You need to remove the sky from the image. You will find the image in {1}Landscape Folder{2}" value="지금 좋아하는 이미지 편집기 내부의 {0}(을)를 엽니다. 이미지에서 하늘을 제거해야 합니다. {1}풍경 폴더{2}에서 이미지를 찾습니다."/>
+  <s key="It is easy to remove the sky. Read our brief {0}tutorial{1}." value="하늘을 제거하기 쉽습니다. 우리의 간단한 {0}자습서{1}를 읽습니다."/>
+  <s key="Auto" value="자동"/>
+  <s key="Horizon Level Setup" value="수평선 레벨 설정"/>
+  <s key="Keys: Up/Down" value="키: 위/아래"/>
+  <s key="You are about to delete Landscape Image {0}. The operation is not recoverable. Are you sure?" value="풍경 이미지 {0}(을)를 삭제하려고 합니다. 작동을 되돌릴 수 없습니다. 계속하시겠습니까?"/>
+  <s key="Edit Landscape" value="풍경 편집"/>
+  <s key="Edit Horizon Level" value="수평선 레벨 편집"/>
+  <s key="File not found." value="파일을 찾을 수 없습니다."/>
+  <s key="The name is empty" value="이름이 비어 있음"/>
+  <s key="The folder already exists" value="폴더가 이미 존재함"/>
+  <s key="Illegal folder name" value="잘못된 폴더 이름"/>
+  <s key="The file format is not supported." value="폴더 형태가 지원되지 않습니다."/>
+  <s key="The picture is too big for YoWindow. Picture size must not exceed 2880 pixels by width or height." value="사진이 YoWindow에 너무 큽니다. 사진 크기는 폭이나 높이에 의해 2880 픽셀을 초과하지 않습니다."/>
+  <s key="Landscape Image" value="풍경 이미지"/>
+  <s key="Landscape Folder" value="풍경 폴더"/>
+  <s key="About Landscape" value="풍경 소개"/>
+  <s key="Picture {0} imported successfully" value="사진 {0}(을)를 성공적으로 가져옴"/>
+  <s key="Remind Me Later" value="나중에 나에게 다시 알림"/>
+  <s key="Skip This Version" value="이 버전 건너뛰기"/>
+  <s key="Loading" value="로드 중"/>
+  <s key="Next" value="다음"/>
+  <s key="Back" value="뒤로"/>
+  <s key="Finish" value="마침"/>
+  <s key="Create" value="만들기"/>
+  <s key="Import" value="가져오기"/>
+  <s key="Delete" value="삭제"/>
+  <s key="Path" value="경로"/>
+  <s key="Options" value="옵션"/>
+  <s key="Select the options you like" value="좋아하는 옵션 선택"/>
+  <s key="Set YoWindow as default screen saver" value="기본값 화면 보호기로써 YoWindow 설정"/>
+  <s key="Start with Windows (minimized to system tray)" value="Windows에서 시작(시스템 트레이 최소화)"/>
+  <s key="Add a shortcut to quick launch bar" value="바로 가기를 추가하여 표시줄의 빠른 실행"/>
+  <s key="You are about to upgrade YoWindow." value="YoWindow를 업그레이드하려고 합니다."/>
+  <s key="Click OK to install the new version." value="확인을 클릭하여 새 버전을 설치합니다."/>
+  <s key="You must close YoWindow before you can continue." value="계속하기 전에 YoWindow를 닫아야 합니다."/>
+  <s key="After you have closed YoWindow, select Retry." value="YoWindow를 닫은 후, 다시 시도를 선택합니다."/>
+  <s key="If you wish to cancel the uninstall process, select Cancel." value="제거 처리를 취소하고자 하는 경우, 취소를 선택합니다."/>
+  <s key="If you wish to try to install anyway, select Ignore." value="어쨌든 설치하고자 하는 경우, 무시를 선택합니다."/>
+  <s key="If you wish to abort the installation, select Abort." value="설치를 중단하고자 하는 경우, 중단을 선택합니다."/>
+  <s key="Final step" value="마지막 단계"/>
+  <s key="Start YoWindow on system startup" value="시스템 시작시 YoWindow 시작"/>
+  <s key="Check for new version..." value="새 버전을 확인하십시오..."/>
+  <s key="YoWindow is up to date!" value="YoWindow가 최신 상태입니다!"/>
+  <s key="You have the latest version" value="최신 버전 보유"/>
+  <s key="Download new version!" value="새 버전을 다운로드하십시오!"/>
+  <s key="Preview" value="미리보기"/>
+  <s key="Show small YoWindow logo" value="작은 YoWindow 로고 보기"/>
+  <s key="The landscape is available in Unlimited Edition only." value="풍경은 무제한 버전에서만 사용할 수 있습니다."/>
+  <s key="id_short_hour" value="시"/>
+  <s key="id_short_minute" value="분"/>
+  <s key="id_unit_short_millimetres" value="밀리미터"/>
+  <s key="id_unit_short_centimetres" value="센티미터"/>
+  <s key="id_unit_short_metres" value="미터"/>
+  <s key="id_unit_short_kilometres" value="킬로미터"/>
+  <s key="id_unit_short_feet" value="피트"/>
+  <s key="id_unit_short_miles" value="마일"/>
+  <s key="id_unit_short_miles_per_hour" value="시간당 마일"/>
+  <s key="id_unit_short_kilometres_per_hour" value="시간당 킬로미터"/>
+  <s key="id_unit_short_metres_per_second" value="초당 미터"/>
+  <s key="id_unit_short_knots" value="노트"/>
+  <s key="id_unit_short_beaufort" value="보퍼트"/>
+  <s key="id_unit_short_millibar" value="밀리바"/>
+  <s key="id_unit_short_kilopascal" value="킬로파스칼"/>
+  <s key="id_unit_short_hectopascal" value="헥토파스칼"/>
+  <s key="id_unit_short_inches" value="인치"/>
+  <s key="Display &quot;?&quot;" value="&quot;?&quot; 표시"/>
+  <s key="Hide parameter" value="매개 변수 숨기기"/>
+  <s key="When weather parameter is not available" value="날씨 매개 변수를 사용할 수 없는 경우"/>
+  <s key="Information" value="정보"/>
+  <s key="id_information_all" value="모든 정보"/>
+  <s key="Temperature and Time" value="온도 및 시간"/>
+  <s key="This is Unlimited Edition." value="이것은 무제한 버전입니다."/>
+  <s key="It is already registered." value="이미 등록되어 있습니다."/>
+  <s key="Free edition" value="무료 버전"/>
+  <s key="Unlimited edition" value="무제한 버전"/>
+  <s key="To enjoy YoWindow you need to install Flash Player (for Internet Explorer) {0} or later." value="YoWindow를 즐기려면, Flash Player(Internet Explorer 전용) {0} 상위 버전을 설치해야 합니다."/>
+  <s key="Get Adobe Flash Player" value="Adobe Flash Player 얻기"/>
+  <s key="Unlock landscape" value="풍경 잠금 해제"/>
+  <s key="YoWindow for Chrome" value="Chrome 전용 YoWindow"/>
+  <s key="YoWindow for Windows" value="Windows 전용 YoWindow"/>
+  <s key="YoWindow for Mac OS" value="Mac OS 전용 YoWindow"/>
+  <s key="YoWindow for iPhone and iPad" value="iPhone 및 iPad 전용 YoWindow"/>
+  <s key="Follow YoWindow on Facebook" value="Facebook에서 YoWindow 팔로우"/>
+  <s key="Follow YoWindow on Twitter" value="Twitter에서 YoWindow 팔로우"/>
+  <s key="Landscape trial, days left:" value="풍경 평가판, 남은 날짜:"/>
+  <s key="Landscape trial period is over" value="풍경 평가판 기간이 종료됨"/>
+  <s key="&quot;{0}&quot; landscape is a part of YoWindow Unlimited." value="&quot;{0}&quot; 풍경은 YoWindow 무제한 버전의 일부입니다."/>
+  <s key="Details" value="세부 정보"/>
+  <s key="View direction" value="방향 보기"/>
+  <s key="Fixed sky" value="고정된 하늘"/>
+  <s key="Edit" value="편집"/>
+  <s key="Reload" value="다시 로드"/>
+  <s key="Minimized" value="최소화됨"/>
+  <s key="affects wind only" value="바람에만 영향"/>
+  <s key="Broadcast" value="방송"/>
+  <s key="Share" value="공유"/>
+  <s key="Publishing" value="게시 중"/>
+  <s key="Authorizing" value="인증 중"/>
+  <s key="Published!" value="게시되었습니다!"/>
+  <s key="Space" value="공백"/>
+  <s key="Weather now in {0}" value="{0}에서의 지금 날씨"/>
+  <s key="Weather forecast for {0} in {1}" value="{1}에서의 {0} 전용 일기 예보"/>
+  <s key="Today in {0} (forecast)" value="{0}에서의 오늘(예측)"/>
+  <s key="Tomorrow in {0} (forecast)" value="{0}에서의 내일(예측)"/>
+  <s key="Forecast" value="예측"/>
+  <s key="Sound" value="사운드"/>
+  <s key="Enable sound" value="사운드 활성화"/>
+  <s key="Volume" value="볼륨"/>
+  <s key="Skip" value="건너뛰기"/>
+  <s key="Presented in Stereo" value="스테레오에서 표시됨"/>
+  <s key="Override current season" value="현재 계절 재정의"/>
+  <s key="Winter" value="겨울"/>
+  <s key="Spring" value="봄"/>
+  <s key="Summer" value="여름"/>
+  <s key="Autumn" value="가을"/>
+  <s key="Naked" value="벌거벗은"/>
+  <s key="Countries" value="국가"/>
+  <s key="Vote!" value="투표하십시오!"/>
+  <s key="Vote for YoWindow, thank you" value="YoWindow에 투표해 주십시오. 감사합니다."/>
+  <s key="More YoWindow" value="기타 YoWindow"/>
+  <s key="Swipe the screen to see weather changes over time" value="화면을 살짝 밀어 시간대에 따른 날씨 변경 살펴보기"/>
+  <s key="And one more time" value="그리고 한 번 더"/>
+  <s key="Press the 'LIVE' button to return to current time" value="'라이브' 버튼을 눌러  현재 시간으로 복귀"/>
+  <s key="Watch weather with pleasure" value="기쁘게 날씨 감상"/>
+  <s key="Disable Auto-Lock" value="자동 잠금 비활성화"/>
+  <s key="Keep display on if your device is plugged in or battery is above 25%." value="장치가 플러그인되어 있거나 배터리가 25% 이상인 경우, 표시를 유지할 수 있습니다."/>
+  <s key="More" value="기타"/>
+  <s key="Parallax effect" value="시차효과"/>
+  <s key="An illusion of 3D space when you tilt the device" value="장치를 기울일 경우 3D 공간 오해"/>
+  <s key="Temperature in Status Bar" value="상태 표시줄에서의 온도"/>
+  <s key="Show temperature for &quot;Home&quot; location" value="&quot;홈&quot; 위치에 대해 온도 보기"/>
+  <s key="Not enough free space." value="무료 공간이 충분하지 않습니다."/>
+  <s key="YoWindow may run unstable." value="YoWindow가 불안정적으로 실행될 수 있습니다."/>
+  <s key="{0} MB minimum required." value="최소 {0} MB가 필요합니다."/>
+  <s key="YoWindow Weather" value="YoWindow 날씨"/>
+  <s key="YoWindow Zero" value="YoWindow 제로"/>
+  <s key="Get Full Version" value="전체 버전 얻기"/>
+  <s key="No ads, no limitations, all landscapes available" value="광고 없음, 제한 없음, 모든 풍경 사용 가능"/>
+  <s key="No advertising" value="광고 없음"/>
+  <s key="Remove ads" value="광고 제거"/>
+  <s key="Weather forecast is limited" value="일기 예보가 제한됨"/>
+  <s key="Demo" value="데모"/>
+  <s key="&quot;{0}&quot; Landscape access is limited." value="&quot;{0}&quot; 풍경 액세스가 제한됩니다."/>
+  <s key="Connecting to {0}" value="{0}(으)로 연결 중"/>
+  <s key="Camera" value="카메라"/>
+  <s key="Photos" value="사진"/>
+  <s key="Wallpaper" value="배경 화면"/>
+  <s key="Enable animations" value="애니메이션 활성화"/>
+  <s key="Show weather" value="날씨 보기"/>
+  <s key="No animation - almost no battery power consumed." value="애니메이션 없음 - 소비된 배터리 전원이 거의 없습니다."/>
+  <s key="Widget Settings" value="위젯 설정"/>
+  <s key="Create Widget" value="위젯 만들기"/>
+  <s key="Tap to search for a location" value="눌러서 위치에 대해 검색"/>
+  <s key="Show background" value="배경 보기"/>
+  <s key="Move On Top" value="상단으로 이동"/>
+  <s key="Uninstall &quot;YoWindow Free&quot;" value=" &quot;YoWindow 무료&quot; 제거"/>
+  <s key="You have both Full and Free editions of YoWindow installed." value="YoWindow의 전체 및 무료 버전 모두가 설치되어 있습니다."/>
+  <s key="Please, uninstall YoWindow Free, to avoid the confusion." value="YoWindow 무료를 제거하여 혼란을 피하십시오."/>
+  <s key="Add YoWindow widgets - watch the weather forecast with comfort" value="YoWindow 위젯 추가 - 편안하게 일기 예보 감상"/>
+  <s key="Tap to continue" value="눌러서 계속"/>
+  <s key="YoWindow installed on an external storage." value="외부 저장소에 YoWindow를 설치했습니다."/>
+  <s key="WARNING: YoWindow Wallpaper and Widgets may NOT be available when YoWindow is installed on an external storage (SD card)." value="경고: YoWindow가 외부 저장소(SD 카드)에 설치되어 있는 경우, YoWindow 배경 화면 및 위젯은 사용할 수 없습니다."/>
+  <s key="Location Search" value="위치 검색"/>
+  <s key="Redeem code" value="코드 사용"/>
+  <s key="Full Version privilege granted." value="전체 버전 권한을 부여합니다."/>
+  <s key="Advertising removed, no limitations." value="광고가 제거되고, 제한이 없습니다."/>
+  <s key="Unexpected code" value="예기치 않은 코드"/>
+  <s key="Restore privileges" value="권한 복원"/>
+  <s key="Set As Wallpaper" value="배경 화면으로 설정"/>
+  <s key="Post" value="게시"/>
+  <s key="Enter the message" value="메시지 입력"/>
+  <s key="Fill in the weather" value="날씨에 기입"/>
+  <s key="You just have posted to Facebook!" value="Facebook에 게시했습니다!"/>
+  <s key="Set As Daydream" value="백일몽으로 설정"/>
+  <s key="Daydream" value="백일몽"/>
+  <s key="Night mode" value="나이트 모드"/>
+  <s key="Very dim display (for dark rooms)" value="매우 어둡게 표시(어두운 방 전용)"/>
+  <s key="Send report" value="신고 전송"/>
+  <s key="Are you sure to set {0} as home?" value="홈으로 {0}(을)를 설정하시겠습니까?"/>
+  <s key="Clock" value="시계"/>
+  <s key="Display pressure for" value="다음의 기압 표시:"/>
+  <s key="Sea level" value="해수면"/>
+  <s key="Location level" value="위치 레벨"/>
+  <s key="YoWindow requires a permission to store an image file before sharing it." value="YoWindow는 이를 공유하기 전에 이미지 파일을 저장할 권한이 필요합니다."/>
+  <s key="Notification" value="알림"/>
+  <s key="Show Notifications" value="알림 표시"/>
+  <s key="Show on Lock Screen" value="잠금 화면에서 표시"/>
+  <s key="Centered" value="가운데 맞춤"/>
+  <s key="Alarm Clock" value="알람 시계"/>
+  <s key="Wake up with YoWindow" value="YoWindow로 기상"/>
+  <s key="Silence" value="소리 없음"/>
+  <s key="Snooze" value="스누즈"/>
+  <s key="Dismiss" value="해제"/>
+  <s key="Wake up to the sounds of YoWindow" value="YoWindow의 사운드로 기상"/>
+  <s key="Warning" value="경고"/>
+  <s key="Weather station" value="기상 관측소"/>
+  <s key="Private Weather Stations may not be reliable." value="개인 기상 관측소를 믿을 수 없습니다."/>
+  <s key="Do you really want to receive the weather from &quot;{0}&quot;?" value="&quot;{0}&quot;에서 날씨 정보를 수신하시겠습나까?"/>
+  <s key="Do you really want to override the season for {0}?" value="{0}에 대한 계절을 덮어쓰시겠습니까?"/>
+  <s key="We recommend" value="저희의 추천"/>
+  <s key="Report issue" value="신고 문제"/>
+  <s key="Never" value="절대 아님"/>
+  <s key="Rate YoWindow" value="YoWindow 평가"/>
+  <s key="Thank you!" value="감사합니다!"/>
+  <s key="Send mail" value="메일 전송"/>
+  <s key="YoWindow Report" value="YoWindow 신고"/>
+  <s key="What exactly went wrong?" value="정확히 무엇이 잘못되었습니까?"/>
+  <s key="We need a maximum of details." value="저희는 최대한 자세한 정보가 필요합니다."/>
+  <s key="Dark glass" value="어두운 유리"/>
+  <s key="App icons are easy to see" value="앱 아이콘을 보기 쉬움"/>
+  <s key="To hide weather information, drag it upwards" value="날씨 정보를 숨기려면, 이를 위로 드래그하십시오."/>
+  <s key="Tap the temperature to reveal weather information" value="온도를 눌러 날씨 정보를 확인하십시오."/>
+  <s key="Nothing was found for &quot;{0}&quot;" value="&quot;{0}&quot;에 대한 검색 결과를 찾을 수 없습니다."/>
+  <s key="Click to try again." value="클릭하여 다시 시도하십시오."/>
+  <s key="Update" value="업데이트"/>
+  <s key="You need to update YoWindow" value="YoWindow를 업데이트해야 합니다."/>
+  <s key="Radar" value="레이더"/>
+  <s key="Enjoy the weather" value="날씨를 즐기십시오."/>
+  <s key="New landscape" value="새로운 풍경"/>
+  <s key="Americana" value="아메리카나"/>
+  <s key="If you erase the sky, we can replace it with the live sky of YoWindow."/>
+  <s key="Crop"/>
+  <s key="Pinch to zoom"/>
+  <s key="Horizon Level"/>
+  <s key="Set horizon level"/>
+  <s key="Step {0}."/>
+  <s key="Erase the sky"/>
+  <s key="Tap the sky to select a portion of it"/>
+  <s key="Erase"/>
+  <s key="Recover"/>
+  <s key="Use Red marker to erase the sky."/>
+  <s key="Use Blue marker to recover."/>
+  <s key="Drag over the sky to erase it."/>
+  <s key="I give my permission to include this landscape inside YoWindow collection"/>
+  <s key="Photo author"/>
+  <s key="Landscape author"/>
+  <s key="Your changes will be lost"/>
+</body>

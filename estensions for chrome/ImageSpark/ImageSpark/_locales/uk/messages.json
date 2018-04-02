@@ -1,0 +1,54 @@
+{
+   "download_button_value": {
+      "description": "The field of download button value.",
+      "message": "ЗАВАНТАЖИТИ"
+   },
+   "download_image_button_title": {
+      "description": "The field of download image button title.",
+      "message": "Завантажити"
+   },
+   "extension_default_title": {
+      "description": "The default title of extension",
+      "message": "ImageSpark"
+   },
+   "extension_description": {
+      "description": "The field of extension description.",
+      "message": "Найкращий завантажувач зображень, який дозволяє переглядати і завантажувати усі зображення, які відображаються на будь-який веб-сторінці."
+   },
+   "extension_name": {
+      "description": "The field of extension name.",
+      "message": "ImageSpark - Найкращий Завантажувач Зображень"
+   },
+   "extension_short_name": {
+      "description": "The field of short extension name.",
+      "message": "ImageSpark"
+   },
+   "loading_error": {
+      "description": "The field of loading error.",
+      "message": "\nОй-ой, ця веб-сторінка не підтримується! Будь ласка, спробуйте обрати іншу веб-сторінку.\n\u003Cbr>\n\u003Cbr>\nЯкщо проблема залишаеться, будь ласка, переконайтеся, що Javascript включений і спробуйте знову.\n"
+   },
+   "loading_message": {
+      "description": "The field of loading message.",
+      "message": "завантаження"
+   },
+   "open_folder_button_title": {
+      "description": "The field of open folder button title.",
+      "message": "Відкрити папку"
+   },
+   "open_image_button_title": {
+      "description": "The field of open image button title.",
+      "message": "Відкрити в новій вкладці"
+   },
+   "select_all_checkbox": {
+      "description": "The field of select all checkbox.",
+      "message": "Обрати все"
+   },
+   "subfolder_placeholder": {
+      "description": "The field of subfolder placeholder.",
+      "message": "ЗБЕРЕГТИ В ПІДПАПКУ"
+   },
+   "subfolder_title": {
+      "description": "The field of subfolder title.",
+      "message": "Встановити ім'я вкладеної папки в яку ви хочете завантажувати зображення."
+   }
+}
