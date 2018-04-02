@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+sitemap: https://extensions.ml/sitemap.xml
+Host: https://extensions.ml
